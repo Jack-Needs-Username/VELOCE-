@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Veloce | Enthusiast Car Companion</title>
+    <link rel="preconnect" href="https://en.wikipedia.org" />
+    <link rel="preconnect" href="https://upload.wikimedia.org" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav">
+        <a class="brand" href="#top" aria-label="Veloce home">Veloce</a>
+        <div class="nav-links" aria-label="Primary navigation">
+          <a href="#digest">Digest</a>
+          <a href="#market">Market</a>
+          <a href="#explore">Explore</a>
+          <a href="#method">Trust</a>
+        </div>
+      </nav>
+    </header>
+
+    <main id="top">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow">Collector car intelligence without fake listings, fake photos, or made-up values.</p>
+          <h1>Choose the kind of car owner you want to become.</h1>
+          <p>
+            Veloce combines sourced enthusiast news, model-level market context, and honest ownership notes for classic,
+            collector, and special cars.
+          </p>
+          <div class="hero-actions">
+            <a class="button primary" href="#digest">Read the digest</a>
+            <a class="button secondary" href="#explore">Explore 25 models</a>
+          </div>
+        </div>
+        <aside class="hero-panel" aria-label="Veloce trust rules">
+          <span class="panel-kicker">V1 data policy</span>
+          <ul>
+            <li>Model-level only, never chassis-level.</li>
+            <li>Photos come from real published sources.</li>
+            <li>Claims link to citations or stay clearly editorial.</li>
+            <li>Values point to market sources instead of invented comps.</li>
+          </ul>
+        </aside>
+      </section>
+
+      <section id="digest" class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Today in enthusiast cars</p>
+          <h2>Digest</h2>
+          <p>Curated real links from publications, manufacturers, and auction houses.</p>
+        </div>
+        <div id="digestGrid" class="digest-grid"></div>
+      </section>
+
+      <section id="market" class="section dark-band">
+        <div class="section-heading">
+          <p class="eyebrow">Market pulse</p>
+          <h2>Where to verify prices and listings</h2>
+          <p>Veloce does not invent valuations. It routes users to model-level marketplace sources.</p>
+        </div>
+        <div id="marketGrid" class="market-grid"></div>
+      </section>
+
+      <section class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Ownership styles</p>
+          <h2>Pick a lane, then compare cars</h2>
+        </div>
+        <div id="laneGrid" class="lane-grid"></div>
+      </section>
+
+      <section id="explore" class="section explorer">
+        <div class="section-heading">
+          <p class="eyebrow">Model explorer</p>
+          <h2>25 sourced profiles</h2>
+          <p>Search and filter by category, region, era, budget band, body style, and ownership vibe.</p>
+        </div>
+        <div class="toolbar">
+          <label class="search-label">
+            <span>Search</span>
+            <input id="searchInput" type="search" placeholder="Porsche, JDM, manual, analog..." />
+          </label>
+          <div class="filters" id="filters"></div>
+        </div>
+        <p id="resultCount" class="result-count"></p>
+        <div id="carGrid" class="car-grid"></div>
+      </section>
+
+      <section id="method" class="section method">
+        <div class="section-heading">
+          <p class="eyebrow">Trust model</p>
+          <h2>What Veloce will and will not claim</h2>
+        </div>
+        <div class="method-grid">
+          <article>
+            <h3>Verified facts</h3>
+            <p>Production years, engine layout, drivetrain, body style, and historical context are tied to citations.</p>
+          </article>
+          <article>
+            <h3>Editorial guidance</h3>
+            <p>Ownership notes explain the likely owner fit, maintenance posture, and driving use case without pretending to be a price guide.</p>
+          </article>
+          <article>
+            <h3>Market context</h3>
+            <p>Marketplace links lead to Classic.com, Hemmings, Bring a Trailer, and ClassicCars.com for current listings and comps.</p>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <dialog id="profileDialog" class="profile-dialog" aria-labelledby="dialogTitle">
+      <button class="close-button" id="closeDialog" aria-label="Close profile">×</button>
+      <div id="profileContent"></div>
+    </dialog>
+
+    <footer class="footer">
+      <p>Veloce is a class-project prototype built around sourced, model-level enthusiast research.</p>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>
