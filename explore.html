@@ -1,0 +1,68 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Model Library | Veloce</title>
+    <link rel="preconnect" href="https://en.wikipedia.org" />
+    <link rel="preconnect" href="https://upload.wikimedia.org" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="explore" data-requires-path="true">
+    <header class="site-header">
+      <nav class="nav">
+        <a class="brand" href="index.html" aria-label="Veloce home">
+          <img src="assets/brand/veloce-logo.png" alt="" />
+          <span>Veloce</span>
+        </a>
+        <div class="nav-links" aria-label="Primary navigation">
+          <a href="garage.html">My Garage</a>
+          <a href="explore.html">Model Library</a>
+          <a href="digest.html">Digest</a>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <section class="subpage-hero">
+        <p class="eyebrow">Model library</p>
+        <h1>The collector car library.</h1>
+        <p>Search, filter, and sort Veloce’s canonical model-level profiles.</p>
+      </section>
+      <section class="section explorer">
+        <div id="exploreTabs" class="filter-tabs"></div>
+        <div class="toolbar">
+          <label class="search-label">
+            <span>Search</span>
+            <input id="searchInput" type="search" placeholder="Porsche, JDM, manual, analog, Germany..." />
+          </label>
+          <label class="search-label">
+            <span>Sort</span>
+            <select id="sortSelect">
+              <option value="editorial">Curated editorial</option>
+              <option value="recent">Recently added</option>
+              <option value="az">A-Z</option>
+              <option value="market">Market tier</option>
+              <option value="era">Era</option>
+              <option value="relevance">Most relevant to profile</option>
+            </select>
+          </label>
+          <div class="filters" id="filters"></div>
+        </div>
+        <p id="resultCount" class="result-count"></p>
+        <div id="carGrid" class="car-grid"></div>
+      </section>
+    </main>
+    <dialog id="profileDialog" class="profile-dialog" aria-labelledby="dialogTitle">
+      <button class="close-button" id="closeDialog" aria-label="Close profile">×</button>
+      <div id="profileContent"></div>
+    </dialog>
+    <footer class="footer">
+      <p>Open profiles to study model context, citations, and ownership notes.</p>
+    </footer>
+    <script src="image-data.js"></script>
+    <script src="image-sources.js"></script>
+    <script src="vehicleLibrary.js"></script>
+    <script src="vehicle-videos.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

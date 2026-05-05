@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Collector Briefing | Veloce</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="digest" data-requires-path="true">
+    <header class="site-header">
+      <nav class="nav">
+        <a class="brand" href="index.html" aria-label="Veloce home">
+          <img src="assets/brand/veloce-logo.png" alt="" />
+          <span>Veloce</span>
+        </a>
+        <div class="nav-links" aria-label="Primary navigation">
+          <a href="garage.html">My Garage</a>
+          <a href="explore.html">Model Library</a>
+          <a href="digest.html">Digest</a>
+        </div>
+      </nav>
+    </header>
+
+    <main>
+      <section class="subpage-hero intelligence-hero">
+        <div class="digest-hero-copy">
+          <p class="eyebrow">Collector briefing</p>
+          <h1>Your personalized market digest.</h1>
+          <p>
+            News, auction results, new listings, and editorial signals connected back to your saved garage and adjacent
+            collector categories.
+          </p>
+        </div>
+        <aside id="digestGarageCarousel" class="digest-garage-carousel" aria-live="polite"></aside>
+      </section>
+
+      <section class="section digest-priority-section">
+        <div class="section-heading">
+          <p class="eyebrow">Saved car updates</p>
+          <h2>What your garage should pay attention to</h2>
+        </div>
+        <div id="savedCarUpdatesGrid" class="saved-updates-grid"></div>
+      </section>
+
+      <section id="digestEmptyState" class="section empty-intel-state"></section>
+
+      <div id="briefingGrid" hidden></div>
+
+      <section id="collectorDigest" class="section dark-band">
+        <div class="section-heading split-heading collector-digest-heading">
+          <div>
+            <p class="eyebrow">Source briefing</p>
+            <h2 id="digestBriefingTitle">Collector Digest</h2>
+          </div>
+          <div class="source-control-panel">
+            <p id="digestPersonalizationNote"></p>
+            <button id="refreshDigestSources" class="button secondary" type="button">Refresh sources</button>
+          </div>
+        </div>
+        <div id="digestTabs" class="filter-tabs"></div>
+        <div id="digestFeedGrid" class="digest-feed-grid"></div>
+      </section>
+
+      <section class="section">
+        <div class="section-heading">
+          <p class="eyebrow">Deep dives</p>
+          <h2>Editorial intelligence modules</h2>
+        </div>
+        <div id="deepDiveGrid" class="deep-dive-grid"></div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Veloce turns external signals into garage-aware collector context.</p>
+    </footer>
+
+    <script src="image-data.js"></script>
+    <script src="image-sources.js"></script>
+    <script src="vehicleLibrary.js"></script>
+    <script src="app.js"></script>
+    <script src="src/services/sources/sourceCore.js"></script>
+    <script src="src/services/sources/sourceAdapters.js"></script>
+    <script src="src/services/personalization/matching.js"></script>
+    <script src="src/services/digest/digestService.js"></script>
+    <script src="src/services/auctions/auctionService.js"></script>
+    <script src="intelligence.js"></script>
+  </body>
+</html>

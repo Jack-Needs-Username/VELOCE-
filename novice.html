@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Guided Setup | Veloce</title>
+    <link rel="preconnect" href="https://en.wikipedia.org" />
+    <link rel="preconnect" href="https://upload.wikimedia.org" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="novice" data-requires-path="true">
+    <header class="site-header">
+      <nav class="nav">
+        <a class="brand" href="index.html" aria-label="Veloce home">
+          <img src="assets/brand/veloce-logo.png" alt="" />
+          <span>Veloce</span>
+        </a>
+        <div class="nav-links" aria-label="Primary navigation">
+          <a href="garage.html">My Garage</a>
+          <a href="explore.html">Model Library</a>
+          <a href="digest.html">Digest</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="onboarding-page">
+      <section class="onboarding-shell" aria-live="polite">
+        <div class="onboarding-status">
+          <p class="eyebrow">Guided profile</p>
+          <div class="progress-track" aria-label="Onboarding progress">
+            <span id="onboardingProgressBar"></span>
+          </div>
+          <p id="onboardingStepLabel" class="step-count"></p>
+        </div>
+        <div id="onboardingStep" class="onboarding-step"></div>
+        <div class="onboarding-controls">
+          <button id="onboardingBack" class="button secondary" type="button">Back</button>
+          <button id="onboardingSkip" class="button secondary" type="button">Skip</button>
+          <button id="onboardingNext" class="button primary" type="button">Next</button>
+        </div>
+      </section>
+    </main>
+
+    <footer class="footer">
+      <p>Veloce stores this prototype profile in your browser for the class-project demo.</p>
+    </footer>
+
+    <script src="image-data.js"></script>
+    <script src="image-sources.js"></script>
+    <script src="vehicleLibrary.js"></script>
+    <script src="vehicle-videos.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>

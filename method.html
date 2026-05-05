@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Research Method | Veloce</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body data-page="method" data-requires-path="true">
+    <header class="site-header">
+      <nav class="nav">
+        <a class="brand" href="index.html" aria-label="Veloce home">
+          <img src="assets/brand/veloce-logo.png" alt="" />
+          <span>Veloce</span>
+        </a>
+        <div class="nav-links" aria-label="Primary navigation">
+          <a href="garage.html">My Garage</a>
+          <a href="explore.html">Model Library</a>
+          <a href="digest.html">Digest</a>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <section class="subpage-hero">
+        <p class="eyebrow">Research method</p>
+        <h1>How Veloce teaches car ownership.</h1>
+        <p>Veloce separates profile learning, model facts, editorial guidance, and market context so users know what kind of information they are reading.</p>
+      </section>
+      <section class="section">
+        <div class="method-grid">
+          <article>
+            <h3>Verified facts</h3>
+            <p>Production years, engine layout, drivetrain, body style, and historical context are tied to citations.</p>
+          </article>
+          <article>
+            <h3>Editorial guidance</h3>
+            <p>Ownership notes explain the likely owner fit, maintenance posture, and driving use case as editorial context.</p>
+          </article>
+          <article>
+            <h3>Market context</h3>
+            <p>Marketplace links lead to Classic.com, Hemmings, Bring a Trailer, and ClassicCars.com for current listings and comps.</p>
+          </article>
+        </div>
+      </section>
+      <section class="section dark-band">
+        <div class="section-heading">
+          <p class="eyebrow">Source refresh</p>
+          <h2>How Digest stays current.</h2>
+          <p>
+            Digest reads from approved RSS/source adapters and a static cache in <code>data/digest-cache.json</code>.
+            Users can refresh sources in-browser for the current session; the deployed GitHub Pages cache is refreshed
+            by the scheduled workflow in <code>.github/workflows/refresh-real-data-cache.yml</code>.
+          </p>
+        </div>
+      </section>
+      <section class="section dark-band">
+        <div class="section-heading">
+          <p class="eyebrow">Vehicle matching</p>
+          <h2>New cars automatically enter Digest matching.</h2>
+          <p>
+            Digest does not store fixed car/article pairings. It compares real article headlines, excerpts, tags, and
+            source text against the canonical vehicle library, including make, model, display name, aliases, categories,
+            tags, related models, and the user's saved Garage.
+          </p>
+        </div>
+      </section>
+      <section class="section dark-band">
+        <div class="section-heading">
+          <p class="eyebrow">Why no Firebase yet</p>
+          <h2>Local storage is enough for this build.</h2>
+          <p>
+            The current prototype stores favorites and garage saves in the browser. Firebase should come when the app
+            needs real cross-device accounts, shared garages, or authenticated event recommendations.
+          </p>
+        </div>
+      </section>
+    </main>
+    <footer class="footer">
+      <p>Veloce is designed to grow into account-based profiles later.</p>
+    </footer>
+  </body>
+</html>
