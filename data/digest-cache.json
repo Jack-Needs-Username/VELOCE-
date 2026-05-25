@@ -1,7 +1,82 @@
 {
-  "generatedAt": "2026-05-24T14:02:51Z",
+  "generatedAt": "2026-05-25T15:30:08Z",
   "sourceType": "rss-cache",
   "items": [
+    {
+      "id": "motor1-www-motor1-com-news-796820-ferrari-luce-livestream-debut",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/796820/ferrari-luce-livestream-debut/",
+      "headline": "The Electric Ferrari Luce Debuts Today: See The Livestream",
+      "author": "",
+      "publishedAt": "2026-05-25T08:10:54+00:00",
+      "fetchedAt": "2026-05-25T15:30:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/BXYE8e/s3/ferrari-luce-totale-volante.jpg",
+      "excerpt": "The livestream starts at 4:10 PM Eastern Time (10:10 PM CEST).",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "The Electric Ferrari Luce Debuts Today: See The Livestream The livestream starts at 4:10 PM Eastern Time (10:10 PM CEST). News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-796814-bmw-m3-2027-last-model-year",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/796814/bmw-m3-2027-last-model-year/",
+      "headline": "BMW M3 Faces The End: 2027 Is The Final Model Year",
+      "author": "",
+      "publishedAt": "2026-05-25T06:47:14+00:00",
+      "fetchedAt": "2026-05-25T15:30:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/YAzNzl/s3/2027-bmw-m3-cs-handschalter.jpg",
+      "excerpt": "The current-generation M3 is not long for this world, but don't worry; a replacement is coming.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "BMW M3 Faces The End: 2027 Is The Final Model Year The current-generation M3 is not long for this world, but don't worry; a replacement is coming. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-796765-new-alfa-romeo-giulia-stelvio",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/796765/new-alfa-romeo-giulia-stelvio/",
+      "headline": "The New Alfa Romeo Giulia And Stelvio Are Coming—Just Not Anytime Soon",
+      "author": "",
+      "publishedAt": "2026-05-24T16:00:00+00:00",
+      "fetchedAt": "2026-05-25T15:30:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/nAl16o/s3/alfa-romeo-giulia-pack-performance-2026.jpg",
+      "excerpt": "Alfa Romeo clarified that the Giulia and Stelvio both have futures, but we won't see the new models anytime soon.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "The New Alfa Romeo Giulia And Stelvio Are Coming—Just Not Anytime Soon Alfa Romeo clarified that the Giulia and Stelvio both have futures, but we won't see the new models anytime soon. News"
+    },
     {
       "id": "motor1-www-motor1-com-news-796760-ford-europe-fiesta-interview",
       "source": "Motor1",
@@ -9,7 +84,7 @@
       "headline": "'We Have To Pay The Bills:' Ford Explains Why The Fiesta Had To Die In Europe",
       "author": "",
       "publishedAt": "2026-05-23T16:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/qkYOey/s3/ford-fiesta-st-europe.jpg",
       "excerpt": "Motor1 spoke with Christian Weingaertner, head of Ford’s car division in Europe, to understand what to expect from future models",
       "fullTextAvailable": false,
@@ -34,7 +109,7 @@
       "headline": "Honda Recalls 60,000 SUVs For Backup Camera Issues",
       "author": "",
       "publishedAt": "2026-05-23T13:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/rKJ1lY/s3/2024-honda-porlogue.jpg",
       "excerpt": "Moisture intrusion into the rearview camera housing can cause corrosion and result in a blank screen.  ",
       "fullTextAvailable": false,
@@ -59,7 +134,7 @@
       "headline": "Bad News: A Honda Prelude Type R Isn't Happening",
       "author": "",
       "publishedAt": "2026-05-22T21:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/vx0lVb/s3/2026-honda-prelude-pricing.jpg",
       "excerpt": "Developing a proper Prelude Type R would require ‘hundreds of millions of dollars’ in investment.",
       "fullTextAvailable": false,
@@ -84,7 +159,7 @@
       "headline": "These Drivers Are Getting Hit Hardest By Fuel Costs: Study",
       "author": "",
       "publishedAt": "2026-05-22T18:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/1ZwgWM/s3/rising-gas-prices.jpg",
       "excerpt": "Some Toyota and Chevrolet owners are paying way more than others at the pump.",
       "fullTextAvailable": false,
@@ -109,7 +184,7 @@
       "headline": "Chrysler Will Launch Two Sub-$30,000 SUVs",
       "author": "",
       "publishedAt": "2026-05-22T19:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/nAX1q1/s3/chrysler-airflow-concept.jpg",
       "excerpt": "It appears Chrysler will soon offer a pair of affordable crossovers called the Arrow and Arrow Cross.",
       "fullTextAvailable": false,
@@ -134,7 +209,7 @@
       "headline": "'We Will Do Buttons:' Polestar Promises More Physical Controls In Future Models",
       "author": "",
       "publishedAt": "2026-05-22T17:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/rKJ1jO/s3/polestar-3-interior.jpg",
       "excerpt": "Polestar CEO Michael Lohscheller says that customer demand is forcing the company to rethink its touchscreen-heavy strategy.",
       "fullTextAvailable": false,
@@ -159,7 +234,7 @@
       "headline": "Dodge Is Working On A Viper Replacement With A Different Snake Name",
       "author": "",
       "publishedAt": "2026-05-22T16:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/ZnzLwz/s3/dodge-viper.jpg",
       "excerpt": "The new halo car will be called the Copperhead—and it appears to be based on the Charger.  ",
       "fullTextAvailable": false,
@@ -184,7 +259,7 @@
       "headline": "Toyota's Truck Engine Recall Just Expanded",
       "author": "",
       "publishedAt": "2026-05-22T13:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/W8KeK3/s3/2024-toyota-tundra.jpg",
       "excerpt": "Toyota's twin-turbocharged V6 engine has been a pain point since 2024, and now more vehicles have been added to the list.",
       "fullTextAvailable": false,
@@ -209,7 +284,7 @@
       "headline": "The Reborn Citroën 2CV Will 'Make Mobility Accessible To All'",
       "author": "",
       "publishedAt": "2026-05-22T10:14:03+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/ZnzL6e/s3/new-citroen-2cv-teaser.jpg",
       "excerpt": "The legendary name returns in October at the Paris Motor Show.",
       "fullTextAvailable": false,
@@ -234,7 +309,7 @@
       "headline": "Stellantis Is Turning Lancia Into A Specialty Brand",
       "author": "",
       "publishedAt": "2026-05-22T08:28:57+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/8A3V73/s3/lancia-logo.jpg",
       "excerpt": "Going forward, Lancia will be managed by Fiat.",
       "fullTextAvailable": false,
@@ -259,7 +334,7 @@
       "headline": "Alfa Romeo Teases A New Special Car",
       "author": "",
       "publishedAt": "2026-05-22T07:19:30+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/Kbgwo1/s3/alfa-romeo-future-models-teaser.jpg",
       "excerpt": "A compact crossover is also in the works.",
       "fullTextAvailable": false,
@@ -284,7 +359,7 @@
       "headline": "Maserati Isn't Going Anywhere—Two New Models Are On The Way",
       "author": "",
       "publishedAt": "2026-05-21T21:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/W8qNeO/s3/maserati-mcpura-cielo---emozionale.jpg",
       "excerpt": "Maserati will reveal a more detailed roadmap for the Italian luxury brand in December.  ",
       "fullTextAvailable": false,
@@ -309,7 +384,7 @@
       "headline": "Chrysler, Dodge, And Ram Have 9 New Models Coming By 2030. Here's All Of Them",
       "author": "",
       "publishedAt": "2026-05-21T19:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/Qe7wGB/s3/dodge-future-models-2030.jpg",
       "excerpt": "Chrysler has three new SUVs, while Dodge might be planning a halo SRT model. Here's what we know.",
       "fullTextAvailable": false,
@@ -334,7 +409,7 @@
       "headline": "Audi's Futuristic Headlights Are Finally Coming To America",
       "author": "",
       "publishedAt": "2026-05-21T17:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/ZnzLzN/s3/audi-s3-sportback-with-matrix-led-headlights.jpg",
       "excerpt": "The Matrix LED technology launches later this year on the 2027 Q9.  ",
       "fullTextAvailable": false,
@@ -359,7 +434,7 @@
       "headline": "Stellantis Has A Plan: Seven New Cars Under $40,000",
       "author": "",
       "publishedAt": "2026-05-21T14:30:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/BXZVy6/s3/ram-teaser.jpg",
       "excerpt": "The automaker plans to launch 11 new vehicles in North America, with a big emphasis on Chrysler locally.",
       "fullTextAvailable": false,
@@ -384,7 +459,7 @@
       "headline": "AMG's CEO Has A Plan To Get People Excited About EVs: 'You Need To Drive It'",
       "author": "",
       "publishedAt": "2026-05-21T13:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/W8KvBN/s3/mercedes-amg-ceo-interview.jpg",
       "excerpt": "Motor1 sat down with Mercedes-AMG CEO Michael Schiebe, who thinks he's cracked the code on selling electric performance cars.",
       "fullTextAvailable": false,
@@ -409,7 +484,7 @@
       "headline": "Suzuki Thinks It Will Outsell Honda For The First Time Ever",
       "author": "",
       "publishedAt": "2026-05-21T10:16:06+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/YAgGer/s3/suzuki-jimny-horizon-2024.jpg",
       "excerpt": "Suzuki is confident it can grab the title of Japan's second-largest automaker.",
       "fullTextAvailable": false,
@@ -428,88 +503,13 @@
       "rawText": "Suzuki Thinks It Will Outsell Honda For The First Time Ever Suzuki is confident it can grab the title of Japan's second-largest automaker. News"
     },
     {
-      "id": "motor1-www-motor1-com-news-796514-ford-will-not-sell-toasters-on-wheels",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/796514/ford-will-not-sell-toasters-on-wheels/",
-      "headline": "Don't Worry: Ford Won't Sell 'Toasters On Wheels' In Europe",
-      "author": "",
-      "publishedAt": "2026-05-21T07:32:30+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/1ZwWep/s3/2029-ford-of-europe-lineup-teaser.jpg",
-      "excerpt": "Five new models are launching on the continent this decade, including a Euro-specific Bronco.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Don't Worry: Ford Won't Sell 'Toasters On Wheels' In Europe Five new models are launching on the continent this decade, including a Euro-specific Bronco. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-796508-baby-mercedes-g-class-gas-engines",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/796508/baby-mercedes-g-class-gas-engines/",
-      "headline": "Dealers Convinced Mercedes To Put Gas Engines In The Baby G-Class",
-      "author": "",
-      "publishedAt": "2026-05-21T06:06:15+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/KbMP8G/s3/mercedes-benz-baby-g-class-rendering-by-motor1.jpg",
-      "excerpt": "The 'Little G' was supposed to be electric-only, but American dealers pushed back.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Dealers Convinced Mercedes To Put Gas Engines In The Baby G-Class The 'Little G' was supposed to be electric-only, but American dealers pushed back. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-796499-audi-a2-e-tron-testing-prototype",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/796499/audi-a2-e-tron-testing-prototype/",
-      "headline": "Audi's Weirdest Car Is Back On The Road Again: Video",
-      "author": "",
-      "publishedAt": "2026-05-20T21:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/NGPwZj/s3/audi-a2-e-tron-prototype-testing.jpg",
-      "excerpt": "Before the new Audi A2 E-Tron debuts later this year, the company is testing its first prototypes.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Audi's Weirdest Car Is Back On The Road Again: Video Before the new Audi A2 E-Tron debuts later this year, the company is testing its first prototypes. News"
-    },
-    {
       "id": "motor1-all-articles-www-motor1-com-features-453112-future-cars",
       "source": "Motor1 All Articles",
       "sourceUrl": "https://www.motor1.com/features/453112/future-cars/",
       "headline": "50 Future Cars Worth Waiting For: 2026-2030",
       "author": "",
       "publishedAt": "2021-03-23T20:17:45+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/lElevw/s3/future-cars-2026-2030.jpg",
       "excerpt": "From hybrids to hypercars—these 50 vehicles are destined to shape the auto industry for the next five years.",
       "fullTextAvailable": false,
@@ -529,13 +529,63 @@
       "rawText": "50 Future Cars Worth Waiting For: 2026-2030 From hybrids to hypercars—these 50 vehicles are destined to shape the auto industry for the next five years. News Long Reads"
     },
     {
+      "id": "car-and-driver-www-caranddriver-com-news-a71388309-bugatti-veyron-configurator-custom-spec",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a71388309/bugatti-veyron-configurator-custom-spec/",
+      "headline": "Elana Scherr Designed Her Perfect Bugatti Veyron with New Configurator",
+      "author": "",
+      "publishedAt": "2026-05-25T13:00:00+00:00",
+      "fetchedAt": "2026-05-25T15:30:08Z",
+      "imageUrl": "",
+      "excerpt": "Veyron owners can redo their cars with modern trends or to match new Tourbillon purchases. Oh, and she also got to drive a Super Sport.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Elana Scherr Designed Her Perfect Bugatti Veyron with New Configurator Veyron owners can redo their cars with modern trends or to match new Tourbillon purchases. Oh, and she also got to drive a Super Sport. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a71377408-1959-studebaker-lark-wagon-bring-a-trailer-auction",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a71377408/1959-studebaker-lark-wagon-bring-a-trailer-auction/",
+      "headline": "1959 Studebaker Lark Wagon on Bring a Trailer Is for Those Who Don't Follow the Crowd",
+      "author": "",
+      "publishedAt": "2026-05-24T15:00:00+00:00",
+      "fetchedAt": "2026-05-25T15:30:08Z",
+      "imageUrl": "",
+      "excerpt": "When everybody is driving a gray-scale SUV, it takes a determined individualist to rock a pink station wagon.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "1959 Studebaker Lark Wagon on Bring a Trailer Is for Those Who Don't Follow the Crowd When everybody is driving a gray-scale SUV, it takes a determined individualist to rock a pink station wagon. News"
+    },
+    {
       "id": "car-and-driver-www-caranddriver-com-news-a71377290-honda-accord-50-years-old-merchandise",
       "source": "Car and Driver",
       "sourceUrl": "https://www.caranddriver.com/news/a71377290/honda-accord-50-years-old-merchandise/",
       "headline": "Honda Honors the 50-Year-Old Accord with Merch for Fans Like Us",
       "author": "",
       "publishedAt": "2026-05-24T13:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "In Japan, at least, Car and Driver's unofficial mascot and iconic family sedan gets a museum display and special merchandise items.",
       "fullTextAvailable": false,
@@ -560,7 +610,7 @@
       "headline": "Watch Oscar Mayer's Second Annual Wienie 500 Ahead of the Indy 500",
       "author": "",
       "publishedAt": "2026-05-23T22:37:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "While fans are craving that Indy 500 magic, the Brickyard traded its Indy 500 racers for six huge wieners on wheels, which raced twice around the famous track.",
       "fullTextAvailable": false,
@@ -585,7 +635,7 @@
       "headline": "2004 Dodge Ram SRT-10 on Bring a Trailer Has Two Things Ram's New Rumble Bees Don't",
       "author": "",
       "publishedAt": "2026-05-23T15:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "A V-10 engine and a six-speed manual can't be had in Ram's new sport trucks.",
       "fullTextAvailable": false,
@@ -610,7 +660,7 @@
       "headline": "Audi's Adaptive-Beam Headlight Tech Is Finally Coming to America",
       "author": "",
       "publishedAt": "2026-05-23T13:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "Set to debut in the U.S. with the new 2027 Q9 three-row luxury SUV, Audi's Digital Matrix headlights are the cure for road glare.",
       "fullTextAvailable": false,
@@ -635,7 +685,7 @@
       "headline": "National Fuel Prices Are at a Four-Year High",
       "author": "",
       "publishedAt": "2026-05-22T19:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "According to AAA, the price per gallon is over $4 in every state, with no improvements in sight.",
       "fullTextAvailable": false,
@@ -660,7 +710,7 @@
       "headline": "Dodge GLH 'Muscle Hatch' Is Part of Stellantis's Affordable SUV Push",
       "author": "",
       "publishedAt": "2026-05-22T18:22:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "The Dodge GLH is the Chrysler Airflow's 'evil brother,' and both will start under $39,000, while the Chrysler Arrow family will start under $30K.",
       "fullTextAvailable": false,
@@ -685,7 +735,7 @@
       "headline": "North Carolina Sues VinFast over an Unbuilt Factory",
       "author": "",
       "publishedAt": "2026-05-22T15:33:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "EV maker VinFast broke ground on its factory in 2023 and didn't build anything. North Carolina wants its money back.",
       "fullTextAvailable": false,
@@ -710,7 +760,7 @@
       "headline": "Indy 500 Spotters Guide: Who to Watch at the 110th Running",
       "author": "",
       "publishedAt": "2026-05-22T15:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "The 2026 rendition of the Greatest Spectacle in Racing features four rookies and nine previous winners of the Indianapolis 500.",
       "fullTextAvailable": false,
@@ -735,7 +785,7 @@
       "headline": "NASCAR Champion and Motorsports Star Kyle Busch Dies at 41",
       "author": "",
       "publishedAt": "2026-05-21T22:13:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "Busch was hospitalized this morning with an unspecified illness. Hours later, his family and NASCAR have announced his death.",
       "fullTextAvailable": false,
@@ -760,7 +810,7 @@
       "headline": "U-Haul Lets You Live Your Peterbilt Fantasy with Its 29-Foot Box Truck",
       "author": "",
       "publishedAt": "2026-05-21T20:04:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "The moving rental company's new box truck is as big as they get without requiring a CDL.",
       "fullTextAvailable": false,
@@ -785,7 +835,7 @@
       "headline": "We Drove the Fiat Grande Panda and 5 Other Cool Euro-Market Cars",
       "author": "",
       "publishedAt": "2026-05-21T19:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "We had a go in the latest hybrids and EVs from Fiat, Opel, Citroën, and Peugeot, and came away wanting the cute little Fiat Grande Panda.",
       "fullTextAvailable": false,
@@ -810,7 +860,7 @@
       "headline": "New Dodge Copperhead Sports Car Will Top the Revitalized SRT Lineup",
       "author": "",
       "publishedAt": "2026-05-21T17:15:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "The two-door Copperhead revives a name first used on a 1997 concept car, and it'll serve as the flagship for Dodge and the SRT subbrand.",
       "fullTextAvailable": false,
@@ -835,7 +885,7 @@
       "headline": "Jeep and Ram Tapped to Lead Stellantis's Expansive Five-Year Plan",
       "author": "",
       "publishedAt": "2026-05-21T13:53:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "More than 60 new vehicles and 50 refreshed models will be launched globally by 2030, with an increasing number of EVs, plug-in hybrids, and traditional hybrids.",
       "fullTextAvailable": false,
@@ -860,7 +910,7 @@
       "headline": "Coming Soon! New Dodge SRT Models and a Jeep Wrangler Scrambler",
       "author": "",
       "publishedAt": "2026-05-21T13:47:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "Chrysler will gain two sub-$30K SUVs, Dodge will debut racy SRT models, and Ram will add compact and mid-size pickups.",
       "fullTextAvailable": false,
@@ -885,7 +935,7 @@
       "headline": "Hyundai Recalls 54K Elantras with Hybrid System That Could Overheat",
       "author": "",
       "publishedAt": "2026-05-20T20:39:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "The hybrid power control unit on some 2024 to 2026 Elantras could overheat, possibly putting the car into a limp mode or preventing it from starting.",
       "fullTextAvailable": false,
@@ -910,7 +960,7 @@
       "headline": "2027 Ram 1500 Rumble Bee Street Trucks All Have Thumping V-8 Hearts",
       "author": "",
       "publishedAt": "2026-05-20T19:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "Ram went from having zero V-8 trucks to several in no time, and now it's filling the void left by Dodge's popular muscle cars.",
       "fullTextAvailable": false,
@@ -935,7 +985,7 @@
       "headline": "Jaguar Partners with Stellantis for U.S. Car Development",
       "author": "",
       "publishedAt": "2026-05-20T15:05:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "The two automotive groups signed a memorandum of understanding that could eventually allow the British manufacturer to avoid paying U.S. import tariffs.",
       "fullTextAvailable": false,
@@ -960,7 +1010,7 @@
       "headline": "2027 Mercedes-AMG GT 4-Door Is the Porsche Taycan's New Nemesis",
       "author": "",
       "publishedAt": "2026-05-20T03:30:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "Mercedes-AMG introduces an electric rocketship that bucks the trend of automakers that are retreating from the EV space.",
       "fullTextAvailable": false,
@@ -985,7 +1035,7 @@
       "headline": "Chevy Drops LS9 Crate Engine, but Hints at LS6-Based Replacement",
       "author": "",
       "publishedAt": "2026-05-19T21:01:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "Could Chevy be planning a sixth-generation crate motor based on the LS6 V-8 found in the 2027 Corvette Stingray?",
       "fullTextAvailable": false,
@@ -1010,7 +1060,7 @@
       "headline": "Volvo Hints at New SUV Models on the Large and Small Ends of Its Lineup",
       "author": "",
       "publishedAt": "2026-05-19T18:07:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "An EX30 replacement is coming, and a full-size SUV larger than the XC90 may be built in South Carolina to compete with the likes of the BMW X7 and Mercedes GLS.",
       "fullTextAvailable": false,
@@ -1035,7 +1085,7 @@
       "headline": "Ram Teaser Hints at Potential TRX-Based Rumble Bee Street Truck",
       "author": "",
       "publishedAt": "2026-05-19T15:35:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "A new teaser video hosted by UFC President Dana White showcases a black-and-yellow Ram pickup, hinting at a return of the Rumble Bee.",
       "fullTextAvailable": false,
@@ -1060,7 +1110,7 @@
       "headline": "Volvo CEO Predicts a Shift Back Toward Wagons in Next 10 Years",
       "author": "",
       "publishedAt": "2026-05-19T15:33:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "After 2026, Volvo will no longer sell any station wagons in the United States, but Volvo says they aren't gone forever.",
       "fullTextAvailable": false,
@@ -1085,7 +1135,7 @@
       "headline": "Jeep Recalls 61K Cherokees Due to Catastrophic Transfer Unit Failure",
       "author": "",
       "publishedAt": "2026-05-18T21:02:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "",
       "excerpt": "An internal failure in some two-speed power transfer units can cause an unexpected and unrecoverable loss of drive power in the impacted Cherokees.",
       "fullTextAvailable": false,
@@ -1104,16 +1154,16 @@
       "rawText": "Jeep Recalls 61K Cherokees Due to Catastrophic Transfer Unit Failure An internal failure in some two-speed power transfer units can cause an unexpected and unrecoverable loss of drive power in the impacted Cherokees. News"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a71341433-kimera-k39-koenigsegg-revealed",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a71341433/kimera-k39-koenigsegg-revealed/",
-      "headline": "The Kimera K39 Looks Like a Lancia but Packs a Koenigsegg V-8",
-      "author": "",
-      "publishedAt": "2026-05-18T20:51:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
-      "imageUrl": "",
-      "excerpt": "The exotic 5.0-liter engine sends 986 horsepower and 885 pound-feet of torque to the rear wheels through a manual gearbox.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-market-trends-hagerty-insider-car-profiles-hagerty-insider-cherished-buick",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/market-trends/hagerty-insider/car-profiles-hagerty-insider/cherished-buick-has-spent-113-years-with-the-same-family/",
+      "headline": "Cherished Buick Has Spent 113 Years with the Same Family",
+      "author": "\n\t\t\t\t\t\tJohn Webber\n\t\t\t\t\t",
+      "publishedAt": "2026-05-25T15:00:00+00:00",
+      "fetchedAt": "2026-05-25T15:30:08Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Webber-Buick_K8A7977_lede.jpg",
+      "excerpt": "&#8220;We guarantee that all Model 25 Buick Touring Car Motors will develop more power and speed than any stock Foreign or American Motors of equal size. Buick Power and Speed are the inevitable result of correct design, good materials and careful workmanship.&#8221; —Buick Motor Company, 1913 David Noznesky is about to go mano a mano [&hellip;]",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1124,21 +1174,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "The Kimera K39 Looks Like a Lancia but Packs a Koenigsegg V-8 The exotic 5.0-liter engine sends 986 horsepower and 885 pound-feet of torque to the rear wheels through a manual gearbox. News"
+      "rawText": "Cherished Buick Has Spent 113 Years with the Same Family &#8220;We guarantee that all Model 25 Buick Touring Car Motors will develop more power and speed than any stock Foreign or American Motors of equal size. Buick Power and Speed are the inevitable result of correct design, good materials and careful workmanship.&#8221; —Buick Motor Company, 1913 David Noznesky is about to go mano a mano [&hellip;] Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a71337394-2027-rivian-r2-configurator-pricing",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a71337394/2027-rivian-r2-configurator-pricing/",
-      "headline": "2027 Rivian R2 Prices Make the New EV SUV Look Like a Sweet Deal",
-      "author": "",
-      "publishedAt": "2026-05-18T19:59:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
-      "imageUrl": "",
-      "excerpt": "The R2's configurator is now live, though the compact electric SUV's least expensive model won't be available until next year.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-car-profiles-lamborghini-silhouette-review-pictures-specs",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/car-profiles/lamborghini-silhouette-review-pictures-specs/",
+      "headline": "The Lamborghini Silhouette Is the Forgotten Wedge of the 1970s",
+      "author": "\n\t\t\t\t\t\tRonan Glon\n\t\t\t\t\t",
+      "publishedAt": "2026-05-25T14:00:00+00:00",
+      "fetchedAt": "2026-05-25T15:30:08Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/rg-lamborghini-silhouette-9.jpg",
+      "excerpt": "Hidden in the Countach&#8217;s shadow, the Lamborghini Silhouette is one of the brand&#8217;s best-kept secrets. Few were built, and today it&#8217;s rarer than many modern limited-edition cars — though not intentionally. The first Raging Bull with a removable roof panel simply landed at the wrong time in the company&#8217;s history. Let&#8217;s rewind to th",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1149,9 +1200,62 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "2027 Rivian R2 Prices Make the New EV SUV Look Like a Sweet Deal The R2's configurator is now live, though the compact electric SUV's least expensive model won't be available until next year. News"
+      "rawText": "The Lamborghini Silhouette Is the Forgotten Wedge of the 1970s Hidden in the Countach&#8217;s shadow, the Lamborghini Silhouette is one of the brand&#8217;s best-kept secrets. Few were built, and today it&#8217;s rarer than many modern limited-edition cars — though not intentionally. The first Raging Bull with a removable roof panel simply landed at the wrong time in the company&#8217;s history. Let&#8217;s rewind to th Market Analysis Long Reads"
+    },
+    {
+      "id": "hagerty-media-www-hagerty-com-media-opinion-the-hack-mechanic-troubleshooting-an-instantly-dead-battery",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/opinion/the-hack-mechanic/troubleshooting-an-instantly-dead-battery/",
+      "headline": "Troubleshooting an Instantly Dead Battery",
+      "author": "\n\t\t\t\t\t\tRob Siegel\n\t\t\t\t\t",
+      "publishedAt": "2026-05-25T13:00:00+00:00",
+      "fetchedAt": "2026-05-25T15:30:08Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Hack-Mechanic-Dead-Battery-Troubleshoot-lede.jpg",
+      "excerpt": "Last week I used my 2003 E39 530i to drive my sister to a doctor&#8217;s appointment at Boston’s Beth Israel hospital for a check-up on her recently broken hip. I valet-parked the car so she wouldn&#8217;t have to walk any further than necessary. The valet didn&#8217;t know how to drive a stick, so he had [&hellip;]",
+      "fullTextAvailable": true,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "Market Analysis",
+        "Long Reads"
+      ],
+      "rawText": "Troubleshooting an Instantly Dead Battery Last week I used my 2003 E39 530i to drive my sister to a doctor&#8217;s appointment at Boston’s Beth Israel hospital for a check-up on her recently broken hip. I valet-parked the car so she wouldn&#8217;t have to walk any further than necessary. The valet didn&#8217;t know how to drive a stick, so he had [&hellip;] Market Analysis Long Reads"
+    },
+    {
+      "id": "hagerty-media-www-hagerty-com-media-news-hotter-honda-civic-type-r-inbound",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/news/hotter-honda-civic-type-r-inbound/",
+      "headline": "Hotter Honda Civic Type R Inbound",
+      "author": "\n\t\t\t\t\t\tNik Berg\n\t\t\t\t\t",
+      "publishedAt": "2026-05-25T11:00:00+00:00",
+      "fetchedAt": "2026-05-25T15:30:08Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Screenshot-2026-05-25-at-09.35.40.png",
+      "excerpt": "The Honda Racing Corporation is getting its hands on the Civic Type R and the result looks, well, rather racy. Honda first teased its Civic Type R HRC Concept at the Tokyo Auto Salon, and has now released video of the car undergoing testing at the Suzuka Formula 1 circuit, revealing a few of the [&hellip;]",
+      "fullTextAvailable": true,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "Market Analysis",
+        "Long Reads"
+      ],
+      "rawText": "Hotter Honda Civic Type R Inbound The Honda Racing Corporation is getting its hands on the Civic Type R and the result looks, well, rather racy. Honda first teased its Civic Type R HRC Concept at the Tokyo Auto Salon, and has now released video of the car undergoing testing at the Suzuka Formula 1 circuit, revealing a few of the [&hellip;] Market Analysis Long Reads"
     },
     {
       "id": "hagerty-media-www-hagerty-com-media-advice-piston-slap-piston-slap-preparation-pays-off-in-long-term-storage",
@@ -1160,7 +1264,7 @@
       "headline": "Piston Slap: Preparation Pays Off in Long-Term Storage",
       "author": "\n\t\t\t\t\t\tSajeev Mehta\n\t\t\t\t\t",
       "publishedAt": "2026-05-24T13:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/The-Car-Asylum-Piston-Slap.jpg",
       "excerpt": "Jim writes: Sajeev, I have been a car guy since my early teens, a very long time ago.  I’ve gone from crude teenage hot rodding to drag racing, street rodding, muscle cars, and from restoration to preservation. Even though I’m in my 80s I still do all my own routine maintenance for a fleet of [&hellip;]",
       "fullTextAvailable": true,
@@ -1186,7 +1290,7 @@
       "headline": "At Under $11K, a TVR S3 Is Fast, Frugal Fun",
       "author": "\n\t\t\t\t\t\tAndrew Newton\n\t\t\t\t\t",
       "publishedAt": "2026-05-23T16:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/s-0MGsj2I.jpeg",
       "excerpt": "These days, the average price of a new car in the United States is nearly $50,000. The absolute cheapest new vehicle right now is the 2026 Hyundai Venue, which starts at a little over 20 grand. Gas is over $4.50 a gallon (6 bucks, if you live in California). Exotic cars, meanwhile, are selling at [&hellip;]",
       "fullTextAvailable": true,
@@ -1212,7 +1316,7 @@
       "headline": "1969 AMC Ambassador SST: Hello, Wisconsin Luxury!",
       "author": "\n\t\t\t\t\t\tThomas Klockau\n\t\t\t\t\t",
       "publishedAt": "2026-05-23T13:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Klockau-AMC-Ambassador-lede.jpg",
       "excerpt": "I&#8217;ve always been interested in AMC. Maybe it&#8217;s because my mom almost got a Javelin way before I was born. Maybe it&#8217;s because of my hot-rod Hot Wheels Gremlin I had as a kindergarten-age, crazed car nut. Or maybe it&#8217;s just because they&#8217;re so interesting. And being a huge fan of the Brougham Era, how [&hellip;]",
       "fullTextAvailable": true,
@@ -1238,7 +1342,7 @@
       "headline": "20 Air and Electric Impact Wrench Myths Tested",
       "author": "\n\t\t\t\t\t\tKyle Smith\n\t\t\t\t\t",
       "publishedAt": "2026-05-22T20:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2024/05/IMG_8939-scaled.jpg",
       "excerpt": "Anyone who has been wrenching for a while likely has a few tips and tricks up their sleeves. And, depending on the person, they hold those tips close to their chest or are happy tell anyone within earshot the proper way to complete a given task. Some of these tricks amount to old wives&#8217; tales, [&hellip;]",
       "fullTextAvailable": true,
@@ -1264,7 +1368,7 @@
       "headline": "Hyundai Recalls 421K Vehicles for Potential Unexpected Braking",
       "author": "\n\t\t\t\t\t\tNathan Petroelje\n\t\t\t\t\t",
       "publishedAt": "2026-05-22T19:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2025/10/2025-Hyundai-Santa-Cruz-Limited-AWD-F3Q-edit.jpg",
       "excerpt": "Hyundai is recalling 421,078 vehicles for a software issue that may cause the forward collision avoidance system to activate prematurely and hit the brakes when you aren&#8217;t expecting it. The recall covers 2025–26 versions of the Hyundai Santa Cruz, Tucson, Tucson Hybrid, and Tucson Plug-In Hybrid vehicles. The software issue is in the front cameras, [&h",
       "fullTextAvailable": true,
@@ -1290,7 +1394,7 @@
       "headline": "Stellantis’ $7B Plan Means 11 New Vehicles for the U.S. by 2030",
       "author": "\n\t\t\t\t\t\tGrace Jarvis\n\t\t\t\t\t",
       "publishedAt": "2026-05-22T18:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/2026-Stellantis-Investor-Day-New-Models-North-America-CJDR-scaled.jpg",
       "excerpt": "The corporate parent of Chrysler, Dodge, Ram, and Jeep has finally announced its plan for the next five years. Announced during its 2026 Investor Day, &#8220;FaSTLAne 2030&#8221; is a $70 billion attempt by Stellantis to stabilize the shaky fortunes of its giant international portfolio of 14 brands. Of those, four will receive seventy percent of [&hellip;]",
       "fullTextAvailable": true,
@@ -1316,7 +1420,7 @@
       "headline": "Cars from Jack Roush’s Collection Headed to New Mecum Auction",
       "author": "\n\t\t\t\t\t\tSteven Cole Smith\n\t\t\t\t\t",
       "publishedAt": "2026-05-22T15:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Tommy-Kendall-Mustang-Mecum.jpg",
       "excerpt": "Mecum Auctions is staking out Nashville as one of its new outposts and is kicking off its inaugural event there, set for September 23-26, with at least one batch of vehicles that should draw some attention. They’re from the Roush Automotive Collection, with the Roush being Jack Roush, the legendary tuner, car builder, engine guru, [&hellip;]",
       "fullTextAvailable": true,
@@ -1342,7 +1446,7 @@
       "headline": "New Citroën 2CV Previewed as a Cheap, City-Friendly EV",
       "author": "\n\t\t\t\t\t\tRonan Glon\n\t\t\t\t\t",
       "publishedAt": "2026-05-22T14:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/citroen-2cv-2026-preview.jpg",
       "excerpt": "Citroën is about to rekindle a decades-old rivalry. The electric Renault 4 E-Tech, released in 2025, will soon be joined by an electric Citroën 2CV scheduled to make its debut at the 2026 Paris auto show. The model will feature heritage-laced styling, and it will stay in line with the original car&#8217;s spirit by being affordable. Announced [&hellip;]",
       "fullTextAvailable": true,
@@ -1368,7 +1472,7 @@
       "headline": "Remembering 2-Time NASCAR Champ Kyle Busch, Gone Too Soon",
       "author": "\n\t\t\t\t\t\tSteven Cole Smith\n\t\t\t\t\t",
       "publishedAt": "2026-05-22T12:36:56+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/GettyImages-2274340600-scaled.jpg",
       "excerpt": "The kid was 17, and I first met him on the front straight of USA International Speedway, a three-quarter-mile paved oval just outside Lakeland, Florida. The American Speed Association was about to drop the green flag on its 2002 season. This was the first of 20 races. The kid, kind of lanky and more than [&hellip;]",
       "fullTextAvailable": true,
@@ -1394,7 +1498,7 @@
       "headline": "Never Stop Driving #186: Ferrari Fever",
       "author": "\n\t\t\t\t\t\tLarry Webster\n\t\t\t\t\t",
       "publishedAt": "2026-05-22T12:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/NSD-186-Lede-alt-1.jpg",
       "excerpt": "Damn you, Henry Catchpole, damn you. I thought I’d banished the Ferrari F355 from my mind. But your latest “The Driver’s Seat” video for Hagerty’s YouTube channel, in which you drove a restomod version, reawakened all the fond memories I had of the mid-engine berlinetta and the time I passed on the chance to buy a [&hellip;]",
       "fullTextAvailable": true,
@@ -1420,7 +1524,7 @@
       "headline": "Paul Smith’s Designer Mini Makes U.S. Debut",
       "author": "\n\t\t\t\t\t\tNik Berg\n\t\t\t\t\t",
       "publishedAt": "2026-05-22T11:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/P90628170_highRes_mini-cooper-s-paul-s-scaled.jpg",
       "excerpt": "British fashion guru Sir Paul Smith has been adding his touches to Minis for almost 30 years, and now America&#8217;s Mini fans can finally get their hands on one. The new Mini Paul Smith Edition was unveiled at Smith&#8217;s store in Los Angeles, and features a more subtle rendering of his trademark multi-colored stripes. When [&hellip;]",
       "fullTextAvailable": true,
@@ -1446,7 +1550,7 @@
       "headline": "Cars, and How We Come to Love Them",
       "author": "\n\t\t\t\t\t\tSean Smith\n\t\t\t\t\t",
       "publishedAt": "2026-05-21T22:34:12+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Blue-356_Panorama1-Large.jpeg",
       "excerpt": "How can something as simple as a car become so important in your life that it verges on a religious experience? It takes you from point A to point B, it carries your stuff, it leaves you stranded by the side of the road, and it unendingly rips cash from your bank account.&nbsp; How can [&hellip;]",
       "fullTextAvailable": true,
@@ -1472,7 +1576,7 @@
       "headline": "Hantavirus May Be Hiding in Your Classic—Here’s How to Handle It",
       "author": "\n\t\t\t\t\t\tKyle Smith\n\t\t\t\t\t",
       "publishedAt": "2026-05-21T20:30:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/02/Corvette-dashboard-disassembly-7-scaled.jpg",
       "excerpt": "There is no shortage of risks when driving or maintaining vintage cars, and we all either accept those risks or take action to mitigate them. For example, small changes in driving habits can reduce the risk of getting involved in a traffic collision, but some risks are far harder to see and can get us [&hellip;]",
       "fullTextAvailable": true,
@@ -1498,7 +1602,7 @@
       "headline": "Which of These 3 Cop Cars Would You Pay to Ride In?",
       "author": "\n\t\t\t\t\t\tBrandan Gillogly\n\t\t\t\t\t",
       "publishedAt": "2026-05-21T18:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/jREfXNTErBGmGMPSToX68Q.jpg",
       "excerpt": "We cover a lot of ground on these pages, from &#8217;60s muscle to modern hypercars, and just about everything before and in between. One niche of collecting that we rarely delve into, though, is the fascinating realm of police cars. Even those of us who haven’t served behind a badge can admit that it would [&hellip;]",
       "fullTextAvailable": true,
@@ -1524,7 +1628,7 @@
       "headline": "Your Handy 2000–02 Audi S4 Buyer’s Guide",
       "author": "\n\t\t\t\t\t\tPeter Nelson\n\t\t\t\t\t",
       "publishedAt": "2026-05-21T16:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/B5AudiS4PeterNelson2-lede-crop.jpg",
       "excerpt": "We look back on many cars of the late 1990s and early ‘00s with a certain affinity, but few made their mark like the B5-generation Audi S4. Despite a brief run of just three model years (2000–02) in the U.S., this compact sedan is still revered thanks to its twin-turbo V-6 engine’s construction and potency, [&hellip;]",
       "fullTextAvailable": true,
@@ -1550,7 +1654,7 @@
       "headline": "Stellantis Will Keep All of Its Brands and Team up with JLR",
       "author": "\n\t\t\t\t\t\tRonan Glon\n\t\t\t\t\t",
       "publishedAt": "2026-05-21T15:30:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Ride_and_Drive5-scaled.jpg",
       "excerpt": "Stellantis has been in a state of disarray since CEO Carlos Tavares resigned in December 2024 amid falling sales. The massive group is serious about getting back on track, and it unveiled a plan called FaSTLAne 2030 that details how it plans to accelerate growth and profits over the next five years. It also put [&hellip;]",
       "fullTextAvailable": true,
@@ -1576,7 +1680,7 @@
       "headline": "An American Abroad: By Corvette from the ’Ring to Spa",
       "author": "\n\t\t\t\t\t\tNik Berg\n\t\t\t\t\t",
       "publishedAt": "2026-05-21T15:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Corvette_Stingray_Cabrio_094_resized-scaled.jpg",
       "excerpt": "The Chevrolet Corvette, America’s Sports Car, has never really made much impact in Europe. Yes, there have been multiple race wins on the Old Continent—not least nine class victories at Le Mans—but Corvettes are cars you just don’t see on the roads here in any number. 51st Staters in Essex, or those living near U.S. [&hellip;]",
       "fullTextAvailable": true,
@@ -1602,7 +1706,7 @@
       "headline": "Hellcats Are Flooding Auctions. Is That Watering Down Prices?",
       "author": "\n\t\t\t\t\t\tAndrew Newton\n\t\t\t\t\t",
       "publishedAt": "2026-05-21T12:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2020/10/DG018_038CLen8vtb9ldnd8esmkvl58925psm-scaled.jpg",
       "excerpt": "Mecum&#8217;s huge Indianapolis sale wrapped up last weekend. And by huge, we mean nine days and almost 3000 vehicles on offer. Among them were the kinds of modern exotics everybody&#8217;s talking about lately, including a $9.5M Maserati MC12 and a $9.8M Ferrari F50. Beyond the vowel-heavy Italian stuff, though, one question kept popping up when [&hellip;]",
       "fullTextAvailable": true,
@@ -1628,7 +1732,7 @@
       "headline": "Villeneuve’s U.S. Grand Prix Winner Now in Miniature",
       "author": "\n\t\t\t\t\t\tNik Berg\n\t\t\t\t\t",
       "publishedAt": "2026-05-21T11:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Picture2.jpg",
       "excerpt": "An exact 1:8 scale replica of Gilles Villeneuve&#8217;s 1979 Ferrari 312 T4 Formula 1 car has received the blessing of the Canadian racer&#8217;s family. The car, built by U.K. master model makers Amalgam Collection, is a painstaking copy of the car Villeneuve drove to victory at Watkins Glen in one of the most extraordinary races [&hellip;]",
       "fullTextAvailable": true,
@@ -1654,7 +1758,7 @@
       "headline": "A Staffers’ Dozen: How We’d Spend $50K at Mecum Indy",
       "author": "\n\t\t\t\t\t\tHagerty Staff\n\t\t\t\t\t",
       "publishedAt": "2026-05-20T22:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/1972-Plymouth-Duster-340-Mecum-2.jpg",
       "excerpt": "Nearly 3000 cars crossed the block at Mecum&#8217;s Indy auction last week. It had the cars you&#8217;d expect at a big live sale—a Ferrari California Spider, a 427 Cobra, a Porsche 959, and plenty others—but Mecum is (often literally) a big tent, offering far more than just unobtanium collector pieces. In fact, 809 vehicles sold [&hellip;]",
       "fullTextAvailable": true,
@@ -1680,7 +1784,7 @@
       "headline": "These 5 Affordable Japanese Cars Are Staying Affordable",
       "author": "\n\t\t\t\t\t\tStefan Lombard\n\t\t\t\t\t",
       "publishedAt": "2026-05-20T21:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2020/04/Honda-Prelude-88.jpg",
       "excerpt": "Modern supercars are up-up-up, as auctions in the first half of 2026 continue to illustrate. Elsewhere, however, we’ve seen a softening in some segments of the market since January. This week we’ve put affordable Japanese collector cars under the valuation microscope: The following five models have seen a dip in recent months, which is great [&hellip;]",
       "fullTextAvailable": true,
@@ -1698,110 +1802,6 @@
         "Long Reads"
       ],
       "rawText": "These 5 Affordable Japanese Cars Are Staying Affordable Modern supercars are up-up-up, as auctions in the first half of 2026 continue to illustrate. Elsewhere, however, we’ve seen a softening in some segments of the market since January. This week we’ve put affordable Japanese collector cars under the valuation microscope: The following five models have seen a dip in recent months, which is great [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-opinion-mechanical-sympathy-my-ls-swap-corvettes-first-drive-went-exactly-",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/opinion/mechanical-sympathy/my-ls-swap-corvettes-first-drive-went-exactly-as-expected/",
-      "headline": "My LS-Swap Corvette’s First Drive Went Exactly as Expected",
-      "author": "\n\t\t\t\t\t\tKyle Smith\n\t\t\t\t\t",
-      "publishedAt": "2026-05-20T20:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Ms-Corvette-first-drive-thumb.jpg",
-      "excerpt": "Everyone sets their own milestones for a project. Some are universal, though, and a prime example is the first drive of a project car. This was actually the second time I&#8217;ve gotten to drive my 1985 Corvette for the &#8220;first&#8221; time, because I couldn&#8217;t resist taking it for a spin when I first got it [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "My LS-Swap Corvette’s First Drive Went Exactly as Expected Everyone sets their own milestones for a project. Some are universal, though, and a prime example is the first drive of a project car. This was actually the second time I&#8217;ve gotten to drive my 1985 Corvette for the &#8220;first&#8221; time, because I couldn&#8217;t resist taking it for a spin when I first got it [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-news-ram-goes-full-send-with-rumble-bee-sport-trucks",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/news/ram-goes-full-send-with-rumble-bee-sport-trucks/",
-      "headline": "Ram Goes Full Send with New Rumble Bee Muscle Trucks",
-      "author": "\n\t\t\t\t\t\tNathan Petroelje\n\t\t\t\t\t",
-      "publishedAt": "2026-05-20T19:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/2027-Ram-1500-Rumble-Bee-SRT-RM027_096FN.jpg",
-      "excerpt": "Is anyone in the truck space having more fun than Ram right now? It&#8217;s hard to argue another contender, frankly. Less than a year ago, with newly reappointed CEO Tim Kuniskis at the helm, Ram brought back the 5.7-liter Hemi V-8 for its half-ton pickup. Then, just a few months later, the brand followed it [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "Ram Goes Full Send with New Rumble Bee Muscle Trucks Is anyone in the truck space having more fun than Ram right now? It&#8217;s hard to argue another contender, frankly. Less than a year ago, with newly reappointed CEO Tim Kuniskis at the helm, Ram brought back the 5.7-liter Hemi V-8 for its half-ton pickup. Then, just a few months later, the brand followed it [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-motorsports-speed-read-the-memorial-day-race-weekend-is-upon-us",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/motorsports/speed-read-the-memorial-day-race-weekend-is-upon-us/",
-      "headline": "Speed Read: The Memorial Day Race Weekend Is Upon Us",
-      "author": "\n\t\t\t\t\t\tSteven Cole Smith\n\t\t\t\t\t",
-      "publishedAt": "2026-05-20T18:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Indy-500-Crowd-Grandstands-GettyImages-2216998373.jpg",
-      "excerpt": "I was going to start this story with, “You’ve never really been in a crowd until you’ve been in an Indianapolis 500 crowd,” since upwards of 350,000 people are expected there on Sunday. But I got to thinking: I can confirm that Indy is larger and more challenging to navigate than any event I&#8217;ve attended, [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "Speed Read: The Memorial Day Race Weekend Is Upon Us I was going to start this story with, “You’ve never really been in a crowd until you’ve been in an Indianapolis 500 crowd,” since upwards of 350,000 people are expected there on Sunday. But I got to thinking: I can confirm that Indy is larger and more challenging to navigate than any event I&#8217;ve attended, [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-new-car-reviews-2025-bmw-m5-touring-review-fresh-flavor",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/new-car-reviews/2025-bmw-m5-touring-review-fresh-flavor/",
-      "headline": "2025 BMW M5 Touring Review: Fresh Flavor",
-      "author": "\n\t\t\t\t\t\tEric Weiner\n\t\t\t\t\t",
-      "publishedAt": "2026-05-20T17:00:00+00:00",
-      "fetchedAt": "2026-05-24T14:02:51Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/2025-BMW-M5-Touring-EW-1-lede.jpg",
-      "excerpt": "Forbidden fruit has finally fallen on our shores! Is the BMW M5 Touring hitting the ground in North America now, for the first time, because it weighs an astonishing 5500 pounds? We jest. BMW watched Audi and its successful RS6 Avant—to say nothing of the outgoing Mercedes-AMG E63—and wanted a piece of the action. Executives [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "2025 BMW M5 Touring Review: Fresh Flavor Forbidden fruit has finally fallen on our shores! Is the BMW M5 Touring hitting the ground in North America now, for the first time, because it weighs an astonishing 5500 pounds? We jest. BMW watched Audi and its successful RS6 Avant—to say nothing of the outgoing Mercedes-AMG E63—and wanted a piece of the action. Executives [&hellip;] Market Analysis Long Reads"
     }
   ],
   "statuses": [
@@ -1809,28 +1809,28 @@
       "sourceName": "Motor1",
       "state": "ok",
       "count": 20,
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "url": "https://www.motor1.com/rss/news/all/"
     },
     {
       "sourceName": "Motor1 All Articles",
       "state": "ok",
       "count": 20,
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "url": "https://www.motor1.com/rss/articles/all/"
     },
     {
       "sourceName": "Car and Driver",
       "state": "ok",
       "count": 25,
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "url": "https://www.caranddriver.com/rss/news.xml"
     },
     {
       "sourceName": "Hagerty Media",
       "state": "ok",
       "count": 25,
-      "fetchedAt": "2026-05-24T14:02:51Z",
+      "fetchedAt": "2026-05-25T15:30:08Z",
       "url": "https://www.hagerty.com/media/feed/"
     }
   ]
