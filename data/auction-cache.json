@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-03T17:20:18Z",
+  "generatedAt": "2026-06-04T15:46:46Z",
   "sourceType": "not-connected",
   "items": [
 
@@ -9,21 +9,21 @@
       "sourceName": "Bring a Trailer",
       "state": "disabled",
       "count": 0,
-      "fetchedAt": "2026-06-03T17:20:18Z",
+      "fetchedAt": "2026-06-04T15:46:46Z",
       "error": "Official listing feed/API not configured for this static prototype."
     },
     {
       "sourceName": "Hemmings Auctions",
       "state": "disabled",
       "count": 0,
-      "fetchedAt": "2026-06-03T17:20:18Z",
+      "fetchedAt": "2026-06-04T15:46:46Z",
       "error": "Official listing feed/API not configured for this static prototype."
     },
     {
       "sourceName": "CLASSIC.COM",
       "state": "disabled",
       "count": 0,
-      "fetchedAt": "2026-06-03T17:20:18Z",
+      "fetchedAt": "2026-06-04T15:46:46Z",
       "error": "Official market/listing feed/API not configured for this static prototype."
     }
   ]
