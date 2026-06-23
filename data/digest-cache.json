@@ -1,7 +1,282 @@
 {
-  "generatedAt": "2026-06-22T17:13:43Z",
+  "generatedAt": "2026-06-23T15:26:08Z",
   "sourceType": "rss-cache",
   "items": [
+    {
+      "id": "motor1-www-motor1-com-news-799484-alpine-porsche-rival-debut",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799484/alpine-porsche-rival-debut/",
+      "headline": "Alpine's Next Porsche Rival Is Coming Next Month",
+      "author": "",
+      "publishedAt": "2026-06-23T15:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/L3yn93/s3/alpine-future-sports-car-teaser.jpg",
+      "excerpt": "The big question is: Will Alpine's new sports car finally come to the US?",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Alpine's Next Porsche Rival Is Coming Next Month The big question is: Will Alpine's new sports car finally come to the US? News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-799474-mitsubishi-evs-easy-route",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799474/mitsubishi-evs-easy-route/",
+      "headline": "Mitsubishi Says It Can't Afford To Build Its Own EVs",
+      "author": "",
+      "publishedAt": "2026-06-23T14:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/VzWVGG/s3/mitsubishi-ev-concept.jpg",
+      "excerpt": "Instead of developing new products from the ground up, Mitsubishi will release 'collaboration' EVs like the Eclipse Sportback.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Mitsubishi Says It Can't Afford To Build Its Own EVs Instead of developing new products from the ground up, Mitsubishi will release 'collaboration' EVs like the Eclipse Sportback. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-799534-ian-callum-jaguar-type-00-concept-interview",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799534/ian-callum-jaguar-type-00-concept-interview/",
+      "headline": "Jaguar's Former Design Boss Has One Big Problem With The Type 00: Interview",
+      "author": "",
+      "publishedAt": "2026-06-23T13:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/9m87nl/s3/jaguar-type-00-concept.jpg",
+      "excerpt": "I spoke with former design chief Ian Callum, who said the new Type 00 concept lacks one thing that makes a Jaguar, a Jaguar.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Jaguar's Former Design Boss Has One Big Problem With The Type 00: Interview I spoke with former design chief Ian Callum, who said the new Type 00 concept lacks one thing that makes a Jaguar, a Jaguar. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-799555-2026-audi-a3-updates",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799555/2026-audi-a3-updates/",
+      "headline": "The 2026 Audi A3 Loses Even More Buttons",
+      "author": "",
+      "publishedAt": "2026-06-23T11:35:05+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/g4OXp7/s3/audi-a3-sportback-e-hybrid-2026.jpg",
+      "excerpt": "The dedicated climate controls have migrated into the touchscreen.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "The 2026 Audi A3 Loses Even More Buttons The dedicated climate controls have migrated into the touchscreen. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-799461-disneyland-must-update-autopia-california",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799461/disneyland-must-update-autopia-california/",
+      "headline": "Disneyland Is Being Forced To Update A Classic Attraction—Or Risk Closing It",
+      "author": "",
+      "publishedAt": "2026-06-23T11:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/YAzZRj/s3/disneyland-autopia.jpg",
+      "excerpt": "Disneyland's Autopia attraction could finally switch over to electric motors with a February 2027 deadline looming.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Disneyland Is Being Forced To Update A Classic Attraction—Or Risk Closing It Disneyland's Autopia attraction could finally switch over to electric motors with a February 2027 deadline looming. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-799527-mitsubishi-wants-new-lancer-evo",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799527/mitsubishi-wants-new-lancer-evo/",
+      "headline": "Mitsubishi Wishes It Could Bring Back The Lancer Evolution",
+      "author": "",
+      "publishedAt": "2026-06-23T08:40:53+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/mMxvNB/s3/mitsubishi-lancer-evo-v.jpg",
+      "excerpt": "The Evo is deemed a company \"treasure,\" but Mitsubishi isn't in a position to revive the sports sedan",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Mitsubishi Wishes It Could Bring Back The Lancer Evolution The Evo is deemed a company \"treasure,\" but Mitsubishi isn't in a position to revive the sports sedan News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-799514-hyundai-wagon-demand-falling",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799514/hyundai-wagon-demand-falling/",
+      "headline": "'There’s a Reason We Don't Talk About Them Much:' The Case Against Wagons",
+      "author": "",
+      "publishedAt": "2026-06-23T07:28:04+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/2NEEKp/s3/hyundai-i30-kombi-n-line-2024.jpg",
+      "excerpt": "Yet another car company explains why wagons are fading, and it's not just declining demand.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "'There’s a Reason We Don't Talk About Them Much:' The Case Against Wagons Yet another car company explains why wagons are fading, and it's not just declining demand. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-799505-bmw-says-electric-m3-amazing-drive",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799505/bmw-says-electric-m3-amazing-drive/",
+      "headline": "BMW: Electric M3 Is 'Amazing' To Drive Without Chasing Horsepower",
+      "author": "",
+      "publishedAt": "2026-06-23T05:41:54+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/NGPEAY/s3/bmw-m-concept-neue-klasse-2026.jpg",
+      "excerpt": "The quad-motor super sedan arrives next year as the first full M with an electric drivetrain.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "BMW: Electric M3 Is 'Amazing' To Drive Without Chasing Horsepower The quad-motor super sedan arrives next year as the first full M with an electric drivetrain. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-799476-jeep-cherokee-trailhawk-trim-teased",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799476/jeep-cherokee-trailhawk-trim-teased/",
+      "headline": "This Is Our First Look At Jeep's Next Rugged SUV  ",
+      "author": "",
+      "publishedAt": "2026-06-22T21:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/6Z8Pg7/s3/2027-jeep-cherokee-trailhawk.jpg",
+      "excerpt": "The new Jeep Cherokee Trailhawk should feature off-road upgrades, such as a raised suspension and skid plates.   ",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "This Is Our First Look At Jeep's Next Rugged SUV   The new Jeep Cherokee Trailhawk should feature off-road upgrades, such as a raised suspension and skid plates.    News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-799486-ram-roush-truck-development",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799486/ram-roush-truck-development/",
+      "headline": "Ram Is Teaming Up With An Unlikely Tuner For A New Performance Truck",
+      "author": "",
+      "publishedAt": "2026-06-22T19:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/wl8xPG/s3/ram-roush-teaser.jpg",
+      "excerpt": "Roush is switching sides from Ford to Ram for its next big performance project.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Ram Is Teaming Up With An Unlikely Tuner For A New Performance Truck Roush is switching sides from Ford to Ram for its next big performance project. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-799462-toyota-rav4-truck-maverick-challenge",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/799462/toyota-rav4-truck-maverick-challenge/",
+      "headline": "'Quite Appealing:' Toyota Admits A Maverick-Style Pickup Is Tempting",
+      "author": "",
+      "publishedAt": "2026-06-22T18:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/wlW3PN/s3/toyota-small-pickup-truck-rendering.jpg",
+      "excerpt": "But will it ever happen? Toyota says not right now.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "'Quite Appealing:' Toyota Admits A Maverick-Style Pickup Is Tempting But will it ever happen? Toyota says not right now. News"
+    },
     {
       "id": "motor1-www-motor1-com-news-799464-ford-gt40-restomod-800-hp-v8",
       "source": "Motor1",
@@ -9,7 +284,7 @@
       "headline": "This Reborn Ford GT40 Isn't A Ford At All",
       "author": "",
       "publishedAt": "2026-06-22T16:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/L3ynRL/s3/cav-gt-mkii.jpg",
       "excerpt": "Cape Advanced Vehicles’ GT MkII has a twin-supercharged 4.2-liter V8 engine producing 800 horsepower.",
       "fullTextAvailable": false,
@@ -34,8 +309,8 @@
       "headline": "Porsche's New Strategy: Sell Fewer Cars, Make More Money",
       "author": "",
       "publishedAt": "2026-06-22T09:06:15+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/2N49gx/s3/porsche-cayenne-turbo-coupe-electric-2026-das-exterieur.jpg",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/E6N8LM/s3/2026-porsche-911-gt3-review.jpg",
       "excerpt": "Despite a planned production cut, the 718 is still coming back.",
       "fullTextAvailable": false,
       "relatedVehicleIds": [
@@ -59,7 +334,7 @@
       "headline": "The New Smart #2 Has A Bench Seat Design",
       "author": "",
       "publishedAt": "2026-06-22T07:33:12+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/bgPZJ6/s3/smart-concept-2.jpg",
       "excerpt": "The city car returns strictly as an EV, designed to make the most of its small cabin.",
       "fullTextAvailable": false,
@@ -84,7 +359,7 @@
       "headline": "The Electric Renault Megane Gets A Fresh Face And More Range",
       "author": "",
       "publishedAt": "2026-06-22T06:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/L3yGO3/s3/renault-megane-e-tech-2026.jpg",
       "excerpt": "Faster charging is also included with the EV's mid-cycle facelift.",
       "fullTextAvailable": false,
@@ -109,7 +384,7 @@
       "headline": "Volvo Just Made Charging Your EV Way Easier",
       "author": "",
       "publishedAt": "2026-06-21T16:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/7ZE9e6/s3/volvo-ex90-charging.jpg",
       "excerpt": "Volvo's new feature lets you leave your credit card or tap payment in your pocket. The car can do it all.",
       "fullTextAvailable": false,
@@ -134,7 +409,7 @@
       "headline": "How Genesis Plans To Build A Reputation In Europe: 'Credibility Is Earned Over Time'",
       "author": "",
       "publishedAt": "2026-06-20T16:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/KbgXnq/s3/genesis-concept.jpg",
       "excerpt": "Charles Fuster, head of Genesis' Italy division, talks about the group's ambitions: from Magma to the Concept GT, and more.",
       "fullTextAvailable": false,
@@ -159,7 +434,7 @@
       "headline": "No, Ferrari Isn't Forcing Customers To Buy The Luce",
       "author": "",
       "publishedAt": "2026-06-19T18:15:54+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/3WEe7x/s3/ferrari-luce.jpg",
       "excerpt": "Ferrari's head of marketing, Enrico Galliera, denies the rumors: 'It would be harmful to us.'",
       "fullTextAvailable": false,
@@ -184,7 +459,7 @@
       "headline": "Why Aren't There More GTI And R Models In America? Volkswagen Explains",
       "author": "",
       "publishedAt": "2026-06-19T14:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/wl8x34/s3/volkswagen-golf-gti.jpg",
       "excerpt": "Volkswagen says that in order to wear those badges, the vehicle can't be 'insincere.'",
       "fullTextAvailable": false,
@@ -209,7 +484,7 @@
       "headline": "Strong Demand Pushes BMW To Launch The New i3 Earlier Than Planned",
       "author": "",
       "publishedAt": "2026-06-19T08:31:16+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/pbJ2qr/s3/bmw-i3-50-xdrive-2026-first-edition.jpg",
       "excerpt": "It's only available as a well-equipped First Edition, but a cheaper version will follow.",
       "fullTextAvailable": false,
@@ -228,288 +503,13 @@
       "rawText": "Strong Demand Pushes BMW To Launch The New i3 Earlier Than Planned It's only available as a well-equipped First Edition, but a cheaper version will follow. News"
     },
     {
-      "id": "motor1-www-motor1-com-news-799216-vw-group-simplify-lineup",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799216/vw-group-simplify-lineup/",
-      "headline": "After Toyota, Volkswagen Also Thinks It Has Too Many Models",
-      "author": "",
-      "publishedAt": "2026-06-19T07:19:32+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/Oo9Nzo/s3/vw-logo.jpg",
-      "excerpt": "The German automotive giant wants to reduce complexity and focus on fewer models that generate more volume.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "After Toyota, Volkswagen Also Thinks It Has Too Many Models The German automotive giant wants to reduce complexity and focus on fewer models that generate more volume. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-799213-porsche-taycan-wagons-continue-outside-us",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799213/porsche-taycan-wagons-continue-outside-us/",
-      "headline": "The Porsche Taycan Wagons Will Continue Outside The US",
-      "author": "",
-      "publishedAt": "2026-06-19T05:56:34+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/MkWW86/s3/2022-porsche-taycan-gts-sport-turismo.jpg",
-      "excerpt": "Taycan Sport Turismo and Cross Turismo production continues for other markets.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "The Porsche Taycan Wagons Will Continue Outside The US Taycan Sport Turismo and Cross Turismo production continues for other markets. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-799202-waymo-robotaxis-recall-construction-zones",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799202/waymo-robotaxis-recall-construction-zones/",
-      "headline": "Waymo Is Facing A Major Recall Because They Might Enter Freeway Construction Zones",
-      "author": "",
-      "publishedAt": "2026-06-18T21:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/Oo2wXX/s3/waymo-jaguar-i-pace.jpg",
-      "excerpt": "Nearly 4,000 vehicles are impacted by the recall and will be given a software fix.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Waymo Is Facing A Major Recall Because They Might Enter Freeway Construction Zones Nearly 4,000 vehicles are impacted by the recall and will be given a software fix. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-799185-gordon-murray-t50s-niki-lauda-customer-car",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799185/gordon-murray-t50s-niki-lauda-customer-car/",
-      "headline": "Gordon Murray's First T.50s Niki Lauda Is Nearly Ready For The Track",
-      "author": "",
-      "publishedAt": "2026-06-18T18:30:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/W8KZ13/s3/gordon-murray-t.50s-niki-lauda.jpg",
-      "excerpt": "It is one of four cars Gordon Murray will display at this year's Goodwood Festival of Speed.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Gordon Murray's First T.50s Niki Lauda Is Nearly Ready For The Track It is one of four cars Gordon Murray will display at this year's Goodwood Festival of Speed. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-799177-porsche-911-gt3-envy",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799177/porsche-911-gt3-envy/",
-      "headline": "Porsche Just Built A Rare 911 GT3 You Probably Can't Buy",
-      "author": "",
-      "publishedAt": "2026-06-18T17:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/P3BZG8/s3/porsche-911-gt3-earls-court-51-edition.jpg",
-      "excerpt": "The 911 GT3 Earls Court 51 Edition is built to celebrate 75 years of Porsche in the United Kingdom.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Porsche Just Built A Rare 911 GT3 You Probably Can't Buy The 911 GT3 Earls Court 51 Edition is built to celebrate 75 years of Porsche in the United Kingdom. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-799105-new-volkswagen-models-2026",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799105/new-volkswagen-models-2026/",
-      "headline": "Volkswagen Has 10+ New Models Coming In 2026. Here's All Of Them",
-      "author": "",
-      "publishedAt": "2026-06-18T16:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/pbJ2KW/s3/volkswagen-new-models-2026.jpg",
-      "excerpt": "This year is one of the busiest years on record for the core Volkswagen brand.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Volkswagen Has 10+ New Models Coming In 2026. Here's All Of Them This year is one of the busiest years on record for the core Volkswagen brand. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-799166-slate-truck-ev-details-options",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799166/slate-truck-ev-details-options/",
-      "headline": "Slate Shares Fresh Details On Its 'Mid-$20,000' Electric Truck",
-      "author": "",
-      "publishedAt": "2026-06-18T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/2N0vZB/s3/slate-truck---exterior-driving-on-a-road.jpg",
-      "excerpt": "The Slate Truck will roll off the assembly line with few feature and a ton of options.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Slate Shares Fresh Details On Its 'Mid-$20,000' Electric Truck The Slate Truck will roll off the assembly line with few feature and a ton of options. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-799141-koenigsegg-lego-fastest-69-mph",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799141/koenigsegg-lego-fastest-69-mph/",
-      "headline": "This Is The World's Fastest Lego Car",
-      "author": "",
-      "publishedAt": "2026-06-18T14:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/G3Qpw1/s3/world-s-fastest-lego-koenigsegg.jpg",
-      "excerpt": "The full-size Lego Technic build took more than 9,000 hours and features over 327,000 pieces, yet still managed to reach 69 mph at Goodwood.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "This Is The World's Fastest Lego Car The full-size Lego Technic build took more than 9,000 hours and features over 327,000 pieces, yet still managed to reach 69 mph at Goodwood. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-799053-land-rover-us-suv-production",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799053/land-rover-us-suv-production/",
-      "headline": "Land Rover Found An Unlikely Partner To Build SUVs In America",
-      "author": "",
-      "publishedAt": "2026-06-18T13:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/YAzm4l/s3/land-rover-american-production.jpg",
-      "excerpt": "The British brand gets help from Stellantis to build the Defender in North America.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Land Rover Found An Unlikely Partner To Build SUVs In America The British brand gets help from Stellantis to build the Defender in North America. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-799058-maserati-nettuno-v6-hybrid",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799058/maserati-nettuno-v6-hybrid/",
-      "headline": "Maserati's Best Engine Isn't Going Anywhere—But It Is Going Hybrid",
-      "author": "",
-      "publishedAt": "2026-06-18T08:30:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/ojJKKL/s3/maserati-nettuno-v6.jpg",
-      "excerpt": "Maserati says it has plans for hybrid versions of the Nettuno V6.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Maserati's Best Engine Isn't Going Anywhere—But It Is Going Hybrid Maserati says it has plans for hybrid versions of the Nettuno V6. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-799092-mitsubishi-us-dealers-montero-2030",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/799092/mitsubishi-us-dealers-montero-2030/",
-      "headline": "Mitsubishi Dealers Say The Montero Is Finally Coming Back To America",
-      "author": "",
-      "publishedAt": "2026-06-18T08:19:36+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/W8K24L/s3/mitsubishi-montero-teaser.jpg",
-      "excerpt": "But you may have to wait until 2030 to buy one.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Mitsubishi Dealers Say The Montero Is Finally Coming Back To America But you may have to wait until 2030 to buy one. News"
-    },
-    {
       "id": "motor1-all-articles-www-motor1-com-features-799452-onx-off-road-maps-app-trail-tested",
       "source": "Motor1 All Articles",
       "sourceUrl": "https://www.motor1.com/features/799452/onx-off-road-maps-app-trail-tested/",
       "headline": "This App Might Be The Most Important Off-Road Tool You Can Buy",
       "author": "",
       "publishedAt": "2026-06-22T14:30:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/KbgG2A/s3/onx-offroad-review.jpg",
       "excerpt": "The detail available with OnX maps makes it a must-have when going deep into the backcountry.",
       "fullTextAvailable": false,
@@ -535,7 +535,7 @@
       "headline": "The Last New Cars You Can Still Buy For Under $25,000",
       "author": "",
       "publishedAt": "2026-06-19T16:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/bgPZzj/s3/25-000-cars-us.jpg",
       "excerpt": "From tiny Chevrolet SUVs to Kia compact sedans—these are the last few vehicles that cost less than $25,000 in the US.",
       "fullTextAvailable": false,
@@ -555,15 +555,15 @@
       "rawText": "The Last New Cars You Can Still Buy For Under $25,000 From tiny Chevrolet SUVs to Kia compact sedans—these are the last few vehicles that cost less than $25,000 in the US. News Long Reads"
     },
     {
-      "id": "motor1-all-articles-www-motor1-com-reviews-799076-mercedes-vle-minivan-review",
-      "source": "Motor1 All Articles",
-      "sourceUrl": "https://www.motor1.com/reviews/799076/mercedes-vle-minivan-review/",
-      "headline": "I Drove Mercedes' $130,000 Luxury Van. America Might Not Be Ready",
+      "id": "car-and-driver-www-caranddriver-com-news-a71679083-2027-hyundai-elantra-next-gen-spied",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a71679083/2027-hyundai-elantra-next-gen-spied/",
+      "headline": "Next-Gen Hyundai Elantra Spied Testing with Funky New Design",
       "author": "",
-      "publishedAt": "2026-06-19T07:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/qkYXAz/s3/mercedes-benz-vle-first-drive-review.jpg",
-      "excerpt": "Mercedes is trying to shake the van image by bringing its first 'Grand Limousine' to the United States. Will it work?",
+      "publishedAt": "2026-06-23T15:25:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "",
+      "excerpt": "The new Elantra appears to have an unorthodox lighting signature, and the compact sedan should go on sale sometime next year.",
       "fullTextAvailable": false,
       "relatedVehicleIds": [
 
@@ -575,10 +575,109 @@
 
       ],
       "tags": [
-        "News",
-        "Long Reads"
+        "News"
       ],
-      "rawText": "I Drove Mercedes' $130,000 Luxury Van. America Might Not Be Ready Mercedes is trying to shake the van image by bringing its first 'Grand Limousine' to the United States. Will it work? News Long Reads"
+      "rawText": "Next-Gen Hyundai Elantra Spied Testing with Funky New Design The new Elantra appears to have an unorthodox lighting signature, and the compact sedan should go on sale sometime next year. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a71668019-porsche-ceo-plans-more-profits-less-production",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a71668019/porsche-ceo-plans-more-profits-less-production/",
+      "headline": "Porsche's CEO Wants More Profits Despite Production Downturn",
+      "author": "",
+      "publishedAt": "2026-06-22T21:03:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "",
+      "excerpt": "Porsche CEO Michael Leiters wants the company to increase profits despite selling fewer cars, suggesting more flagships and special editions are on the way.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Porsche's CEO Wants More Profits Despite Production Downturn Porsche CEO Michael Leiters wants the company to increase profits despite selling fewer cars, suggesting more flagships and special editions are on the way. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a71668069-lucid-layoffs-production-cuts",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a71668069/lucid-layoffs-production-cuts/",
+      "headline": "Lucid Reduces Production and Lays Off 18 Percent of Its Workforce",
+      "author": "",
+      "publishedAt": "2026-06-22T20:03:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "",
+      "excerpt": "The EV maker has implemented substantial layoffs for the second time this year, and COO Marc Winterhoff has also departed the company.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Lucid Reduces Production and Lays Off 18 Percent of Its Workforce The EV maker has implemented substantial layoffs for the second time this year, and COO Marc Winterhoff has also departed the company. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a71663370-2026-pikes-peak-international-hill-climb-lessons-learned",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a71663370/2026-pikes-peak-international-hill-climb-lessons-learned/",
+      "headline": "Don't Think About It, Don't Give Up, and Other Lessons from the 2026 Pikes Peak International Hill Climb",
+      "author": "",
+      "publishedAt": "2026-06-22T18:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "",
+      "excerpt": "Good weather and bad pavement made for quick but challenging runs up the mountain.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Don't Think About It, Don't Give Up, and Other Lessons from the 2026 Pikes Peak International Hill Climb Good weather and bad pavement made for quick but challenging runs up the mountain. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a71663782-study-vehicle-hood-height-pedestrian-safety",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a71663782/study-vehicle-hood-height-pedestrian-safety/",
+      "headline": "New Study Shows That Tall Hoods Cause Hundreds of Deaths Per Year",
+      "author": "",
+      "publishedAt": "2026-06-22T17:46:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "",
+      "excerpt": "New research by the Times shows that thousands of fatal crashes involving pedestrians could have been avoided with lower hood heights and improved visibility.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "New Study Shows That Tall Hoods Cause Hundreds of Deaths Per Year New research by the Times shows that thousands of fatal crashes involving pedestrians could have been avoided with lower hood heights and improved visibility. News"
     },
     {
       "id": "car-and-driver-www-caranddriver-com-news-g29994375-future-electric-cars-trucks",
@@ -587,7 +686,7 @@
       "headline": "Future Electric Vehicles: The EVs You'll Soon Be Able to Buy",
       "author": "",
       "publishedAt": "2026-06-22T15:17:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "These EVs aren't for sale yet but are in various stages from concept to production—and perhaps a few may never see the light of day.",
       "fullTextAvailable": false,
@@ -612,7 +711,7 @@
       "headline": "Jeep Confirms the New Cherokee Will Get the Trailhawk Treatment",
       "author": "",
       "publishedAt": "2026-06-22T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "Jeep didn't give an exact timeline for when the new Trailhawk will go on sale, but it'll likely arrive for the 2027 model year.",
       "fullTextAvailable": false,
@@ -637,7 +736,7 @@
       "headline": "Mega-Miles 1983 Subaru GL 4WD Wagon For Sale on Bring a Trailer",
       "author": "",
       "publishedAt": "2026-06-21T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "This four-wheel-drive wagon has really gone the distance.",
       "fullTextAvailable": false,
@@ -662,7 +761,7 @@
       "headline": "A Lonely Island Member Bought This Sweet Dragon-Themed JDM Kei Van",
       "author": "",
       "publishedAt": "2026-06-21T13:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "Like the comedy trio's best-known work, Jorma Taccone's new van is short and hilarious.",
       "fullTextAvailable": false,
@@ -687,7 +786,7 @@
       "headline": "Koenigsegg Jesko Absolut Just Blew Two Production-Car Speed Records to Smithereens",
       "author": "",
       "publishedAt": "2026-06-20T20:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "No all-wheel-drive grip. No electric assist. No prepped-surface trickery. Just a jaw-dropping 8.54 second quarter-mile time at 190 mph.",
       "fullTextAvailable": false,
@@ -712,7 +811,7 @@
       "headline": "1979 AMC Spirit AMX on Bring a Trailer Has Trans Am Envy",
       "author": "",
       "publishedAt": "2026-06-20T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "In the late '70s, even American Motors fell under the spell of the Pontiac Trans Am.",
       "fullTextAvailable": false,
@@ -737,7 +836,7 @@
       "headline": "We Tour a Facility in China to See How EV Charging Equipment Is Made",
       "author": "",
       "publishedAt": "2026-06-19T17:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "This is where Lectron assembles its charging adapters as well as its new Nexus Level 2 home-charging unit.",
       "fullTextAvailable": false,
@@ -762,7 +861,7 @@
       "headline": "BMW Hasn't Ruled Out More Fast Wagons for the U.S.",
       "author": "",
       "publishedAt": "2026-06-19T14:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "The M5 is selling almost 50 percent in the Touring variant, and BMW is listening to what its M customers want.",
       "fullTextAvailable": false,
@@ -787,7 +886,7 @@
       "headline": "1250-HP Chevy Corvette ZR1X Is Now the Quickest Car We’ve Ever Tested",
       "author": "",
       "publishedAt": "2026-06-19T13:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "The hybrid all-wheel-drive super Vette scorches its way into the Car and Driver record books by hitting 60 mph in under 2 seconds.",
       "fullTextAvailable": false,
@@ -812,7 +911,7 @@
       "headline": "A New Mitsubishi Montero Is Coming, but Not as Soon as Expected",
       "author": "",
       "publishedAt": "2026-06-18T20:25:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "Mitsubishi plans to release updated or new models every year from now until March 2031 in North America, including the Montero and a new mid-size truck.",
       "fullTextAvailable": false,
@@ -837,7 +936,7 @@
       "headline": "Maserati Drops the Price of the Electric GranTurismo by over $57K",
       "author": "",
       "publishedAt": "2026-06-18T19:57:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "The 2027 GranTurismo will start at $141,995—still a lot of money, of course, but a huge decrease from the nearly $200K price tag in 2026.",
       "fullTextAvailable": false,
@@ -862,7 +961,7 @@
       "headline": "Slate May Have Accidentally Leaked the Price for Its Electric Truck",
       "author": "",
       "publishedAt": "2026-06-18T16:01:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "Slate's electric pickup truck could start at $24,950 if an alleged leak is accurate.",
       "fullTextAvailable": false,
@@ -887,7 +986,7 @@
       "headline": "Porsche Axes the Gorgeous Taycan Cross Turismo and Sport Turismo",
       "author": "",
       "publishedAt": "2026-06-18T15:25:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "2026 will be the final model year for the Taycan Cross Turismo and Sport Turismo, with only the Taycan sedan surviving into the 2027 model year.",
       "fullTextAvailable": false,
@@ -912,7 +1011,7 @@
       "headline": "Koenigsegg Sadair’s Spear Is Lego's Most Ambitious Technic Set Yet",
       "author": "",
       "publishedAt": "2026-06-18T13:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "Lego pulled out all the stops for the latest Technic set and then went even further by building a full-size model that you can drive.",
       "fullTextAvailable": false,
@@ -937,7 +1036,7 @@
       "headline": "2027 Maserati Grecale Gets New Base Model, More Range for the EV",
       "author": "",
       "publishedAt": "2026-06-18T08:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "The new lower-cost version of the Grecale has a twin-turbo V-6, while the electric Folgore gets improvements meant to extend its driving range.",
       "fullTextAvailable": false,
@@ -962,7 +1061,7 @@
       "headline": "2027 Maserati GranTurismo Gets More Power and a Sharper Look",
       "author": "",
       "publishedAt": "2026-06-18T08:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "The Trofeo's twin-turbo V-6 now makes 582 horsepower, a 40-hp boost, and the exhaust is meant to be more sonorous than before.",
       "fullTextAvailable": false,
@@ -987,7 +1086,7 @@
       "headline": "Land Rover Is Planning a Stellantis-Based Defender for the U.S.",
       "author": "",
       "publishedAt": "2026-06-17T20:42:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "Jaguar Land Rover announced that its partnership with Stellantis will produce a Defender for the U.S. market, as the British automaker shifts focus from China.",
       "fullTextAvailable": false,
@@ -1012,7 +1111,7 @@
       "headline": "Ford's $30,000 Electric Truck Looks Promising in First Videos",
       "author": "",
       "publishedAt": "2026-06-17T14:30:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "The $30,000 EV pickup truck is one step closer to realization with the release of a new website dedicated to its production progress.",
       "fullTextAvailable": false,
@@ -1037,7 +1136,7 @@
       "headline": "Patent Images Provide First Look at the Radical Lucid Cosmos",
       "author": "",
       "publishedAt": "2026-06-17T13:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "The American startup's third model is set to be revealed this summer and go on sale early next year as a competitor to the Rivian R2.",
       "fullTextAvailable": false,
@@ -1062,7 +1161,7 @@
       "headline": "2027 Porsche Taycan Gets Simulated Shifts, Larger Standard Battery",
       "author": "",
       "publishedAt": "2026-06-17T12:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "",
       "excerpt": "And it costs a pretty penny more than before as well.",
       "fullTextAvailable": false,
@@ -1081,16 +1180,16 @@
       "rawText": "2027 Porsche Taycan Gets Simulated Shifts, Larger Standard Battery And it costs a pretty penny more than before as well. News"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a71601580-2028-audi-a6-allroad-revealed",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a71601580/2028-audi-a6-allroad-revealed/",
-      "headline": "2028 Audi A6 Allroad Revealed with Wider Fenders, Modern Interior",
-      "author": "",
-      "publishedAt": "2026-06-16T17:18:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "",
-      "excerpt": "The high-riding A6 Allroad borrows from the RS6 Avant's widebody look, even if it doesn't pack the same sporting prowess.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-member-stories-susie-the-blue-mustang-was-a-project-that-connected-grandfa",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/member-stories/susie-the-blue-mustang-was-a-project-that-connected-grandfather-and-grandson/",
+      "headline": "“Susie the Blue Mustang” Was a Project That Connected Grandfather and Grandson",
+      "author": "\n\t\t\t\t\t\tRichard Harris\n\t\t\t\t\t",
+      "publishedAt": "2026-06-23T15:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Susie-Blue-Mustang-20250929_185558_lede.jpg",
+      "excerpt": "This story is about a 1968 Ford Mustang, but it’s really about my grandfather. Ronald Hoak, whom I call Papa, lives in Rochester, New York, and was an engineer for Kodak. He has always enjoyed collecting and tinkering with cars. Around the turn of the millennium (when I was just a toddler), Papa stumbled across [&hellip;]",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1101,21 +1200,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "2028 Audi A6 Allroad Revealed with Wider Fenders, Modern Interior The high-riding A6 Allroad borrows from the RS6 Avant's widebody look, even if it doesn't pack the same sporting prowess. News"
+      "rawText": "“Susie the Blue Mustang” Was a Project That Connected Grandfather and Grandson This story is about a 1968 Ford Mustang, but it’s really about my grandfather. Ronald Hoak, whom I call Papa, lives in Rochester, New York, and was an engineer for Kodak. He has always enjoyed collecting and tinkering with cars. Around the turn of the millennium (when I was just a toddler), Papa stumbled across [&hellip;] Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a71603485-2027-bentley-continental-mulliner-bespoke-series-details",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a71603485/2027-bentley-continental-mulliner-bespoke-series-details/",
-      "headline": "Bentley's New Special Edition Continentals Wear Dazzling Colors",
-      "author": "",
-      "publishedAt": "2026-06-16T16:40:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "",
-      "excerpt": "Bentley is building 100 units of the 2027 Bespoke Series by Mulliner, giving the Continental GT S and GT S Convertible unique interior and exterior finishes.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-market-trends-the-collector-car-market-continues-to-cool-as-summer-heats-u",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/market-trends/the-collector-car-market-continues-to-cool-as-summer-heats-up/",
+      "headline": "The Collector Car Market Continues to Cool as Summer Heats up",
+      "author": "\n\t\t\t\t\t\tAdam Wilcox\n\t\t\t\t\t",
+      "publishedAt": "2026-06-23T14:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2025/05/Zach-Bowman-Ford-F-250-HIghboy-Father-Son-Road-Trip-38-scaled.jpg",
+      "excerpt": "The Hagerty Market Rating slipped another 0.08 points this month to 58.59, its lowest reading of the quarter. The decline is modest on its face, but it continues a trend that has now persisted for much of the year: The broader collector car market continues to soften as the high-end holds firm. While the Market [&hellip;]",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1126,21 +1226,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "Bentley's New Special Edition Continentals Wear Dazzling Colors Bentley is building 100 units of the 2027 Bespoke Series by Mulliner, giving the Continental GT S and GT S Convertible unique interior and exterior finishes. News"
+      "rawText": "The Collector Car Market Continues to Cool as Summer Heats up The Hagerty Market Rating slipped another 0.08 points this month to 58.59, its lowest reading of the quarter. The decline is modest on its face, but it continues a trend that has now persisted for much of the year: The broader collector car market continues to soften as the high-end holds firm. While the Market [&hellip;] Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a71590840-2027-chevy-silverado-zr2-trail-boss-details",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a71590840/2027-chevy-silverado-zr2-trail-boss-details/",
-      "headline": "2027 Chevy Silverado ZR2 and Trail Boss Revealed with Off-Road Chops",
-      "author": "",
-      "publishedAt": "2026-06-16T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "",
-      "excerpt": "With new V-8 engines and bigger tires, Chevrolet's redesigned mud-lovin' trucks have finally debuted.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-opinion-final-parking-space-final-parking-space-400k-mile-1993-honda-civic",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/opinion/final-parking-space/final-parking-space-400k-mile-1993-honda-civic-lx-sedan/",
+      "headline": "Final Parking Space: 400K-Mile 1993 Honda Civic LX Sedan",
+      "author": "\n\t\t\t\t\t\tMurilee Martin\n\t\t\t\t\t",
+      "publishedAt": "2026-06-23T13:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/FPS-1993-Honda-Civic-LX-Sedan.jpg",
+      "excerpt": "The fifth-generation (1992–95) Honda Civic now stands with the 1932–34 Ford and 1955–57 Chevrolet as an all-time favorite of American racers, customizers, and cruisers. Since the oldest examples of the EG Civic are still just 34 years old now, plenty of them have stayed in stock form and are still doing their jobs as Point-A-to-Point-B [&hellip;]",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1151,21 +1252,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "2027 Chevy Silverado ZR2 and Trail Boss Revealed with Off-Road Chops With new V-8 engines and bigger tires, Chevrolet's redesigned mud-lovin' trucks have finally debuted. News"
+      "rawText": "Final Parking Space: 400K-Mile 1993 Honda Civic LX Sedan The fifth-generation (1992–95) Honda Civic now stands with the 1932–34 Ford and 1955–57 Chevrolet as an all-time favorite of American racers, customizers, and cruisers. Since the oldest examples of the EG Civic are still just 34 years old now, plenty of them have stayed in stock form and are still doing their jobs as Point-A-to-Point-B [&hellip;] Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a71591013-2027-chevy-silverado-1500-interior-revealed",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a71591013/2027-chevy-silverado-1500-interior-revealed/",
-      "headline": "Screens Galore: 2027 Chevy Silverado Debuts a More Modern Cabin",
-      "author": "",
-      "publishedAt": "2026-06-16T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "",
-      "excerpt": "The Silverado's fifth generation brings an interior makeover that includes a huge touchscreen and an available passenger display.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-motorsports-ride-along-in-the-ford-ev-that-just-won-the-pikes-peak-hill-cl",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/motorsports/ride-along-in-the-ford-ev-that-just-won-the-pikes-peak-hill-climb/",
+      "headline": "Ride Along in the Ford EV That Just Won the Pike’s Peak Hill Climb",
+      "author": "\n\t\t\t\t\t\tKyle Smith\n\t\t\t\t\t",
+      "publishedAt": "2026-06-22T21:24:56+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/pikes-race-desktop.jpg",
+      "excerpt": "The 104th running of the Pike&#8217;s Peak International Hill Climb took place over the weekend, and for anyone into going fast and pushing the limits—of both man and machine—there is no better spectacle to enjoy on a June weekend. The 12.42-mile course involves navigating 156 turns and ends at a final elevation above 14,000 feet. [&hellip;]",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1176,21 +1278,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "Screens Galore: 2027 Chevy Silverado Debuts a More Modern Cabin The Silverado's fifth generation brings an interior makeover that includes a huge touchscreen and an available passenger display. News"
+      "rawText": "Ride Along in the Ford EV That Just Won the Pike’s Peak Hill Climb The 104th running of the Pike&#8217;s Peak International Hill Climb took place over the weekend, and for anyone into going fast and pushing the limits—of both man and machine—there is no better spectacle to enjoy on a June weekend. The 12.42-mile course involves navigating 156 turns and ends at a final elevation above 14,000 feet. [&hellip;] Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a71593074-2027-chevy-silverado-1500-revealed",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a71593074/2027-chevy-silverado-1500-revealed/",
-      "headline": "2027 Chevy Silverado 1500 Makes Ford's F-150 and Ram's Trucks Look Old",
-      "author": "",
-      "publishedAt": "2026-06-16T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "",
-      "excerpt": "The newest Silverado debuts with bolder styling, even more interior screen acreage, and a pair of modern small-block V-8s.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-automotive-history-the-550-maranello-laid-the-groundwork-for-ferraris-next",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/automotive-history/the-550-maranello-laid-the-groundwork-for-ferraris-next-30-years/",
+      "headline": "The 550 Maranello Laid the Groundwork for Ferrari’s Next 30 Years",
+      "author": "\n\t\t\t\t\t\tNathan Chadwick\n\t\t\t\t\t",
+      "publishedAt": "2026-06-22T20:00:00+00:00",
+      "fetchedAt": "2026-06-23T15:26:08Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/1999-ferrari-550-maranello-12.jpeg",
+      "excerpt": "Some Ferraris shout, some terrify, some are perplexing, and some seem designed purely to decorate teenage bedroom walls. Then there are Ferraris like the 550 Maranello—machines that quietly remind you Maranello knows exactly how to build a grand tourer when it chooses to. When it arrived in 1996, the 550 was not merely another V-12 [&hellip;]",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1201,9 +1304,10 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "2027 Chevy Silverado 1500 Makes Ford's F-150 and Ram's Trucks Look Old The newest Silverado debuts with bolder styling, even more interior screen acreage, and a pair of modern small-block V-8s. News"
+      "rawText": "The 550 Maranello Laid the Groundwork for Ferrari’s Next 30 Years Some Ferraris shout, some terrify, some are perplexing, and some seem designed purely to decorate teenage bedroom walls. Then there are Ferraris like the 550 Maranello—machines that quietly remind you Maranello knows exactly how to build a grand tourer when it chooses to. When it arrived in 1996, the 550 was not merely another V-12 [&hellip;] Market Analysis Long Reads"
     },
     {
       "id": "hagerty-media-www-hagerty-com-media-car-profiles-the-mythron-healey-sebring-is-a-moss-and-mcqueen-racer-reborn",
@@ -1212,7 +1316,7 @@
       "headline": "The Mythron Healey Sebring Is a Moss and McQueen Racer Reborn",
       "author": "\n\t\t\t\t\t\tNik Berg\n\t\t\t\t\t",
       "publishedAt": "2026-06-22T16:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/AK0A9426-scaled.jpg",
       "excerpt": "In 1959, British Motor Corporation entered three diminutive Austin-Healey Sprites in the 12 Hours of Sebring. The cars featured unique coupe bodywork by coachbuilders Williams &amp; Pritchard and were prepared by Geoffrey Healey (the boss’s son) for the occasion. He added prototype disc brakes and Dunlop wire wheels and tires, as well as bigger SU [&hellip;]",
       "fullTextAvailable": true,
@@ -1238,7 +1342,7 @@
       "headline": "What Makes a Car an American Car?",
       "author": "\n\t\t\t\t\t\tAaron Robinson\n\t\t\t\t\t",
       "publishedAt": "2026-06-22T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/American-Flag-Blur-Vette-GettyImages-52647718-edit-scaled.jpg",
       "excerpt": "Bar bets from Pawtucket to Pismo Beach can be won with this simple question: What is the most American of vehicles in model-year 2026, as determined by the national origin of the parts and, by extension, of the taxpaying, grocery buying, family raising, mortgage-shouldering labor? Bet big and watch the jaws slacken when you answer [&hellip;]",
       "fullTextAvailable": true,
@@ -1264,7 +1368,7 @@
       "headline": "Life-Sized LEGO Koenigsegg Sets Speed Record up the Goodwood Hill",
       "author": "\n\t\t\t\t\t\tRonan Glon\n\t\t\t\t\t",
       "publishedAt": "2026-06-22T14:37:20+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/LEGO-Technic-Koenigsegg-Goodwood-Track_6-scaled.jpg",
       "excerpt": "Koenigsegg is no stranger to speed records. It has set the zero-250-zero-mph record several times. But its latest achievement is a little unexpected. The Swedish car brand has teamed up with a Danish toy brand to build a life-sized, LEGO version of the Sadair&#8217;s Spear. The finished product just set a new speed record for [&hellip;]",
       "fullTextAvailable": true,
@@ -1290,7 +1394,7 @@
       "headline": "Zelda. Again. Still. Always.",
       "author": "\n\t\t\t\t\t\tRob Siegel\n\t\t\t\t\t",
       "publishedAt": "2026-06-22T13:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Hack-Mechanic-Zelda-lede.jpg",
       "excerpt": "I’ve been down for the past couple of weeks with an odd combination of gut and back issues. It’s all minor; it’s being resolved, but I’ve been running at quarter speed, and long wrenching sessions where I’m bent over or twisting under an engine compartment have been out of the question. I wanted to take [&hellip;]",
       "fullTextAvailable": true,
@@ -1316,7 +1420,7 @@
       "headline": "In 5 Months and 12 Miles, This Enzo Gained Almost $2M",
       "author": "\n\t\t\t\t\t\tAndrew Newton\n\t\t\t\t\t",
       "publishedAt": "2026-06-20T16:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Screenshot-2026-06-17-at-12-01-17-2003-Ferrari-Enzo-1-of-1-in-Rosso-Dino-3-700-Miles-duPont-REGISTRY-Live.png",
       "excerpt": "Something is going on with Ferrari Enzos in 2026. In January, a Giallo Modena (yellow) one with a Ronald McDonald-esque red-and-yellow interior sold for $17.875M. That was four times the previous record price for the halo hypercar of the 2000s, as well as three-and-a-half times as much as the condition #1 (concours, or best in [&hellip;]",
       "fullTextAvailable": true,
@@ -1342,7 +1446,7 @@
       "headline": "1967 Imperial Crown Convertible: Mid-Century Swank",
       "author": "\n\t\t\t\t\t\tThomas Klockau\n\t\t\t\t\t",
       "publishedAt": "2026-06-20T13:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Klockau-1967-Imperial-Crown-Convertible.jpg",
       "excerpt": "I have always loved the late &#8217;60s Imperials, and while I&#8217;ve seen more than a few of the 1964–66 models, the 1967–68 versions seem to elude me. My friend Jayson Coombes has had better luck in the Imperial department the last couple of years. First, he spied the blue &#8217;68 LeBaron four-door hardtop in Knoxville, [&hellip;]",
       "fullTextAvailable": true,
@@ -1368,7 +1472,7 @@
       "headline": "10 Great Sixes from the Sixties",
       "author": "\n\t\t\t\t\t\tKyle Smith\n\t\t\t\t\t",
       "publishedAt": "2026-06-19T22:31:40+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2024/12/Slant6DodgeLancer_FinalStills_DSC06801-scaled.jpg",
       "excerpt": "Engines exist to turn potential energy into kinetic energy, and each and every engine design has a slightly different way of making that happen. Some engine designs have developed cult followings, while others have continued to chug along dutifully in the background for decades largely unappreciated. Whether a popular favorite or an underdog hero, six-cylind",
       "fullTextAvailable": true,
@@ -1394,7 +1498,7 @@
       "headline": "7 Cars We Would Keep as Garage Art",
       "author": "\n\t\t\t\t\t\tHagerty Staff\n\t\t\t\t\t",
       "publishedAt": "2026-06-19T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2023/05/GettyImages-913184582-scaled.jpg",
       "excerpt": "As any group of car enthusiasts would, our staff is constantly talking about cars: New ones, old ones, weird ones, the best color combinations we&#8217;ve seen, the ones we want to drive. Like you, we love driving. It&#8217;s hard to think of a car we wouldn&#8217;t want to drive &#8230; but we wracked our brains [&hellip;]",
       "fullTextAvailable": true,
@@ -1420,7 +1524,7 @@
       "headline": "5 Pontiac Firebirds That Deserve a Second Look",
       "author": "\n\t\t\t\t\t\tBrandan Gillogly\n\t\t\t\t\t",
       "publishedAt": "2026-06-19T13:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/1970-pontiac-firebird-formula-400.avif",
       "excerpt": "Even though the brand was shuttered over 15 years ago, Pontiac still has a big place in our hearts. GM&#8217;s fun, sporty brand got some of the most ostentatious muscle cars of the ’60s and ’70s. After the high-compression, big-horsepower V-8s of that era faded away, Pontiac pony cars brought handling and style. While sharing [&hellip;]",
       "fullTextAvailable": true,
@@ -1446,7 +1550,7 @@
       "headline": "Never Stop Driving #189: How to Watch Racing. Or Not.",
       "author": "\n\t\t\t\t\t\tLarry Webster\n\t\t\t\t\t",
       "publishedAt": "2026-06-19T12:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/NSD-189-Alt.jpg",
       "excerpt": "I didn’t watch a single lap of the 24 Hours of Le Mans last weekend. I didn’t see the Chevy Corvette triumph over Porsche, Ferrari, Aston Martin, Lexus, and more. I didn’t learn that one of the winning Corvette’s drivers, Ben Keating, is a 54-year-old Texas car dealer who didn’t start racing until he was [&hellip;]",
       "fullTextAvailable": true,
@@ -1472,7 +1576,7 @@
       "headline": "Hagerty Road of the Year 2026: Pennsylvania Route 144",
       "author": "\n\t\t\t\t\t\tLarry Webster\n\t\t\t\t\t",
       "publishedAt": "2026-06-19T12:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/2026-ROTY-144-Reduced.gif",
       "excerpt": "Packing hundreds of curves along its 109-mile length, Pennsylvania Route 144 runs&nbsp;north-south&nbsp;and&nbsp;almost perfectly&nbsp;bisects the mountainous northern half of the Keystone State. Paved nearly a century ago to provide an automobile-friendly connector to lumber and railroad towns, the road now delivers a recreational paradise. Outdoor pursuits",
       "fullTextAvailable": true,
@@ -1498,7 +1602,7 @@
       "headline": "10 Vintage Rides Racing up Pikes Peak This Weekend",
       "author": "\n\t\t\t\t\t\tChris Nelson\n\t\t\t\t\t",
       "publishedAt": "2026-06-19T11:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/LC-pikes-prac2-26-0881-classic-road-runner.jpg",
       "excerpt": "Ask any driver attempting to run the Pikes Peak International Hill Climb what their goal is, and they will undoubtedly answer, “Make it to the top.” It seems simple enough, seeing as that is the whole point of the race, but it isn’t as straightforward as it sounds; last year, 80-mph winds at the summit [&hellip;]",
       "fullTextAvailable": true,
@@ -1524,7 +1628,7 @@
       "headline": "Mid America Motorworks Decimated by Tornado, but Owners Aren’t Crying Uncle",
       "author": "\n\t\t\t\t\t\tSteven Cole Smith\n\t\t\t\t\t",
       "publishedAt": "2026-06-19T10:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Effingham-Corvette-Museum-Parts-Damage.jpg",
       "excerpt": "If you are a fan of the Chevrolet Corvette, and you haven’t heard: A tornado touched down in Effingham, Illinois, and had it been equipped with GPS and laser guidance, it could not have scored a more direct hit on Mid America Motorworks, a mecca for Corvette owners since it opened in 1974. Mid America [&hellip;]",
       "fullTextAvailable": true,
@@ -1550,7 +1654,7 @@
       "headline": "First Drive: Bovensiepen Zagato and 05 GT Point the Way Forward for Alpina’s Founding Family",
       "author": "\n\t\t\t\t\t\tGeorg Kacher\n\t\t\t\t\t",
       "publishedAt": "2026-06-18T20:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Bovensapien-Zagato-Drive-lede.jpg",
       "excerpt": "Bovensiepen no longer owns the Alpina name, but as it enters the next phase of its performance-car venture, the company&#8217;s tuning spirit lives on in two new models: the Zagato, a coachbuilt M4-based coupe, and the 800-horsepower 05 GT derived from the M5 Touring. We drove both on Austria&#8217;s Salzburgring and sat down with CEO [&hellip;]",
       "fullTextAvailable": true,
@@ -1576,7 +1680,7 @@
       "headline": "2026 Morgan Plus Four Manual: Sticking to Tradition",
       "author": "\n\t\t\t\t\t\tNik Berg\n\t\t\t\t\t",
       "publishedAt": "2026-06-18T20:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/IMG_0842-scaled.jpg",
       "excerpt": "When you drive a Morgan—any Morgan—be prepared for conversation. It’s mere moments after I park next to a pair of 1930s MGs and a Triumph that the questions begin, chief among them being “Is it still made from wood?” Yes, since you asked. The Morgan Plus Four retains a hand-cut ash frame to support its [&hellip;]",
       "fullTextAvailable": true,
@@ -1602,7 +1706,7 @@
       "headline": "The Most American Truck Is a Honda",
       "author": "\n\t\t\t\t\t\tHagerty Media\n\t\t\t\t\t",
       "publishedAt": "2026-06-18T18:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Most-American-Trucks-2026.jpg",
       "excerpt": "Depressing fact: Levi’s no longer sews a single pair of blue jeans in the United States. The state of affairs for the other defining symbol of the American worker, the pickup, is a bit less bleak, but still not what you’d think. Automakers are required by law to detail the origins of any passenger vehicle [&hellip;]",
       "fullTextAvailable": true,
@@ -1628,7 +1732,7 @@
       "headline": "Your Handy 1948–71 Morris Minor Buyer’s Guide",
       "author": "\n\t\t\t\t\t\tSam Skelton\n\t\t\t\t\t",
       "publishedAt": "2026-06-18T16:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2021/01/1960-Morris-Minor-29.jpg",
       "excerpt": "The Morris Minor has long been a collector car staple in Britain, because it played such a major role there as an everyday car. Even those who don&#8217;t describe themselves as &#8220;car people&#8221; are likely to have some connection to a Minor. In the U.S. they are far rarer, with most of the 54,000 imports [&hellip;]",
       "fullTextAvailable": true,
@@ -1654,7 +1758,7 @@
       "headline": "The Most Expensive German Cars Ever Sold at Auction",
       "author": "\n\t\t\t\t\t\tAndrew Newton\n\t\t\t\t\t",
       "publishedAt": "2026-06-18T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2024/11/1954-Mercedes-Benz-W-196-R-Stromlinienwagen_1293477-scaled.jpg",
       "excerpt": "There&#8217;s plenty of debate surrounding the question of who &#8220;invented&#8221; the automobile, but the Germans have a pretty good case with the Benz Patent Motorwagen, the first prototype of which was finished in 1885. Since then, their country has always been a leader in automotive technology, luxury motoring, and racing. &#8220;German&#8221; is prac",
       "fullTextAvailable": true,
@@ -1680,7 +1784,7 @@
       "headline": "From Commuter to Restomod, This ’71 Firebird Has the Right “Formula”",
       "author": "\n\t\t\t\t\t\tPaul Stenquist\n\t\t\t\t\t",
       "publishedAt": "2026-06-18T13:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Fraser-firebird1-e1781276645726.jpg",
       "excerpt": "I rarely run into folks who’ve hung onto a car for more than half a century. On the few occasions that I have, I usually find their automobile to be very special. Jim Fraser’s ’71 Firebird Formula 400 fits that description well. The Firebird might not exist if Jim’s dad hadn’t steered his son the [&hellip;]",
       "fullTextAvailable": true,
@@ -1706,7 +1810,7 @@
       "headline": "Surrounded by Ecstasy",
       "author": "\n\t\t\t\t\t\tChris Nelson\n\t\t\t\t\t",
       "publishedAt": "2026-06-17T17:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Rolls-Royce-RROC-AB3A2544-lede.jpg",
       "excerpt": "A soft drama unfolded on the lawn of the 74th annual Rolls-Royce Owners’ Club National Meet in Palm Springs, California, where 160 modern and vintage Bentleys and Rolls-Royces were on display. Local owner, 64-year-old Pierre Lemieux, impatiently paced up and down the fairway of the Desert Princess Country Club in 110-degree heat, sweating through his [&helli",
       "fullTextAvailable": true,
@@ -1724,136 +1828,6 @@
         "Long Reads"
       ],
       "rawText": "Surrounded by Ecstasy A soft drama unfolded on the lawn of the 74th annual Rolls-Royce Owners’ Club National Meet in Palm Springs, California, where 160 modern and vintage Bentleys and Rolls-Royces were on display. Local owner, 64-year-old Pierre Lemieux, impatiently paced up and down the fairway of the Desert Princess Country Club in 110-degree heat, sweating through his [&helli Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-opinion-mechanical-sympathy-the-best-break-from-a-big-project-is-another-p",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/opinion/mechanical-sympathy/the-best-break-from-a-big-project-is-another-project/",
-      "headline": "The Best Break from a Big Project Is Another Project",
-      "author": "\n\t\t\t\t\t\tKyle Smith\n\t\t\t\t\t",
-      "publishedAt": "2026-06-17T16:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Ms-XR250-Spacer-projects-thumb.jpg",
-      "excerpt": "In a previous life, I was regularly subjected to the odd ritual of the automotive cocktail party. Usually taking place at higher-end events (or events that want to feel higher-end), this ritual involves wandering between Rosso Corsa and Guards Red vehicles while holding an alcoholic beverage and striking up conversation. I was never particularly good [&helli",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "The Best Break from a Big Project Is Another Project In a previous life, I was regularly subjected to the odd ritual of the automotive cocktail party. Usually taking place at higher-end events (or events that want to feel higher-end), this ritual involves wandering between Rosso Corsa and Guards Red vehicles while holding an alcoholic beverage and striking up conversation. I was never particularly good [&helli Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-news-2027-chevrolet-silverado-specs-pictures",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/news/2027-chevrolet-silverado-specs-pictures/",
-      "headline": "2027 Chevrolet Silverado Gets New V-8s and More Screens",
-      "author": "\n\t\t\t\t\t\tRonan Glon\n\t\t\t\t\t",
-      "publishedAt": "2026-06-17T15:30:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/MY27_Chevrolet_Silverado_Trail-Boss-1.jpg",
-      "excerpt": "Chevy&#8217;s Silverado is a huge deal, and we&#8217;re not only talking about its size. It&#8217;s the best-selling vehicle in the General Motors portfolio, it&#8217;s one of the nation&#8217;s best-sellers, and numerous trucks and SUVs use its basic underpinnings. The new 2027 Chevrolet Silverado has big shoes to fill, then, and it sounds like it&#8217;s u",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "2027 Chevrolet Silverado Gets New V-8s and More Screens Chevy&#8217;s Silverado is a huge deal, and we&#8217;re not only talking about its size. It&#8217;s the best-selling vehicle in the General Motors portfolio, it&#8217;s one of the nation&#8217;s best-sellers, and numerous trucks and SUVs use its basic underpinnings. The new 2027 Chevrolet Silverado has big shoes to fill, then, and it sounds like it&#8217;s u Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-car-profiles-kanjo-honda-civic-culture-was-born-out-of-rebellion-and-belon",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/car-profiles/kanjo-honda-civic-culture-was-born-out-of-rebellion-and-belonging/",
-      "headline": "Kanjo Honda Civic Culture Was Born Out of Rebellion and Belonging",
-      "author": "\n\t\t\t\t\t\tBrendan McAleer\n\t\t\t\t\t",
-      "publishedAt": "2026-06-17T15:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/05/Kanjo-Civic-bmcaleer-38-scaled.jpg",
-      "excerpt": "Remember when Vin Diesel and his crew used to steal Panasonic DVD players from tractor trailers? Now, the street racers of the Fast and the Furious franchise are basically Marvel superheroes, with cars instead of capes. Once, though, Fast and Furious was all about tuned-up Hondas getting up to no good, and family. Here&#8217;s a [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "Kanjo Honda Civic Culture Was Born Out of Rebellion and Belonging Remember when Vin Diesel and his crew used to steal Panasonic DVD players from tractor trailers? Now, the street racers of the Fast and the Furious franchise are basically Marvel superheroes, with cars instead of capes. Once, though, Fast and Furious was all about tuned-up Hondas getting up to no good, and family. Here&#8217;s a [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-market-trends-bingo-city-circuit-tokyo-bay-highlights",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/market-trends/bingo-city-circuit-tokyo-bay-highlights/",
-      "headline": "6 Rare Sports Cars Crossing the Block at the Bingo City Circuit Tokyo Bay Auction",
-      "author": "\n\t\t\t\t\t\tRonan Glon\n\t\t\t\t\t",
-      "publishedAt": "2026-06-17T14:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/Porsche-935-Bingo.jpg",
-      "excerpt": "Japanese auction house Bingo is offering dozens of cars, motorcycles, and memorabilia during a sale taking place in Tokyo on June 21. Performance is the overarching theme at the Bingo City Circuit Tokyo auction; You won&#8217;t find a single adorable-looking 1960s kei car in the catalog. Instead, it&#8217;s a celebration of horsepower and pace, including [&h",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "6 Rare Sports Cars Crossing the Block at the Bingo City Circuit Tokyo Bay Auction Japanese auction house Bingo is offering dozens of cars, motorcycles, and memorabilia during a sale taking place in Tokyo on June 21. Performance is the overarching theme at the Bingo City Circuit Tokyo auction; You won&#8217;t find a single adorable-looking 1960s kei car in the catalog. Instead, it&#8217;s a celebration of horsepower and pace, including [&h Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-magazine-features-leno-reborn-in-the-usa",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/magazine-features/leno-reborn-in-the-usa/",
-      "headline": "Leno: Reborn in the USA",
-      "author": "\n\t\t\t\t\t\tJay Leno\n\t\t\t\t\t",
-      "publishedAt": "2026-06-17T13:00:00+00:00",
-      "fetchedAt": "2026-06-22T17:13:43Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/2025-Corvette-ZR1-Leno-Reuss-1.jpg",
-      "excerpt": "In the auto business, it takes a long time to earn a reputation, it takes a long time to lose it, and then it takes a long time to get it back again. Cadillac is a great example. In 1953, I believe that a Cadillac was the best car in the world. It had a [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "Leno: Reborn in the USA In the auto business, it takes a long time to earn a reputation, it takes a long time to lose it, and then it takes a long time to get it back again. Cadillac is a great example. In 1953, I believe that a Cadillac was the best car in the world. It had a [&hellip;] Market Analysis Long Reads"
     }
   ],
   "statuses": [
@@ -1861,28 +1835,28 @@
       "sourceName": "Motor1",
       "state": "ok",
       "count": 20,
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "url": "https://www.motor1.com/rss/news/all/"
     },
     {
       "sourceName": "Motor1 All Articles",
       "state": "ok",
       "count": 20,
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "url": "https://www.motor1.com/rss/articles/all/"
     },
     {
       "sourceName": "Car and Driver",
       "state": "ok",
       "count": 25,
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "url": "https://www.caranddriver.com/rss/news.xml"
     },
     {
       "sourceName": "Hagerty Media",
       "state": "ok",
       "count": 25,
-      "fetchedAt": "2026-06-22T17:13:43Z",
+      "fetchedAt": "2026-06-23T15:26:08Z",
       "url": "https://www.hagerty.com/media/feed/"
     }
   ]
