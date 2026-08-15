@@ -1,7 +1,307 @@
 {
-  "generatedAt": "2026-08-14T13:45:45Z",
+  "generatedAt": "2026-08-15T13:00:56Z",
   "sourceType": "rss-cache",
   "items": [
+    {
+      "id": "motor1-www-motor1-com-news-805053-gordon-murray-s1-v12-manual",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/805053/gordon-murray-s1-v12-manual/",
+      "headline": "GMA S1: The McLaren F1 Reborn With A 681 HP V12",
+      "author": "",
+      "publishedAt": "2026-08-15T08:15:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/9m8oWb/s3/gordon-murray-special-vehicles-s1.jpg",
+      "excerpt": "The Gordon Murray S1 turns the S1 LM into a lighter, cleaner V12 tourer with active aero, a six-speed manual, and production capped at 64 cars.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "GMA S1: The McLaren F1 Reborn With A 681 HP V12 The Gordon Murray S1 turns the S1 LM into a lighter, cleaner V12 tourer with active aero, a six-speed manual, and production capped at 64 cars. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-805052-porsche-will-build-one-off-cayenne-panamera",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/805052/porsche-will-build-one-off-cayenne-panamera/",
+      "headline": "Want A One-Off Cayenne Or Panamera? Porsche Will Make It Happen",
+      "author": "",
+      "publishedAt": "2026-08-15T01:30:54+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/ZnzXlN/s3/2009-porsche-cayenne-factor-re-comission.jpg",
+      "excerpt": "It's not just the 911—Porsche tells Motor1 that Sonderwunsch is already working on bespoke four-door projects.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Want A One-Off Cayenne Or Panamera? Porsche Will Make It Happen It's not just the 911—Porsche tells Motor1 that Sonderwunsch is already working on bespoke four-door projects. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-805043-porsche-911-gt3-manual-take-rate-carrera-s",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/805043/porsche-911-gt3-manual-take-rate-carrera-s/",
+      "headline": "911 GT3 Buyers Helped Convince Porsche To Give The Carrera S A Manual",
+      "author": "",
+      "publishedAt": "2026-08-14T21:30:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/2N4ZKK/s3/2026-porsche-911-gt3-review.jpg",
+      "excerpt": "Porsche is seeing rising demand for the manual transmission from its online fans, customers, and dealers. ",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "911 GT3 Buyers Helped Convince Porsche To Give The Carrera S A Manual Porsche is seeing rising demand for the manual transmission from its online fans, customers, and dealers.  News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-805008-street-legal-fiat-topolino",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/805008/street-legal-fiat-topolino/",
+      "headline": "You Can Make a Fiat Topolino Street Legal. Here’s How",
+      "author": "",
+      "publishedAt": "2026-08-14T19:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/9m8w20/s3/2026-fiat-topolino.jpg",
+      "excerpt": "The tiny two-seater can be used on public roads; it just needs some modifications first. And you won't have to pay extra for them.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "You Can Make a Fiat Topolino Street Legal. Here’s How The tiny two-seater can be used on public roads; it just needs some modifications first. And you won't have to pay extra for them. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-804953-lamborghini-revuelto-sv-track-focus",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/804953/lamborghini-revuelto-sv-track-focus/",
+      "headline": "Lamborghini Revuelto SV Revealed: V12 Hybrid Tuned For Track Domination",
+      "author": "",
+      "publishedAt": "2026-08-14T18:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/VzWkby/s3/lamborghini-revuelto-sv.jpg",
+      "excerpt": "Lamborghini Revuelto SV sharpens its hybrid V12 with revised aero, chassis tuning, and software changes aimed at higher cornering speeds on track.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Lamborghini Revuelto SV Revealed: V12 Hybrid Tuned For Track Domination Lamborghini Revuelto SV sharpens its hybrid V12 with revised aero, chassis tuning, and software changes aimed at higher cornering speeds on track. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-804858-porsche-911-gt2-rs-slantnose-one-off",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/804858/porsche-911-gt2-rs-slantnose-one-off/",
+      "headline": "Porsche Turned The GT2 RS Into A Modern Slantnose. It Rules",
+      "author": "",
+      "publishedAt": "2026-08-14T17:25:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/Ak367N/s3/porsche-911-gt2-rs-flachbau-one-off.jpg",
+      "excerpt": "The one-off was created through Porsche's Sonderwunsch program, and it sheds 70 pounds over the standard GT2 RS.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Porsche Turned The GT2 RS Into A Modern Slantnose. It Rules The one-off was created through Porsche's Sonderwunsch program, and it sheds 70 pounds over the standard GT2 RS. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-804870-gunther-werks-gxr-evo-debut",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/804870/gunther-werks-gxr-evo-debut/",
+      "headline": "This Street-Legal Gunther Werks Race Car Starts At Over $1.0 Million",
+      "author": "",
+      "publishedAt": "2026-08-14T16:30:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/6Z8yMX/s3/gunther-werks-gxr-evo.jpg",
+      "excerpt": "The GXR-Evo is lightweight, powerful, and perfect for chasing lap times. Just 15 examples will be built.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "This Street-Legal Gunther Werks Race Car Starts At Over $1.0 Million The GXR-Evo is lightweight, powerful, and perfect for chasing lap times. Just 15 examples will be built. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-805007-cadillac-v-one-concept-future-v-series",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/805007/cadillac-v-one-concept-future-v-series/",
+      "headline": "Cadillac's Wild New Concept Shows What's Next For V-Series",
+      "author": "",
+      "publishedAt": "2026-08-14T16:20:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/eo7J7K/s3/cadillac-v-one-concept.jpg",
+      "excerpt": "The V-One concept shares its foundation with the V-Series.R race car and has an 830-horsepower hybrid V8 engine.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Cadillac's Wild New Concept Shows What's Next For V-Series The V-One concept shares its foundation with the V-Series.R race car and has an 830-horsepower hybrid V8 engine. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-804859-ruf-ehra-revealed-specs",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/804859/ruf-ehra-revealed-specs/",
+      "headline": "RUF's New EHRA Is A 650-HP, Seven-Speed Manual Monster",
+      "author": "",
+      "publishedAt": "2026-08-14T16:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/pbJpLV/s3/ruf-ehra-21.jpg",
+      "excerpt": "RUF strikes again with a beautiful new performance car.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "RUF's New EHRA Is A 650-HP, Seven-Speed Manual Monster RUF strikes again with a beautiful new performance car. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-804190-aston-martin-valen-reveal",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/804190/aston-martin-valen-reveal/",
+      "headline": "Aston Martin's Latest Special Supercar Is A V12 Villain",
+      "author": "",
+      "publishedAt": "2026-08-14T16:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/qkYpkz/s3/aston-martin-valen.jpg",
+      "excerpt": "With 838 horsepower on tap, Aston Martin's Valen is the world's most powerful front-engine production car.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Aston Martin's Latest Special Supercar Is A V12 Villain With 838 horsepower on tap, Aston Martin's Valen is the world's most powerful front-engine production car. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-804991-mercedes-amg-gt-black-v8",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/804991/mercedes-amg-gt-black-v8/",
+      "headline": "Mercedes' New Black Series Will Use A Wild Flat-Plane V8",
+      "author": "",
+      "publishedAt": "2026-08-14T15:15:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/pbJOe1/s3/mercedes-amg-gt-black-series.jpg",
+      "excerpt": "Mercedes-AMG GT Black Series will use a new flat-plane-crank V8 and mirror the next GT3 racer while keeping the GT 63 Pro as flagship.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Mercedes' New Black Series Will Use A Wild Flat-Plane V8 Mercedes-AMG GT Black Series will use a new flat-plane-crank V8 and mirror the next GT3 racer while keeping the GT 63 Pro as flagship. News"
+    },
+    {
+      "id": "motor1-www-motor1-com-news-804977-genesis-gv90-specs-power-leaked-details",
+      "source": "Motor1",
+      "sourceUrl": "https://www.motor1.com/news/804977/genesis-gv90-specs-power-leaked-details/",
+      "headline": "Genesis' New Flagship SUV Will Be Big And Powerful",
+      "author": "",
+      "publishedAt": "2026-08-14T14:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/mMzpqe/s3/genesis-neolun-concept.jpg",
+      "excerpt": "New rumors reveal the Genesis GV90 will have 666 horsepower and measure over just 17 feet long.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Genesis' New Flagship SUV Will Be Big And Powerful New rumors reveal the Genesis GV90 will have 666 horsepower and measure over just 17 feet long. News"
+    },
     {
       "id": "motor1-www-motor1-com-news-804961-toyota-prius-architect-hiroshi-okuda",
       "source": "Motor1",
@@ -9,7 +309,7 @@
       "headline": "Prius Architect Hiroshi Okuda Dies At 93, Reshaped Toyota",
       "author": "",
       "publishedAt": "2026-08-14T13:30:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/MkgGvN/s3/toyota-prius-hybrid-first-generation.jpg",
       "excerpt": "Hiroshi Okuda’s push for local production and early hybrid investment reshaped Toyota’s strategy and helped make electrified drivetrains part of everyday driving.",
       "fullTextAvailable": false,
@@ -34,7 +334,7 @@
       "headline": "McLaren's New Supercar Brings Back The Manual After 34 Years",
       "author": "",
       "publishedAt": "2026-08-14T12:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/rKJPxP/s3/mclaren-mcl-6gt.jpg",
       "excerpt": "The McL 6GT is just a concept, but it previews a manual production car for 2028.",
       "fullTextAvailable": false,
@@ -59,7 +359,7 @@
       "headline": "Wiesmann MF5 Returns, Could It Still Hide A BMW V10?",
       "author": "",
       "publishedAt": "2026-08-14T10:15:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/XBz109/s3/wiesmann-mf5-tributo.jpg",
       "excerpt": "Wiesmann MF5 Tributo revives the MF5 name at Pebble Beach, signaling a shift back to combustion power while key engine details remain unconfirmed.",
       "fullTextAvailable": false,
@@ -84,7 +384,7 @@
       "headline": "Ford's Most Sinister Mustang Loses Its Roof But Keeps The Supercharged V8",
       "author": "",
       "publishedAt": "2026-08-14T10:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/9m8L0m/s3/ford-mustang-dark-horse-sc-convertible.jpg",
       "excerpt": "The Ford Mustang Dark Horse SC convertible pairs the 795-horsepower 5.2-liter engine with a soft top and softer suspension tune.",
       "fullTextAvailable": false,
@@ -109,7 +409,7 @@
       "headline": "Meet Mansory’s Extreme One-Off Bugatti Creations",
       "author": "",
       "publishedAt": "2026-08-14T09:10:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/Qe7pEY/s3/mansory-vivere-2026.jpg",
       "excerpt": "The two one-offs are intended for the Pebble Beach Concours d’Elegance in California",
       "fullTextAvailable": false,
@@ -134,7 +434,7 @@
       "headline": "Meet The 1,600-HP Koenigsegg CCGT1: A Race Car In Disguise",
       "author": "",
       "publishedAt": "2026-08-14T08:52:38+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/2N4XRg/s3/koenigsegg-ccgt1.jpg",
       "excerpt": "The Swedish marque presents the CCGT1, a hypercar with a twin-turbo V8 engine, a sophisticated transmission, and wild aerodynamics",
       "fullTextAvailable": false,
@@ -159,7 +459,7 @@
       "headline": "Is Porsche Planning To Kill The Taycan By 2030?",
       "author": "",
       "publishedAt": "2026-08-14T08:45:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/g4O9Nw/s3/2027-porsche-taycan.jpg",
       "excerpt": "Porsche Taycan production is reportedly slated to end by 2030, while official comments only rule out a short-term discontinuation of the electric sedan.",
       "fullTextAvailable": false,
@@ -184,7 +484,7 @@
       "headline": "Lanzante’s 850-HP McLaren F1 Tribute Roars Into Monterey",
       "author": "",
       "publishedAt": "2026-08-14T08:10:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/BXZqAm/s3/lanzante-95-59-mclaren-f1-tribute-teaser-sketch.jpg",
       "excerpt": "At Monterey Car Week, the Lanzante 95-59 turns the McLaren 750S into a three-seat F1 homage with 850 horsepower and serious aero focus.",
       "fullTextAvailable": false,
@@ -203,15 +503,15 @@
       "rawText": "Lanzante’s 850-HP McLaren F1 Tribute Roars Into Monterey At Monterey Car Week, the Lanzante 95-59 turns the McLaren 750S into a three-seat F1 homage with 850 horsepower and serious aero focus. News"
     },
     {
-      "id": "motor1-www-motor1-com-news-804901-ford-pulls-lincoln-production-china",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804901/ford-pulls-lincoln-production-china/",
-      "headline": "Ford To End China-Built Lincolns For US By 2030",
+      "id": "motor1-all-articles-www-motor1-com-features-804946-why-mercedes-benz-star-has-three-points",
+      "source": "Motor1 All Articles",
+      "sourceUrl": "https://www.motor1.com/features/804946/why-mercedes-benz-star-has-three-points/",
+      "headline": "Why Does The Mercedes-Benz Logo Have Three Points?",
       "author": "",
-      "publishedAt": "2026-08-14T07:32:15+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/Qe3rNY/s3/2024-lincoln-nautilus-hybrid-black-label.jpg",
-      "excerpt": "Lincoln Nautilus moves from China to US production in 2030, raising fresh questions about which plants, models, and hybrid plans change next.",
+      "publishedAt": "2026-08-15T13:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/40Y2NJ/s3/why-does-the-mercedes-benz-logo-have-three-points.jpg",
+      "excerpt": "That iconic Mercedes-Benz star has a surprisingly strange history, and its three points are more than a simple design choice.",
       "fullTextAvailable": false,
       "relatedVehicleIds": [
 
@@ -223,20 +523,21 @@
 
       ],
       "tags": [
-        "News"
+        "News",
+        "Long Reads"
       ],
-      "rawText": "Ford To End China-Built Lincolns For US By 2030 Lincoln Nautilus moves from China to US production in 2030, raising fresh questions about which plants, models, and hybrid plans change next. News"
+      "rawText": "Why Does The Mercedes-Benz Logo Have Three Points? That iconic Mercedes-Benz star has a surprisingly strange history, and its three points are more than a simple design choice. News Long Reads"
     },
     {
-      "id": "motor1-www-motor1-com-news-804874-czinger-21c-spyder-details-brakes-power-engine",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804874/czinger-21c-spyder-details-brakes-power-engine/",
-      "headline": "The Czinger 21C Spyder Has 1,250 HP And Very Clever Brakes",
+      "id": "motor1-all-articles-www-motor1-com-features-804932-is-awd-better-in-snow",
+      "source": "Motor1 All Articles",
+      "sourceUrl": "https://www.motor1.com/features/804932/is-awd-better-in-snow/",
+      "headline": "Why AWD Isn't The Winter Advantage You Think It Is",
       "author": "",
-      "publishedAt": "2026-08-14T07:01:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/zxJWP7/s3/czinger-21c-spyder.jpg",
-      "excerpt": "The Czinger 21C Spyder is a $2.75-million, open-top hybrid hypercar that generates 3,267 pounds of downforce at 150 mph.",
+      "publishedAt": "2026-08-15T11:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://cdn.motor1.com/images/mgl/ZnzXmZ/s3/is-awd-actually-better-in-the-snow.jpg",
+      "excerpt": "All-wheel drive can certainly help you get moving in a snowstorm, but the right tires might matter far more than the badge on your car.",
       "fullTextAvailable": false,
       "relatedVehicleIds": [
 
@@ -248,259 +549,10 @@
 
       ],
       "tags": [
-        "News"
+        "News",
+        "Long Reads"
       ],
-      "rawText": "The Czinger 21C Spyder Has 1,250 HP And Very Clever Brakes The Czinger 21C Spyder is a $2.75-million, open-top hybrid hypercar that generates 3,267 pounds of downforce at 150 mph. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-804895-lucid-gravity-gts-specs-price",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804895/lucid-gravity-gts-specs-price/",
-      "headline": "1,070-HP Lucid Gravity GT-S Turns Family SUV Into Rocket",
-      "author": "",
-      "publishedAt": "2026-08-14T06:45:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/y2l0ob/s3/lucid-gravity-gt-s.jpg",
-      "excerpt": "The Lucid Gravity GT-S delivers 1,070 horsepower, three-row seating, and U.S. pricing from $125,900 before options, taxes, and destination charges.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "1,070-HP Lucid Gravity GT-S Turns Family SUV Into Rocket The Lucid Gravity GT-S delivers 1,070 horsepower, three-row seating, and U.S. pricing from $125,900 before options, taxes, and destination charges. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-804886-ferrari-cz26-sf90-stradale",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804886/ferrari-cz26-sf90-stradale/",
-      "headline": "Ferrari CZ26 One-Off Turns SF90 Into A Radical Two-Box Supercar",
-      "author": "",
-      "publishedAt": "2026-08-14T05:57:24+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/W8Kpmg/s3/ferrari-cz26.jpg",
-      "excerpt": "Built for a single US buyer, the Ferrari CZ26 reshapes the SF90 Stradale with bespoke bodywork, aero tweaks, and a reimagined cockpit.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Ferrari CZ26 One-Off Turns SF90 Into A Radical Two-Box Supercar Built for a single US buyer, the Ferrari CZ26 reshapes the SF90 Stradale with bespoke bodywork, aero tweaks, and a reimagined cockpit. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-804864-mercedes-benz-v8-engine-producion-decaade-c63",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804864/mercedes-benz-v8-engine-producion-decaade-c63/",
-      "headline": "Mercedes Won't Stop Building V8s, But A New C63 May Not Happen  ",
-      "author": "",
-      "publishedAt": "2026-08-13T19:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/G3n62A/s3/2024-mercedes-amg-c63s-e-performance-review.jpg",
-      "excerpt": "Mercedes-Benz's head of product management thinks the V8 will be around for another decade.   ",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Mercedes Won't Stop Building V8s, But A New C63 May Not Happen   Mercedes-Benz's head of product management thinks the V8 will be around for another decade.    News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-804862-audi-suvs-help-bolster-sales",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804862/audi-suvs-help-bolster-sales/",
-      "headline": "Audi’s Sales Are Struggling. New SUVs Could Be the Answer",
-      "author": "",
-      "publishedAt": "2026-08-13T18:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/vx8Ajv/s3/2027-audi-sq9.jpg",
-      "excerpt": "The automaker has seen low sales for the last two years. A lineup of fresh SUV options could help turn that all around.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Audi’s Sales Are Struggling. New SUVs Could Be the Answer The automaker has seen low sales for the last two years. A lineup of fresh SUV options could help turn that all around. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-804217-acura-nexera-vision-concept-rdx-design",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804217/acura-nexera-vision-concept-rdx-design/",
-      "headline": "Acura's New Sports Car Concept Won't Reach Production. But Its Gorgeous Design Will",
-      "author": "",
-      "publishedAt": "2026-08-13T17:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/ojJpWb/s3/acura-nexera-concept.jpg",
-      "excerpt": "The Nexera introduces Acura’s next-gen design language, including a new lighting signature headed for future production models.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Acura's New Sports Car Concept Won't Reach Production. But Its Gorgeous Design Will The Nexera introduces Acura’s next-gen design language, including a new lighting signature headed for future production models. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-804820-ferrari-lc67-trademark-filing-adds",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804820/ferrari-lc67-trademark-filing-adds/",
-      "headline": "Ferrari Files 'LC67' Trademark. Is Another Special Model Coming?",
-      "author": "",
-      "publishedAt": "2026-08-13T15:30:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/01zBz/s3/ferrari-logo.jpg",
-      "excerpt": "Ferrari LC67 appears across cars, parts, apparel, and digital assets, signaling broad brand protection instead of a guaranteed future production model.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Ferrari Files 'LC67' Trademark. Is Another Special Model Coming? Ferrari LC67 appears across cars, parts, apparel, and digital assets, signaling broad brand protection instead of a guaranteed future production model. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-804726-2027-porsche-911-carrera-s-manual-package",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804726/2027-porsche-911-carrera-s-manual-package/",
-      "headline": "Porsche Heard You: The Manual 911 Carrera S Is Back",
-      "author": "",
-      "publishedAt": "2026-08-13T15:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/BXZEgw/s3/2027-porsche-911-carrera-s-mt-package.jpg",
-      "excerpt": "The North America-exclusive 911 Carrera S packs six gears, 473 horsepower, and loads of features.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Porsche Heard You: The Manual 911 Carrera S Is Back The North America-exclusive 911 Carrera S packs six gears, 473 horsepower, and loads of features. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-804834-2027-rivian-r1s-rit-trims-pricing-updates",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804834/2027-rivian-r1s-rit-trims-pricing-updates/",
-      "headline": "2027 Rivian R1S Finally Gets Its 'Most Requested' Interior Feature",
-      "author": "",
-      "publishedAt": "2026-08-13T14:30:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/1ZwxQ7/s3/2027-rivian-r2s.jpg",
-      "excerpt": "The 2027 Rivian R1 also has a simplified trim lineup while the starting price is unchanged for 2027.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "2027 Rivian R1S Finally Gets Its 'Most Requested' Interior Feature The 2027 Rivian R1 also has a simplified trim lineup while the starting price is unchanged for 2027. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-804732-nissan-kicks-rock-creek-reveal-price",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804732/nissan-kicks-rock-creek-reveal-price/",
-      "headline": "Nissan's Smallest SUV Gets A Rugged-ish Makeover",
-      "author": "",
-      "publishedAt": "2026-08-13T14:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/2N4XYg/s3/2027-nissan-kicks-rock-creek.jpg",
-      "excerpt": "Say Kicks Rock Creek three times as fast as you can.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Nissan's Smallest SUV Gets A Rugged-ish Makeover Say Kicks Rock Creek three times as fast as you can. News"
-    },
-    {
-      "id": "motor1-www-motor1-com-news-804816-porsche-macan-gasoline-rumors",
-      "source": "Motor1",
-      "sourceUrl": "https://www.motor1.com/news/804816/porsche-macan-gasoline-rumors/",
-      "headline": "This Camouflaged Prototype Could Be Hiding Porsche's Next Gas-Powered SUV",
-      "author": "",
-      "publishedAt": "2026-08-13T13:30:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/koGQkB/s3/2026-porsche-macan-gts.jpg",
-      "excerpt": "A strange Audi Q5 with enlarged wheel arches has been spotted. Is it the first clue about the successor to the gas Macan?",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "This Camouflaged Prototype Could Be Hiding Porsche's Next Gas-Powered SUV A strange Audi Q5 with enlarged wheel arches has been spotted. Is it the first clue about the successor to the gas Macan? News"
+      "rawText": "Why AWD Isn't The Winter Advantage You Think It Is All-wheel drive can certainly help you get moving in a snowstorm, but the right tires might matter far more than the badge on your car. News Long Reads"
     },
     {
       "id": "motor1-all-articles-www-motor1-com-features-804828-why-my-car-ac-smells-bad",
@@ -509,7 +561,7 @@
       "headline": "Your Car's AC Smells Like Wet Socks? Here's What's Causing It",
       "author": "",
       "publishedAt": "2026-08-14T13:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/9m8Lnv/s3/why-your-ac-smells-bad-when-you-turn-it-on.jpg",
       "excerpt": "Don't dismiss that funky smell from your car’s AC as random because there could be mold, mildew, or moisture inside the system.",
       "fullTextAvailable": false,
@@ -535,7 +587,7 @@
       "headline": "Your Car Isn't Stalling At Red Lights. Here's What It's Actually Doing",
       "author": "",
       "publishedAt": "2026-08-14T11:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://cdn.motor1.com/images/mgl/nAlpVo/s3/why-your-car-turns-off-at-stoplights.jpg",
       "excerpt": "No, your engine isn't stalling at the red light, it's just taking a fuel-saving break. Here's how start-stop systems work.",
       "fullTextAvailable": false,
@@ -555,15 +607,15 @@
       "rawText": "Your Car Isn't Stalling At Red Lights. Here's What It's Actually Doing No, your engine isn't stalling at the red light, it's just taking a fuel-saving break. Here's how start-stop systems work. News Long Reads"
     },
     {
-      "id": "motor1-all-articles-www-motor1-com-features-804800-what-happens-when-you-shift-into-neutral-while-driving",
-      "source": "Motor1 All Articles",
-      "sourceUrl": "https://www.motor1.com/features/804800/what-happens-when-you-shift-into-neutral-while-driving/",
-      "headline": "What Actually Happens If You Shift Into Neutral While Driving?",
+      "id": "car-and-driver-www-caranddriver-com-news-a71855326-2028-ford-ranchero-future-cars",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a71855326/2028-ford-ranchero-future-cars/",
+      "headline": "2028 Ford Fathom Is a $29,945 Electric Truck Worth Waiting For",
       "author": "",
-      "publishedAt": "2026-08-13T23:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/bgPp9j/s3/what-actually-happens-when-you-shift-into-neutral-while-driving.jpg",
-      "excerpt": "Shifting into Neutral might seem harmless, but it affects your car's braking, acceleration, and responsiveness when you need it most.",
+      "publishedAt": "2026-08-14T21:22:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "Ford has now confirmed the name and starting price of its upcoming EV that aims to change the game.",
       "fullTextAvailable": false,
       "relatedVehicleIds": [
 
@@ -575,21 +627,20 @@
 
       ],
       "tags": [
-        "News",
-        "Long Reads"
+        "News"
       ],
-      "rawText": "What Actually Happens If You Shift Into Neutral While Driving? Shifting into Neutral might seem harmless, but it affects your car's braking, acceleration, and responsiveness when you need it most. News Long Reads"
+      "rawText": "2028 Ford Fathom Is a $29,945 Electric Truck Worth Waiting For Ford has now confirmed the name and starting price of its upcoming EV that aims to change the game. News"
     },
     {
-      "id": "motor1-all-articles-www-motor1-com-features-804788-why-do-brakes-squeak",
-      "source": "Motor1 All Articles",
-      "sourceUrl": "https://www.motor1.com/features/804788/why-do-brakes-squeak/",
-      "headline": "Your Brakes Are Squeaking. Here's What Your Car Might Be Telling You",
+      "id": "car-and-driver-www-caranddriver-com-news-a73429418-gordon-murray-special-vehicles-s1-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73429418/gordon-murray-special-vehicles-s1-revealed/",
+      "headline": "Gordon Murray Strikes Again with the S1",
       "author": "",
-      "publishedAt": "2026-08-13T21:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/g4OpBw/s3/why-do-brakes-squeak.jpg",
-      "excerpt": "That annoying squeal is not always a sign that your brakes are about to fail, but here's what your car may be trying to tell you.",
+      "publishedAt": "2026-08-14T19:15:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "The new S1 from GMSV could be considered a more accessible supercar, but you still can’t have one.",
       "fullTextAvailable": false,
       "relatedVehicleIds": [
 
@@ -601,21 +652,20 @@
 
       ],
       "tags": [
-        "News",
-        "Long Reads"
+        "News"
       ],
-      "rawText": "Your Brakes Are Squeaking. Here's What Your Car Might Be Telling You That annoying squeal is not always a sign that your brakes are about to fail, but here's what your car may be trying to tell you. News Long Reads"
+      "rawText": "Gordon Murray Strikes Again with the S1 The new S1 from GMSV could be considered a more accessible supercar, but you still can’t have one. News"
     },
     {
-      "id": "motor1-all-articles-www-motor1-com-features-773137-highest-lowest-gas-prices-usa",
-      "source": "Motor1 All Articles",
-      "sourceUrl": "https://www.motor1.com/features/773137/highest-lowest-gas-prices-usa/",
-      "headline": "The Most Expensive (And Cheapest) Gas In America Right Now",
+      "id": "car-and-driver-www-caranddriver-com-news-a73396356-land-rover-defender-dakar-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73396356/land-rover-defender-dakar-revealed/",
+      "headline": "The Defender Dakar Is the Most Extreme Land Rover Yet",
       "author": "",
-      "publishedAt": "2025-09-22T18:36:01+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://cdn.motor1.com/images/mgl/KbgEZ1/s3/highest-and-lowest-gas-prices.jpg",
-      "excerpt": "Gas prices are back above the $4.00 mark the US, after dipping bellow that in July",
+      "publishedAt": "2026-08-14T19:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "This ‘design preview’ will be followed by a production model coming next year.",
       "fullTextAvailable": false,
       "relatedVehicleIds": [
 
@@ -627,10 +677,284 @@
 
       ],
       "tags": [
-        "News",
-        "Long Reads"
+        "News"
       ],
-      "rawText": "The Most Expensive (And Cheapest) Gas In America Right Now Gas prices are back above the $4.00 mark the US, after dipping bellow that in July News Long Reads"
+      "rawText": "The Defender Dakar Is the Most Extreme Land Rover Yet This ‘design preview’ will be followed by a production model coming next year. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73403892-2027-lamborghini-revuelto-sv-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73403892/2027-lamborghini-revuelto-sv-revealed/",
+      "headline": "2027 Lamborghini Revuelto SV Gains More Power and Downforce",
+      "author": "",
+      "publishedAt": "2026-08-14T18:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "The Super Veloce moniker is back, honing Lamborghini's V-12 hybrid supercar into a track-ready toy with a new fixed rear wing and manually adjustable dampers.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "2027 Lamborghini Revuelto SV Gains More Power and Downforce The Super Veloce moniker is back, honing Lamborghini's V-12 hybrid supercar into a track-ready toy with a new fixed rear wing and manually adjustable dampers. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73436440-ferrari-cz26-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73436440/ferrari-cz26-revealed/",
+      "headline": "One-Off Ferrari CZ26 Is an Ode to Retro Industrial Design",
+      "author": "",
+      "publishedAt": "2026-08-14T17:57:23+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "Ferrari completely overhauled the SF90 Stradale to give it a geometric, retro-futuristic makeover that took years to put together.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "One-Off Ferrari CZ26 Is an Ode to Retro Industrial Design Ferrari completely overhauled the SF90 Stradale to give it a geometric, retro-futuristic makeover that took years to put together. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73417176-spyker-c8-preliator-xxv-coupe-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73417176/spyker-c8-preliator-xxv-coupe-revealed/",
+      "headline": "The Spyker C8 Preliator XXV Packs a 789-HP V-8 Engine from Audi",
+      "author": "",
+      "publishedAt": "2026-08-14T17:40:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "The latest supercar from the Dutch automaker packs a 789-hp twin-turbo V-8 borrowed from Audi and hooked up to a six-speed manual.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "The Spyker C8 Preliator XXV Packs a 789-HP V-8 Engine from Audi The latest supercar from the Dutch automaker packs a 789-hp twin-turbo V-8 borrowed from Audi and hooked up to a six-speed manual. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73415606-porsche-gt2-rs-one-off-slant-nose-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73415606/porsche-gt2-rs-one-off-slant-nose-revealed/",
+      "headline": "Porsche Revives the Slant Nose with the New One-of-One Flachbau RS",
+      "author": "",
+      "publishedAt": "2026-08-14T17:25:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "No, Porsche isn’t bringing back the 935 racer, but it did build one pretty damn special 991.2 911 GT2 RS for a wealthy customer.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Porsche Revives the Slant Nose with the New One-of-One Flachbau RS No, Porsche isn’t bringing back the 935 racer, but it did build one pretty damn special 991.2 911 GT2 RS for a wealthy customer. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73403733-brabus-bodo-cabriolet-reveal",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73403733/brabus-bodo-cabriolet-reveal/",
+      "headline": "Brabus Bodo Cabriolet Arrives As the Open-Top Counterpart to the Coupe",
+      "author": "",
+      "publishedAt": "2026-08-14T17:16:02+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "The dramatic bespoke bodywork is laid over Aston Martin Vanquish mechanicals.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Brabus Bodo Cabriolet Arrives As the Open-Top Counterpart to the Coupe The dramatic bespoke bodywork is laid over Aston Martin Vanquish mechanicals. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73428070-gunther-werks-gxr-evo-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73428070/gunther-werks-gxr-evo-revealed/",
+      "headline": "Gunther Werks GXR-Evo Is a Naturally Aspirated Track Missile",
+      "author": "",
+      "publishedAt": "2026-08-14T16:30:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "The GXR-Evo is the company’s fastest naturally aspirated car yet, weighing in at just 2386 pounds and packing a Getrag six-speed manual.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Gunther Werks GXR-Evo Is a Naturally Aspirated Track Missile The GXR-Evo is the company’s fastest naturally aspirated car yet, weighing in at just 2386 pounds and packing a Getrag six-speed manual. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73424121-pebble-beach-2026-monterey-car-week-live-blog",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73424121/pebble-beach-2026-monterey-car-week-live-blog/",
+      "headline": "2026 Pebble Beach and Monterey Car Week Live Blog",
+      "author": "",
+      "publishedAt": "2026-08-14T16:23:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "For one long weekend in August, the Monterey Peninsula is home to the most interesting cars in the world. Come check it out with us.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "2026 Pebble Beach and Monterey Car Week Live Blog For one long weekend in August, the Monterey Peninsula is home to the most interesting cars in the world. Come check it out with us. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73414510-cadillac-v-one-concept-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73414510/cadillac-v-one-concept-revealed/",
+      "headline": "Cadillac V-One Concept Brings Le Mans Race Car to the Showroom",
+      "author": "",
+      "publishedAt": "2026-08-14T16:20:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "If you’d like to park an LMDh prototype car in your garage, the V-One concept shows the way.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Cadillac V-One Concept Brings Le Mans Race Car to the Showroom If you’d like to park an LMDh prototype car in your garage, the V-One concept shows the way. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73427410-ruf-ehra-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73427410/ruf-ehra-revealed/",
+      "headline": "Ruf Reveals an All-Wheel-Drive Grand Tourer Called the Ehra",
+      "author": "",
+      "publishedAt": "2026-08-14T16:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "The original grandfather of ultra-fast modified 911s has created something to take on any weather.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Ruf Reveals an All-Wheel-Drive Grand Tourer Called the Ehra The original grandfather of ultra-fast modified 911s has created something to take on any weather. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73404044-aston-martin-valen-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73404044/aston-martin-valen-revealed/",
+      "headline": "Aston Martin Valen Is a Louder, Lighter Vanquish with Mean Looks and 838 HP",
+      "author": "",
+      "publishedAt": "2026-08-14T16:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "This exclusive, 150-unit spinoff has an aggressive design, an 838-hp version of the twin-turbo V-12, and a 50 percent louder exhaust.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Aston Martin Valen Is a Louder, Lighter Vanquish with Mean Looks and 838 HP This exclusive, 150-unit spinoff has an aggressive design, an 838-hp version of the twin-turbo V-12, and a 50 percent louder exhaust. News"
+    },
+    {
+      "id": "car-and-driver-www-caranddriver-com-news-a73435712-mclaren-mcl-6gt-manual-revealed",
+      "source": "Car and Driver",
+      "sourceUrl": "https://www.caranddriver.com/news/a73435712/mclaren-mcl-6gt-manual-revealed/",
+      "headline": "Better Late Than Never: McLaren Brings Back a Manual Gearbox",
+      "author": "",
+      "publishedAt": "2026-08-14T14:29:32+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "",
+      "excerpt": "McLaren McL 6GT debuts at Car Week with three pedals and a nostalgic design.",
+      "fullTextAvailable": false,
+      "relatedVehicleIds": [
+
+      ],
+      "detectedMakes": [
+
+      ],
+      "detectedModels": [
+
+      ],
+      "tags": [
+        "News"
+      ],
+      "rawText": "Better Late Than Never: McLaren Brings Back a Manual Gearbox McLaren McL 6GT debuts at Car Week with three pedals and a nostalgic design. News"
     },
     {
       "id": "car-and-driver-www-caranddriver-com-news-a73424755-2027-ford-mustang-dark-horse-sc-convertible-revealed",
@@ -639,7 +963,7 @@
       "headline": "Ford Removes the Roof from the 795-HP V-8 Mustang Dark Horse SC",
       "author": "",
       "publishedAt": "2026-08-14T10:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "The convertible packs the same supercharged V-8 as the Dark Horse SC coupe, but it’s tuned to be a road-going GT instead of a track toy.",
       "fullTextAvailable": false,
@@ -664,7 +988,7 @@
       "headline": "Czinger Opens the Cockpit for the New $2.75 Million 21C Spyder",
       "author": "",
       "publishedAt": "2026-08-14T07:01:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "The radical 3-D-printed hypercar introduces a roadster option with a rocket-like zero-to-60-mph time.",
       "fullTextAvailable": false,
@@ -689,7 +1013,7 @@
       "headline": "A Dream No Longer: Lucid Unveils the 1070-HP Gravity GT-S",
       "author": "",
       "publishedAt": "2026-08-13T23:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "Replacing the Dream Edition, the Gravity GT-S brings the electric SUV’s top trim closer to the range-topping Sapphire line.",
       "fullTextAvailable": false,
@@ -714,7 +1038,7 @@
       "headline": "We’re the First to Drive Meyers Manx’s Groovey Vintage-Styled EV Buggy",
       "author": "",
       "publishedAt": "2026-08-13T20:36:05+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "It’s take two for the electric Meyers Manx revival, and we get a preview drive before its debut at The Quail during Monterey Car Week.",
       "fullTextAvailable": false,
@@ -739,7 +1063,7 @@
       "headline": "Brembo's New Six-Piston Calipers Are for Huge Trucks and SUVs",
       "author": "",
       "publishedAt": "2026-08-13T20:04:55+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "They're already in use on the electric Chevy Silverado RST Stars and Steel Edition pickup truck.",
       "fullTextAvailable": false,
@@ -758,38 +1082,13 @@
       "rawText": "Brembo's New Six-Piston Calipers Are for Huge Trucks and SUVs They're already in use on the electric Chevy Silverado RST Stars and Steel Edition pickup truck. News"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73424121-pebble-beach-2026-monterey-car-week-live-blog",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73424121/pebble-beach-2026-monterey-car-week-live-blog/",
-      "headline": "2026 Pebble Beach and Monterey Car Week Live Blog",
-      "author": "",
-      "publishedAt": "2026-08-13T19:41:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "For one long weekend in August, the Monterey Peninsula is home to the most interesting cars in the world. Come check it out with us.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "2026 Pebble Beach and Monterey Car Week Live Blog For one long weekend in August, the Monterey Peninsula is home to the most interesting cars in the world. Come check it out with us. News"
-    },
-    {
       "id": "car-and-driver-www-caranddriver-com-news-a73425395-2027-lincoln-nautilus-refresh-details",
       "source": "Car and Driver",
       "sourceUrl": "https://www.caranddriver.com/news/a73425395/2027-lincoln-nautilus-refresh-details/",
       "headline": "2027 Lincoln Nautilus Looks Sleeker and More Refined",
       "author": "",
       "publishedAt": "2026-08-13T19:20:09+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "Lincoln’s mid-size luxury SUV has received a makeover, with most of its styling updates displayed at the front.",
       "fullTextAvailable": false,
@@ -814,7 +1113,7 @@
       "headline": "2027 Jeep Grand Cherokee Upland Is a Trailhawk-Lite for Under $50K",
       "author": "",
       "publishedAt": "2026-08-13T18:06:31+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "This new trim level isn’t an all-out rock crawler but includes all-terrain tires and rugged-looking visuals at a more reasonable price.",
       "fullTextAvailable": false,
@@ -839,7 +1138,7 @@
       "headline": "2027 Porsche 911 Carrera S Gets Its Manual Gearbox Back",
       "author": "",
       "publishedAt": "2026-08-13T17:22:08+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "If you want more punch with your stick-shift 911 than the Carrera T, Porsche has you covered with the new Carrera S.",
       "fullTextAvailable": false,
@@ -864,7 +1163,7 @@
       "headline": "Acura Lays Out Its Vision for the Future with the Nexera Concept",
       "author": "",
       "publishedAt": "2026-08-13T17:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "The Nexera Vision concept is a low-slung supercar with an athletic stance and headlights and taillights that disappear when turned off.",
       "fullTextAvailable": false,
@@ -889,7 +1188,7 @@
       "headline": "Lincoln to Phase Out Chinese Imports, Expand U.S. Production",
       "author": "",
       "publishedAt": "2026-08-13T15:48:10+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "Beginning in 2030, Lincoln plans to phase out imports of Chinese-built models and expand its manufacturing presence in the United States.",
       "fullTextAvailable": false,
@@ -914,7 +1213,7 @@
       "headline": "2027 Nissan Kicks Rock Creek Tells the Subaru Crosstrek to Go Kick Rocks",
       "author": "",
       "publishedAt": "2026-08-13T14:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "",
       "excerpt": "This rugged-looking trim comes with standard all-wheel drive, a chunky roof rack, and an off-road drive mode.",
       "fullTextAvailable": false,
@@ -933,16 +1232,16 @@
       "rawText": "2027 Nissan Kicks Rock Creek Tells the Subaru Crosstrek to Go Kick Rocks This rugged-looking trim comes with standard all-wheel drive, a chunky roof rack, and an off-road drive mode. News"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73416782-2027-rivian-r1s-r1t-updates",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73416782/2027-rivian-r1s-r1t-updates/",
-      "headline": "<b><strong>The 2027 Rivian R1S and R1T Are Now Better at Coddling and Trail Tackling</strong></b>",
-      "author": "",
-      "publishedAt": "2026-08-13T14:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "Rivian's dynamic duo gets captain's chairs, more capable tires, and a streamlined trim hierarchy.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-motorsports-rolex-motorsports-reunion-class-spotlight-bruce-mclaren-trophy",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/motorsports/rolex-motorsports-reunion-class-spotlight-bruce-mclaren-trophy-1963-1974-can-am-usrrc-v-8s/",
+      "headline": "Rolex Motorsports Reunion Class Spotlight: Bruce McLaren Trophy 1963-1974 Can-Am USRRC V-8s",
+      "author": "\n\t\t\t\t\t\tBrandan Gillogly\n\t\t\t\t\t",
+      "publishedAt": "2026-08-15T11:05:40+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Warren-Briggs-1971-McLaren-M8E-scaled.jpg",
+      "excerpt": "There are plenty of exotic-sounding engines running during the Rolex Monterey Motorsports Reunion. The hills around WeatherTech Raceway Laguna Seca echo with wailing rotaries and tiny, turbocharged powerplants from more modern racers. Still, nothing sounds quite like a pushrod V-8 roaring with more than 800 horsepower. Even the “small” engines in this class ",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -953,21 +1252,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "The 2027 Rivian R1S and R1T Are Now Better at Coddling and Trail Tackling Rivian's dynamic duo gets captain's chairs, more capable tires, and a streamlined trim hierarchy. News"
+      "rawText": "Rolex Motorsports Reunion Class Spotlight: Bruce McLaren Trophy 1963-1974 Can-Am USRRC V-8s There are plenty of exotic-sounding engines running during the Rolex Monterey Motorsports Reunion. The hills around WeatherTech Raceway Laguna Seca echo with wailing rotaries and tiny, turbocharged powerplants from more modern racers. Still, nothing sounds quite like a pushrod V-8 roaring with more than 800 horsepower. Even the “small” engines in this class Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73416584-volkswagen-california-camper-concept",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73416584/volkswagen-california-camper-concept/",
-      "headline": "Volkswagen Is Just Taunting American Camper-Van Fans Now",
-      "author": "",
-      "publishedAt": "2026-08-12T19:52:12+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "VW’s two cool concepts include an inflatable California Beach camper and an electric ID.Buzz-based California Cruise camper.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-news-gordon-murray-special-vehicles-reveals-the-s1-a-v-12-powered-manual-e",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/news/gordon-murray-special-vehicles-reveals-the-s1-a-v-12-powered-manual-equipped-stunner/",
+      "headline": "Gordon Murray Special Vehicles Reveals the S1, a V-12-Powered, Manual-Equipped Stunner",
+      "author": "\n\t\t\t\t\t\tNathan Petroelje\n\t\t\t\t\t",
+      "publishedAt": "2026-08-14T20:36:14+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/GMSV-S1-020.jpg",
+      "excerpt": "Gordon Murray Special Vehicles (GMSV), the more bespoke division of Gordon Murray Automotive, just revealed a stunning new supercar at The Quail, a Motorsports Gathering. It&#8217;s called the S1, and it&#8217;s a V-12-powered, manual transmission-equipped beauty. The S1 &#8220;shares its family DNA&#8221; with the S1 LM, another GMSV showpiece that the firm",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -978,21 +1278,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "Volkswagen Is Just Taunting American Camper-Van Fans Now VW’s two cool concepts include an inflatable California Beach camper and an electric ID.Buzz-based California Cruise camper. News"
+      "rawText": "Gordon Murray Special Vehicles Reveals the S1, a V-12-Powered, Manual-Equipped Stunner Gordon Murray Special Vehicles (GMSV), the more bespoke division of Gordon Murray Automotive, just revealed a stunning new supercar at The Quail, a Motorsports Gathering. It&#8217;s called the S1, and it&#8217;s a V-12-powered, manual transmission-equipped beauty. The S1 &#8220;shares its family DNA&#8221; with the S1 LM, another GMSV showpiece that the firm Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73414647-mclaren-manual-supercar-teased-m6gt",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73414647/mclaren-manual-supercar-teased-m6gt/",
-      "headline": "McLaren Teases a New Car with a Manual Shifter Inspired by the M6GT",
-      "author": "",
-      "publishedAt": "2026-08-12T18:50:47+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "A social media post features a video with archival footage of Bruce McLaren’s M6GT prototype and new footage of a car with a manual shifter.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-maintenance-and-tech-inside-the-new-charger-super-bees-600-hp-inline-six-e",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/maintenance-and-tech/inside-the-new-charger-super-bees-600-hp-inline-six-engine/",
+      "headline": "Inside the New Charger Super Bee’s 600-HP H.O. Inline-Six Engine",
+      "author": "\n\t\t\t\t\t\tGrace Jarvis\n\t\t\t\t\t",
+      "publishedAt": "2026-08-14T20:30:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/super-bee-engine-bay-scaled.jpg",
+      "excerpt": "We’re always excited when an automaker announces an interesting new engine, such as the Hurricane inline-six unveiled last spring by Stellantis, the corporate owner of Chrysler, Dodge, Jeep, and Ram. We are also always excited when an automaker tasks its engineers with hopping up said engine. That’s exactly what Dodge told its engineers to do [&hellip;]",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1003,21 +1304,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "McLaren Teases a New Car with a Manual Shifter Inspired by the M6GT A social media post features a video with archival footage of Bruce McLaren’s M6GT prototype and new footage of a car with a manual shifter. News"
+      "rawText": "Inside the New Charger Super Bee’s 600-HP H.O. Inline-Six Engine We’re always excited when an automaker announces an interesting new engine, such as the Hurricane inline-six unveiled last spring by Stellantis, the corporate owner of Chrysler, Dodge, Jeep, and Ram. We are also always excited when an automaker tasks its engineers with hopping up said engine. That’s exactly what Dodge told its engineers to do [&hellip;] Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73405739-singer-louis-vuitton-911-reimaginations",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73405739/singer-louis-vuitton-911-reimaginations/",
-      "headline": "Singer Introduces Duo of Louis Vuitton 911 Reimaginations",
-      "author": "",
-      "publishedAt": "2026-08-12T17:30:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "The already premium Singer really dials up the luxury with its new partnership with LV.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-market-trends-20-eye-catching-cars-from-the-2026-mecum-harrisburg-auction",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/market-trends/20-eye-catching-cars-from-the-2026-mecum-harrisburg-auction/",
+      "headline": "20 Eye-Catching Cars from the 2026 Mecum Harrisburg Auction",
+      "author": "\n\t\t\t\t\t\tRick Carey\n\t\t\t\t\t",
+      "publishedAt": "2026-08-14T19:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/MecumHemiGTX.png",
+      "excerpt": "Mecum has done in Harrisburg what no other auction company has been able to do: Assemble a consistent series of consignment auctions in the Northeast. Barrett-Jackson tried with consignment sales at the Mohegan Sun casino in Connecticut, one of the auction world’s more friendly and accommodating auction venues. In the dim and distant past Guernsey’s, [&helli",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1028,21 +1330,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "Singer Introduces Duo of Louis Vuitton 911 Reimaginations The already premium Singer really dials up the luxury with its new partnership with LV. News"
+      "rawText": "20 Eye-Catching Cars from the 2026 Mecum Harrisburg Auction Mecum has done in Harrisburg what no other auction company has been able to do: Assemble a consistent series of consignment auctions in the Northeast. Barrett-Jackson tried with consignment sales at the Mohegan Sun casino in Connecticut, one of the auction world’s more friendly and accommodating auction venues. In the dim and distant past Guernsey’s, [&helli Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73413268-2027-kia-ev3-pricing-specs-revealed",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73413268/2027-kia-ev3-pricing-specs-revealed/",
-      "headline": "2027 Kia EV3’s Price Starts Well Below the $35,000 Mark",
-      "author": "",
-      "publishedAt": "2026-08-12T16:21:17+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "The thriftiest model is left wanting for range, but spend a little more and the EV3’s value proposition soars.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-news-porsche-911-gt2-rs-flachbau-one-off-pictures-specs",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/news/porsche-911-gt2-rs-flachbau-one-off-pictures-specs/",
+      "headline": "Porsche 911 GT2 RS Flachbau Is a One-Of-One Factory-Built Slantnose",
+      "author": "\n\t\t\t\t\t\tRonan Glon\n\t\t\t\t\t",
+      "publishedAt": "2026-08-14T17:25:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/DSCF4362-V1-Kopieren-Large.jpeg",
+      "excerpt": "There are countless ways to personalize a Porsche, ranging from selecting a wheel design to ordering a paint-to-sample color. One buyer went a lot further down the customization path than most: An anonymous collector commissioned a 911 GT2 RS-based one-off. Unveiled during Monterey Car Week, the Porsche 911 GT2 RS Flachbau is a flat-nosed tribute [&hellip;]",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1053,21 +1356,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "2027 Kia EV3’s Price Starts Well Below the $35,000 Mark The thriftiest model is left wanting for range, but spend a little more and the EV3’s value proposition soars. News"
+      "rawText": "Porsche 911 GT2 RS Flachbau Is a One-Of-One Factory-Built Slantnose There are countless ways to personalize a Porsche, ranging from selecting a wheel design to ordering a paint-to-sample color. One buyer went a lot further down the customization path than most: An anonymous collector commissioned a 911 GT2 RS-based one-off. Unveiled during Monterey Car Week, the Porsche 911 GT2 RS Flachbau is a flat-nosed tribute [&hellip;] Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73413060-2007-acura-arx-01a-hrc-honda-restored-sale-montery",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73413060/2007-acura-arx-01a-hrc-honda-restored-sale-montery/",
-      "headline": "HRC Restored This Sebring Winner and Will Help You Get It on Track",
-      "author": "",
-      "publishedAt": "2026-08-12T15:21:48+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "Honda’s new Historic Racing Program restored the 2007 Acura ARX-01a to track-ready condition and will sell the car with track support.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-news-993-based-gxr-evo-is-a-1-35m-race-car-from-gunther-werks",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/news/993-based-gxr-evo-is-a-1-35m-race-car-from-gunther-werks/",
+      "headline": "993-Based GXR-Evo Is a $1.35M Race Car from Gunther Werks",
+      "author": "\n\t\t\t\t\t\tGrace Jarvis\n\t\t\t\t\t",
+      "publishedAt": "2026-08-14T16:30:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Guntherwerks_GXR_Evo_46.jpg",
+      "excerpt": "Founded in 2017, Gunther Werks &#8220;remasters&#8221; the final generation of Porsche&#8217;s air-cooled 911 to create its own evolutions of the sports car using modern engineering and materials. The California company has built an entire menu of boutique offerings, ranging from coupe, speedster, and Turbo models to the even-racier GWR coupe, the &#8220;exp",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1078,21 +1382,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "HRC Restored This Sebring Winner and Will Help You Get It on Track Honda’s new Historic Racing Program restored the 2007 Acura ARX-01a to track-ready condition and will sell the car with track support. News"
+      "rawText": "993-Based GXR-Evo Is a $1.35M Race Car from Gunther Werks Founded in 2017, Gunther Werks &#8220;remasters&#8221; the final generation of Porsche&#8217;s air-cooled 911 to create its own evolutions of the sports car using modern engineering and materials. The California company has built an entire menu of boutique offerings, ranging from coupe, speedster, and Turbo models to the even-racier GWR coupe, the &#8220;exp Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73405047-jaguar-01-interior-revealed",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73405047/jaguar-01-interior-revealed/",
-      "headline": "Take a Peek Inside the Production Jaguar Type 01",
-      "author": "",
-      "publishedAt": "2026-08-11T23:01:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "It’s a long way from the wood and leather club room of yesterday’s Jags.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-news-cadillacs-v-one-concept-is-an-imsa-gtp-car-you-can-buy-sort-of",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/news/cadillacs-v-one-concept-is-an-imsa-gtp-car-you-can-buy-sort-of/",
+      "headline": "Cadillac’s V-One Concept Is an IMSA GTP Car You Can Buy—Sort Of",
+      "author": "\n\t\t\t\t\t\tNathan Petroelje\n\t\t\t\t\t",
+      "publishedAt": "2026-08-14T16:20:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Cadillac-V-ONE-Concept-1.jpg",
+      "excerpt": "Although it might look like it, the car pictured here is not a race car. Well, not in the &#8220;body-in-white, homologated for a series&#8221; way that we typically imagine. Meet the Cadillac V-One, a striking concept vehicle that sure seems to hint at customer-facing, privately owned versions of the company&#8217;s most cutting-edge race car. Back [&hellip",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1103,21 +1408,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "Take a Peek Inside the Production Jaguar Type 01 It’s a long way from the wood and leather club room of yesterday’s Jags. News"
+      "rawText": "Cadillac’s V-One Concept Is an IMSA GTP Car You Can Buy—Sort Of Although it might look like it, the car pictured here is not a race car. Well, not in the &#8220;body-in-white, homologated for a series&#8221; way that we typically imagine. Meet the Cadillac V-One, a striking concept vehicle that sure seems to hint at customer-facing, privately owned versions of the company&#8217;s most cutting-edge race car. Back [&hellip Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73406280-2027-chevy-express-gmc-savana-vans-touchscreen-upgrades",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73406280/2027-chevy-express-gmc-savana-vans-touchscreen-upgrades/",
-      "headline": "2027 Chevy Express and GMC Savana Vans Finally Get Touchscreens",
-      "author": "",
-      "publishedAt": "2026-08-11T20:55:19+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "GM’s aging commercial vans are getting a tech upgrade that’s been standard in most other vehicles for over a decade—a touchscreen display.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-news-aston-martin-valen-powers-into-pebble-beach",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/news/aston-martin-valen-powers-into-pebble-beach/",
+      "headline": "Aston Martin Valen Powers Into Pebble Beach",
+      "author": "\n\t\t\t\t\t\tNik Berg\n\t\t\t\t\t",
+      "publishedAt": "2026-08-14T16:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Aston-Martin-Valen_04_lede.jpg",
+      "excerpt": "Aston Martin&#8217;s Q Branch has let loose the world&#8217;s most powerful front-engined car: the Valen. The Valen makes its case for views and clicks at Car Week by boasting an 838-hp iteration of Aston&#8217;s own 5.3-liter twin-turbocharged V-12. There&#8217;s also 737 lb-ft of torque sent to the rear wheels via an eight-speed ZF automatic transmission [",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1128,21 +1434,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "2027 Chevy Express and GMC Savana Vans Finally Get Touchscreens GM’s aging commercial vans are getting a tech upgrade that’s been standard in most other vehicles for over a decade—a touchscreen display. News"
+      "rawText": "Aston Martin Valen Powers Into Pebble Beach Aston Martin&#8217;s Q Branch has let loose the world&#8217;s most powerful front-engined car: the Valen. The Valen makes its case for views and clicks at Car Week by boasting an 838-hp iteration of Aston&#8217;s own 5.3-liter twin-turbocharged V-12. There&#8217;s also 737 lb-ft of torque sent to the rear wheels via an eight-speed ZF automatic transmission [ Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73402907-marc-philipp-gemballa-marsien-gt-porsche-revealed",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73402907/marc-philipp-gemballa-marsien-gt-porsche-revealed/",
-      "headline": "The Marc Philipp Gemballa Marsien GT Is a Turbo S with Modern 959 Style",
-      "author": "",
-      "publishedAt": "2026-08-11T16:02:53+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "It's got a RUF-tuned engine that makes more than 800 horsepower and a style that blends contemporary lines with an iconic design.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-news-ruf-reveals-its-latest-the-650-hp-ehra",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/news/ruf-reveals-its-latest-the-650-hp-ehra/",
+      "headline": "RUF Reveals Its Latest: The 650-HP EHRA",
+      "author": "\n\t\t\t\t\t\tBrandan Gillogly\n\t\t\t\t\t",
+      "publishedAt": "2026-08-14T16:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/028-RUF-EHRA-HIF-081026-lede.jpg",
+      "excerpt": "RUF Automobile, the Bavarian coachbuilder behind some of the most incredible flat-six-powered sports cars ever built, pulled the wraps off its latest creation: the EHRA. Its carbon fiber body slathered in a deep Liquid Silver finish, the EHRA debuted at the Quail by The Peninsula, a Motorsports Gathering. Built on RUF&#8217;s carbon-fiber monocoque, the EHRA",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1153,21 +1460,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "The Marc Philipp Gemballa Marsien GT Is a Turbo S with Modern 959 Style It's got a RUF-tuned engine that makes more than 800 horsepower and a style that blends contemporary lines with an iconic design. News"
+      "rawText": "RUF Reveals Its Latest: The 650-HP EHRA RUF Automobile, the Bavarian coachbuilder behind some of the most incredible flat-six-powered sports cars ever built, pulled the wraps off its latest creation: the EHRA. Its carbon fiber body slathered in a deep Liquid Silver finish, the EHRA debuted at the Quail by The Peninsula, a Motorsports Gathering. Built on RUF&#8217;s carbon-fiber monocoque, the EHRA Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73403359-pabst-beer-semi-truck-giveaway",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73403359/pabst-beer-semi-truck-giveaway/",
-      "headline": "A Light-Beer Company Is Giving Away a Vintage Kenworth Semi Truck",
-      "author": "",
-      "publishedAt": "2026-08-11T16:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "Is this possibly a bad idea? Yes. Is it an incredibly fun idea? Also yes.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-events-woodward-dream-cruise-celebrating-what-we-do-in-detroit",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/events/woodward-dream-cruise-celebrating-what-we-do-in-detroit/",
+      "headline": "Woodward Dream Cruise: Celebrating What We Do in Detroit",
+      "author": "\n\t\t\t\t\t\tPaul Stenquist\n\t\t\t\t\t",
+      "publishedAt": "2026-08-14T15:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/steves2-scaled.jpg",
+      "excerpt": "Much has been written about Metro Detroit’s Dream Cruise, and a lot of it misses the forest for the trees. The oft-repeated origin story is heartwarming and true: a 1990s cruise on Woodward Avenue that started as a charity event meant to raise money for a soccer field. That cruise mimicked the auto enthusiast scene [&hellip;]",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1178,21 +1486,22 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "A Light-Beer Company Is Giving Away a Vintage Kenworth Semi Truck Is this possibly a bad idea? Yes. Is it an incredibly fun idea? Also yes. News"
+      "rawText": "Woodward Dream Cruise: Celebrating What We Do in Detroit Much has been written about Metro Detroit’s Dream Cruise, and a lot of it misses the forest for the trees. The oft-repeated origin story is heartwarming and true: a 1990s cruise on Woodward Avenue that started as a charity event meant to raise money for a soccer field. That cruise mimicked the auto enthusiast scene [&hellip;] Market Analysis Long Reads"
     },
     {
-      "id": "car-and-driver-www-caranddriver-com-news-a73402826-2025-2026-toyota-camry-recall-blank-instrument-cluster",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73402826/2025-2026-toyota-camry-recall-blank-instrument-cluster/",
-      "headline": "Toyota Recalls 500K Camrys over Blank Digital Gauge Display",
-      "author": "",
-      "publishedAt": "2026-08-11T15:29:07+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "Toyota is recalling 2025–2026 Camrys with instrument clusters that may go blank on startup and deactivate turn signals and hazard lights.",
-      "fullTextAvailable": false,
+      "id": "hagerty-media-www-hagerty-com-media-maintenance-and-tech-ready-for-anything-thousands-of-fix-its-in-a-10-pound",
+      "source": "Hagerty Media",
+      "sourceUrl": "https://www.hagerty.com/media/maintenance-and-tech/ready-for-anything-thousands-of-fix-its-in-a-10-pound-bag/",
+      "headline": "Ready for Anything: Thousands of Fix-Its in a 10-Pound Bag",
+      "author": "\n\t\t\t\t\t\tLarry Webster\n\t\t\t\t\t",
+      "publishedAt": "2026-08-14T14:00:00+00:00",
+      "fetchedAt": "2026-08-15T13:00:56Z",
+      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Tool-Kit-Travel-Bag.jpg",
+      "excerpt": "I&#8217;ve broken down on the side of the road enough times that I now obsess over what tools to bring. That includes creating my own kit. I also keep an eye out for what others pack. Someone must have the Goldilocks kit—everything you need, nothing you don’t. Turns out, though, everyone has a different definition [&hellip;]",
+      "fullTextAvailable": true,
       "relatedVehicleIds": [
 
       ],
@@ -1203,59 +1512,10 @@
 
       ],
       "tags": [
-        "News"
+        "Market Analysis",
+        "Long Reads"
       ],
-      "rawText": "Toyota Recalls 500K Camrys over Blank Digital Gauge Display Toyota is recalling 2025–2026 Camrys with instrument clusters that may go blank on startup and deactivate turn signals and hazard lights. News"
-    },
-    {
-      "id": "car-and-driver-www-caranddriver-com-news-a73395844-curated-by-cadillac-escalade-iq-revealed",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73395844/curated-by-cadillac-escalade-iq-revealed/",
-      "headline": "Curated by Cadillac Escalade IQ Is Really Expensive but Bespoke",
-      "author": "",
-      "publishedAt": "2026-08-11T13:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "For $54,995, Curated by Cadillac will let you get creative with your Escalade IQ build.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Curated by Cadillac Escalade IQ Is Really Expensive but Bespoke For $54,995, Curated by Cadillac will let you get creative with your Escalade IQ build. News"
-    },
-    {
-      "id": "car-and-driver-www-caranddriver-com-news-a73395007-eccentrica-v12-roadster-revealed",
-      "source": "Car and Driver",
-      "sourceUrl": "https://www.caranddriver.com/news/a73395007/eccentrica-v12-roadster-revealed/",
-      "headline": "Eccentrica V12 Roadster Makes the Diablo Restomod Roofless",
-      "author": "",
-      "publishedAt": "2026-08-10T21:39:20+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "",
-      "excerpt": "Maybe you've never heard of Eccentrica, but you’ve certainly heard of the Lamborghini Diablo the V12 Roadster is based on.",
-      "fullTextAvailable": false,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "News"
-      ],
-      "rawText": "Eccentrica V12 Roadster Makes the Diablo Restomod Roofless Maybe you've never heard of Eccentrica, but you’ve certainly heard of the Lamborghini Diablo the V12 Roadster is based on. News"
+      "rawText": "Ready for Anything: Thousands of Fix-Its in a 10-Pound Bag I&#8217;ve broken down on the side of the road enough times that I now obsess over what tools to bring. That includes creating my own kit. I also keep an eye out for what others pack. Someone must have the Goldilocks kit—everything you need, nothing you don’t. Turns out, though, everyone has a different definition [&hellip;] Market Analysis Long Reads"
     },
     {
       "id": "hagerty-media-www-hagerty-com-media-driving-old-trucks-are-worse-for-expeditions-thats-why-you-need-one",
@@ -1264,7 +1524,7 @@
       "headline": "Old Trucks Are Worse for Expeditions—That’s Why You Need One",
       "author": "\n\t\t\t\t\t\tNick Jaynes\n\t\t\t\t\t",
       "publishedAt": "2026-08-14T13:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Owyhee-Expedition-12-aerial.jpg",
       "excerpt": "Earlier this summer, I was in the southeast corner of Oregon exploring the Owyhee region with two of my closest friends, Coach and Winslow. Coach was in a 2024 GMC Canyon AT4X AEV Edition. Winslow was piloting his 100,000-mile 2017 Jeep Wrangler JKU Sport. And I led in my 2026 RAM 2500 Tradesman. Often called [&hellip;]",
       "fullTextAvailable": true,
@@ -1290,7 +1550,7 @@
       "headline": "Never Stop Driving #196: Monterey Auctions",
       "author": "\n\t\t\t\t\t\tLarry Webster\n\t\t\t\t\t",
       "publishedAt": "2026-08-14T12:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/NSD-196-Bugatti-Quail.jpg",
       "excerpt": "Today marks the midpoint of a critical long weekend for the upper reaches of the classic car world. Five live auctions happening across California’s Monterey Peninsula will provide a vivid snapshot of the overall market. If you want to get in on the action, you don’t have to be in California, you can just stay [&hellip;]",
       "fullTextAvailable": true,
@@ -1316,7 +1576,7 @@
       "headline": "The 2027 Dark Horse SC Convertible Is the Most Powerful Open-Air Mustang Ever",
       "author": "\n\t\t\t\t\t\tEric Weiner\n\t\t\t\t\t",
       "publishedAt": "2026-08-14T10:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Dark-Horse-SC-Convertible-lede.jpg",
       "excerpt": "The last time Ford offered a truly range-topping, bonkers-power Mustang convertible, the year was 2013. Daft Punk’s “Get Lucky” was on every radio station, and each new episode of Breaking Bad or The Walking Dead was considered appointment television. The drop-top Shelby GT500 was busy cooking rear tires thanks to its 5.8-liter, 662-hp supercharged V-8, [&he",
       "fullTextAvailable": true,
@@ -1342,7 +1602,7 @@
       "headline": "3 Winners and 3 Losers from the Classic Chevy Market",
       "author": "\n\t\t\t\t\t\tStefan Lombard\n\t\t\t\t\t",
       "publishedAt": "2026-08-13T19:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/1987-Chevy-Monte-Carlo-SS.jpg",
       "excerpt": "A couple of weeks ago, we reported on the market winners and losers from Ford in the latest Hagerty Price Guide update. This week, we&#8217;re talking about cross-town rival Chevy. The gainers haven&#8217;t gained as much, and the losers haven&#8217;t lost as much, so there&#8217;s that. Notable absences from this list include first-gen C/K pickups, [&hellip",
       "fullTextAvailable": true,
@@ -1368,7 +1628,7 @@
       "headline": "Nexera Vision Concept Hints at Acura’s Future",
       "author": "\n\t\t\t\t\t\tStefan Lombard\n\t\t\t\t\t",
       "publishedAt": "2026-08-13T17:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/01_Acura-NEXERA-Vision-Large.jpeg",
       "excerpt": "Few places are better than Monterey Car Week for manufacturers to introduce exciting new models and upcoming concepts. Acura is seizing the opportunity to do just that, and today at The Quail, a Motorsports Gathering, the Japanese carmaker unveiled the Nexera Vision concept. The car introduces the world to the new exterior and interior design [&hellip;]",
       "fullTextAvailable": true,
@@ -1394,7 +1654,7 @@
       "headline": "5 Tiers of Project Car “Upgrades”",
       "author": "\n\t\t\t\t\t\tKyle Smith\n\t\t\t\t\t",
       "publishedAt": "2026-08-13T16:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/02/A9_07071-scaled.jpg",
       "excerpt": "The vast majority of vintage cars are project cars. Whether intentional by the owner or not, keeping up with old iron requires periodic projects and upkeep. While there are always places or ways to spend our hard-earned money on a project, some expenditures may prove more worthwhile than others. Not everything is black and white [&hellip;]",
       "fullTextAvailable": true,
@@ -1420,7 +1680,7 @@
       "headline": "911 Carrera S MT Package Finally Brings Back the Manual",
       "author": "\n\t\t\t\t\t\tRonan Glon\n\t\t\t\t\t",
       "publishedAt": "2026-08-13T15:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/AUBERGINE_911_CARRERA_S_MANUAL_001_DSC02248-R-scaled.jpg",
       "excerpt": "When it launched the updated 992.2-generation model for the 2025 model year, Porsche made the 911 Carrera and 911 Carrera S available only with automatic transmissions. While the base car remains only available with two pedals, the new MT Package brings the stick back to the S trim. Offering a three-pedal option might sound like [&hellip;]",
       "fullTextAvailable": true,
@@ -1446,7 +1706,7 @@
       "headline": "’65 Mustang Pace Car Edition Seeks Another 44 Years of Loving Ownership",
       "author": "\n\t\t\t\t\t\tSajeev Mehta\n\t\t\t\t\t",
       "publishedAt": "2026-08-13T14:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/1965-mustang-pace-car.jpg",
       "excerpt": "While it&#8217;s standard practice to refer to early builds of Ford&#8217;s iconic 1965 Mustang as 1964.5 models, that&#8217;s technically not true. There&#8217;s a &#8220;5&#8221; in the VIN to exclaim to all observers that these Mustangs are, in fact, of the 1965 model year. But there&#8217;s just something about the 1965 Mustang Pace Car, as it [&hellip;]",
       "fullTextAvailable": true,
@@ -1472,7 +1732,7 @@
       "headline": "Neon Rides Shines a Light on Wild Vehicles from the Radwood Era",
       "author": "\n\t\t\t\t\t\tMatteo Licata\n\t\t\t\t\t",
       "publishedAt": "2026-08-13T13:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/06/NeonRides-lede.jpg",
       "excerpt": "“What will remain of the 1980s?” That’s the question the Italian pop singer and songwriter Raf, best known for the 1983 hit “Self Control” (you may be familiar with Laura Branigan’s version, which ranked fourth on Billboard’s Top 100 the same year), asked in a single released in Italy in February 1989. Back then, it [&hellip;]",
       "fullTextAvailable": true,
@@ -1498,7 +1758,7 @@
       "headline": "My LS-Swapped Corvette Returns to Jackstands",
       "author": "\n\t\t\t\t\t\tKyle Smith\n\t\t\t\t\t",
       "publishedAt": "2026-08-13T12:30:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Ms-diff-teardown-thumb.jpg",
       "excerpt": "My 1985 LS-swap Corvette project exists because I wanted a sporty two-door with 400 horsepower at the tire, a manual transmission, and no nannies. In short, I wanted a gen-two SRT-10 Viper coupe. (Yes, I&#8217;ve spent a lot of time thinking about this. No, I can&#8217;t afford one.) However, after 20 years of owning project [&hellip;]",
       "fullTextAvailable": true,
@@ -1524,7 +1784,7 @@
       "headline": "5 Classic Chargers (and a Coronet) to Celebrate the Model’s 60th",
       "author": "\n\t\t\t\t\t\tGrace Jarvis\n\t\t\t\t\t",
       "publishedAt": "2026-08-12T20:04:47+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/SPP_7639.jpg",
       "excerpt": "Today, we know the Dodge Charger—vintage and modern—as a performance car with serious street cred. Did you know that when the concept version debuted in 1965, the Detroit Free Press was most impressed by its &#8220;futuristic streamlining&#8221;? A year later, when the nearly identical production version debuted, newspaper ads proclaimed it the &#8220;fabulo",
       "fullTextAvailable": true,
@@ -1550,7 +1810,7 @@
       "headline": "8 Cars We Dream of Taking to the Track",
       "author": "\n\t\t\t\t\t\tHagerty Staff\n\t\t\t\t\t",
       "publishedAt": "2026-08-12T18:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2023/08/Monterey-Historics-S1-41.jpg",
       "excerpt": "There is nothing quite like experiencing a car unbridled on a race track. Getting the chance to really open it up and push a machine, limited only by physics and fear, is the sort of activity that starts seeping into your brain stem and altering your worldview about two seconds after your first pit-out. With [&hellip;]",
       "fullTextAvailable": true,
@@ -1576,7 +1836,7 @@
       "headline": "Route 66 in a New Yorker: Nine Days, Eight States, and Two Transmissions",
       "author": "\n\t\t\t\t\t\tBrandan Gillogly\n\t\t\t\t\t",
       "publishedAt": "2026-08-12T16:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/1973-Chrysler-New-Yorker-Route-66-car-to-car-2-scaled-lede.jpg",
       "excerpt": "When we learned about the trip that Markku Jaakkola and Jacob Gilbert had planned, we were envious. The two friends devised to set out from Detroit in a 1973 Chrysler New Yorker to drive the length of Route 66, or as much of it as still exists. The big Mopar had been owned by Hans [&hellip;]",
       "fullTextAvailable": true,
@@ -1602,7 +1862,7 @@
       "headline": "This 1963 Studebaker Avanti R2 Deserves a Revival",
       "author": "\n\t\t\t\t\t\tNathan Petroelje\n\t\t\t\t\t",
       "publishedAt": "2026-08-12T15:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/1963-Studebaker-Avanti-R2-8.jpg",
       "excerpt": "It&#8217;s hard to imagine the fervor with which Raymond Loewy, Bob Andrews, and Tom Kellogg must have worked to drum up the Studebaker Avanti in just 40 days. The car, which was wild for the time and has an even wilder effect all these years since its mid-&#8217;60s appearance, looked like almost nothing else on [&hellip;]",
       "fullTextAvailable": true,
@@ -1620,292 +1880,6 @@
         "Long Reads"
       ],
       "rawText": "This 1963 Studebaker Avanti R2 Deserves a Revival It&#8217;s hard to imagine the fervor with which Raymond Loewy, Bob Andrews, and Tom Kellogg must have worked to drum up the Studebaker Avanti in just 40 days. The car, which was wild for the time and has an even wilder effect all these years since its mid-&#8217;60s appearance, looked like almost nothing else on [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-news-eccentrica-v12-roadster-restomod-diablo-specs-pictures",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/news/eccentrica-v12-roadster-restomod-diablo-specs-pictures/",
-      "headline": "Eccentrica V12 Roadster Is a Lamborghini Diablo VT for the 2020s",
-      "author": "\n\t\t\t\t\t\tRonan Glon\n\t\t\t\t\t",
-      "publishedAt": "2026-08-12T14:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/1786372271376.jpg",
-      "excerpt": "Italian carmaker Eccentrica made a splash when it unveiled a Lamborghini Diablo-based restomod in 2023. Fast-forward to 2026, and the brand traveled to Monterey Car Week to show its second car, a Diablo-based convertible called Eccentrica V12 Roadster. Like the coupe, the V12 Roadster was developed as a modern interpretation of the Diablo. Eccentrica tells [",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "Eccentrica V12 Roadster Is a Lamborghini Diablo VT for the 2020s Italian carmaker Eccentrica made a splash when it unveiled a Lamborghini Diablo-based restomod in 2023. Fast-forward to 2026, and the brand traveled to Monterey Car Week to show its second car, a Diablo-based convertible called Eccentrica V12 Roadster. Like the coupe, the V12 Roadster was developed as a modern interpretation of the Diablo. Eccentrica tells [ Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-great-reads-how-darryl-cuttells-would-be-ihra-empire-came-crashing-down",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/great-reads/how-darryl-cuttells-would-be-ihra-empire-came-crashing-down/",
-      "headline": "How Darryl Cuttell’s Would-Be IHRA Empire Came Crashing Down",
-      "author": "\n\t\t\t\t\t\tSteven Cole Smith\n\t\t\t\t\t",
-      "publishedAt": "2026-08-12T13:30:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/07/IHRA-Opener.jpg",
-      "excerpt": "If we define “failure” for a long-struggling drag racing series as passing ownership of said series along to somebody else because you no longer want to deal with it, here’s the shorthand for the 56-year history of the International Hot Rod Association: Fail. Fail. Fail. Fail. Fail. Fail. Fail. Fail. Fail. Fail. We boldfaced that [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "How Darryl Cuttell’s Would-Be IHRA Empire Came Crashing Down If we define “failure” for a long-struggling drag racing series as passing ownership of said series along to somebody else because you no longer want to deal with it, here’s the shorthand for the 56-year history of the International Hot Rod Association: Fail. Fail. Fail. Fail. Fail. Fail. Fail. Fail. Fail. Fail. We boldfaced that [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-advice-how-to-organize-a-driving-rally-and-why-you-should",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/advice/how-to-organize-a-driving-rally-and-why-you-should/",
-      "headline": "How to Organize a Driving Rally (And Why You Should)",
-      "author": "\n\t\t\t\t\t\tJoe DeMatio\n\t\t\t\t\t",
-      "publishedAt": "2026-08-12T13:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Rally-Organize-Alt-289A4971_v1.jpg",
-      "excerpt": "We&#8217;re hoping our third annual Road of the Year article already has you thinking about gathering up a group of your car friends and driving somewhere outside the county line. Whether it’s a simple out-and-back day trip or a multi-night excursion, there’s no better way to get away from the daily grind—and to strengthen friendships, and build new ones—tha",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "How to Organize a Driving Rally (And Why You Should) We&#8217;re hoping our third annual Road of the Year article already has you thinking about gathering up a group of your car friends and driving somewhere outside the county line. Whether it’s a simple out-and-back day trip or a multi-night excursion, there’s no better way to get away from the daily grind—and to strengthen friendships, and build new ones—tha Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-events-gallery-the-woodward-avenue-antics-of-roadkill-nights-2026",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/events/gallery-the-woodward-avenue-antics-of-roadkill-nights-2026/",
-      "headline": "Gallery: The Woodward Avenue Antics of Roadkill Nights 2026",
-      "author": "\n\t\t\t\t\t\tGrace Jarvis\n\t\t\t\t\t",
-      "publishedAt": "2026-08-11T22:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/SP8_5987-1.jpg",
-      "excerpt": "Last Saturday was a beautiful day for street racing on Detroit&#8217;s famous Woodward Avenue. That sentence would be highly suspect any other weekend of the year, but on August 8, the town of Pontiac, Michigan—with law enforcement and emergency services on-hand—hosted the MotorTrend Roadkill Nights Powered by Dodge, the street-legal drag-racing festival fir",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "Gallery: The Woodward Avenue Antics of Roadkill Nights 2026 Last Saturday was a beautiful day for street racing on Detroit&#8217;s famous Woodward Avenue. That sentence would be highly suspect any other weekend of the year, but on August 8, the town of Pontiac, Michigan—with law enforcement and emergency services on-hand—hosted the MotorTrend Roadkill Nights Powered by Dodge, the street-legal drag-racing festival fir Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-market-trends-the-tvr-cerbera-did-everything-the-hard-way-which-makes-it-w",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/market-trends/the-tvr-cerbera-did-everything-the-hard-way-which-makes-it-worth-importing/",
-      "headline": "The TVR Cerbera Did Everything the Hard Way, Which Makes It Worth Importing",
-      "author": "\n\t\t\t\t\t\tJames Mills\n\t\t\t\t\t",
-      "publishedAt": "2026-08-11T21:23:23+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2024/10/final-6716.jpg",
-      "excerpt": "If you were to ever fully understand the world of TVR, Britain’s much-missed sports car underdog, you had to visit Blackpool. The seaside town on Lancashire’s west coast has long been down-at-heel, a poster child for deprivation that feeds off kiss-me-quick tourism like the gulls tussle over fish-and-chip scraps. Employment has been hard to come [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "The TVR Cerbera Did Everything the Hard Way, Which Makes It Worth Importing If you were to ever fully understand the world of TVR, Britain’s much-missed sports car underdog, you had to visit Blackpool. The seaside town on Lancashire’s west coast has long been down-at-heel, a poster child for deprivation that feeds off kiss-me-quick tourism like the gulls tussle over fish-and-chip scraps. Employment has been hard to come [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-car-profiles-homegrown-33-ford-hot-rod-with-factory-five-racing-bones",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/car-profiles/homegrown-33-ford-hot-rod-with-factory-five-racing-bones/",
-      "headline": "Homegrown: ’33 Ford Hot Rod with Factory Five Racing Bones",
-      "author": "\n\t\t\t\t\t\tDon Sherman\n\t\t\t\t\t",
-      "publishedAt": "2026-08-11T19:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Sherman-Factory-Five-Hot-Rod-1-v2.jpg",
-      "excerpt": "Savvy craftsmen know there are many ways to achieve the car of one’s dreams. Martii Hannula, 74, explains why he selected a kit from Factory Five Racing to start his ’33 Ford hot rod project: “I liked the fact that so many high-quality components were included. I thought the chassis design was excellent and since [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "Homegrown: ’33 Ford Hot Rod with Factory Five Racing Bones Savvy craftsmen know there are many ways to achieve the car of one’s dreams. Martii Hannula, 74, explains why he selected a kit from Factory Five Racing to start his ’33 Ford hot rod project: “I liked the fact that so many high-quality components were included. I thought the chassis design was excellent and since [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-driving-4-vintage-off-roaders-that-embody-slow-baja",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/driving/4-vintage-off-roaders-that-embody-slow-baja/",
-      "headline": "4 Vintage Off-Roaders That Embody Slow Baja",
-      "author": "\n\t\t\t\t\t\tChris Collard\n\t\t\t\t\t",
-      "publishedAt": "2026-08-11T18:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Slow-Baja-112_v1.jpg",
-      "excerpt": "Michael Emery realized his “a job driving around Baja” dream. After he launched a podcast about the Slow Baja lifestyle—off-roading by taking it easy, using paper maps, stopping to smell the desert flowers and eat the local tacos—the guys at the NORRA Mexican 1000 asked him to guide their noncompetitive trip for street-legal vehicles. A [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "4 Vintage Off-Roaders That Embody Slow Baja Michael Emery realized his “a job driving around Baja” dream. After he launched a podcast about the Slow Baja lifestyle—off-roading by taking it easy, using paper maps, stopping to smell the desert flowers and eat the local tacos—the guys at the NORRA Mexican 1000 asked him to guide their noncompetitive trip for street-legal vehicles. A [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-great-reads-go-slow-and-say-hello-celebrating-50-years-of-the-baja-500-wit",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/great-reads/go-slow-and-say-hello-celebrating-50-years-of-the-baja-500-with-vintage-iron/",
-      "headline": "Go Slow and Say Hello: Celebrating 50 Years of the Baja 500 with Vintage Iron",
-      "author": "\n\t\t\t\t\t\tChris Collard\n\t\t\t\t\t",
-      "publishedAt": "2026-08-11T17:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Slow-Baja-075_v1.jpg",
-      "excerpt": "We bounced along a thin ribbon of hardpack, a safe zone in the expanses of a salt flat known as Laguna del Diablo, or Lagoon of the Devil. Small tornadoes of silt caught in tailpipe vortices behind my Jeep spun through the cockpit like a sack of flour escaping from a blender. Beyond the hood, [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "Go Slow and Say Hello: Celebrating 50 Years of the Baja 500 with Vintage Iron We bounced along a thin ribbon of hardpack, a safe zone in the expanses of a salt flat known as Laguna del Diablo, or Lagoon of the Devil. Small tornadoes of silt caught in tailpipe vortices behind my Jeep spun through the cockpit like a sack of flour escaping from a blender. Beyond the hood, [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-lists-5-wildly-different-trucks-reveal-the-scope-of-mopars-direct-connecti",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/lists/5-wildly-different-trucks-reveal-the-scope-of-mopars-direct-connection-catalog/",
-      "headline": "5 Wildly Different Trucks Reveal the Scope of Mopar’s Direct Connection Catalog",
-      "author": "\n\t\t\t\t\t\tGrace Jarvis\n\t\t\t\t\t",
-      "publishedAt": "2026-08-11T16:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/IMG_6776-1.jpg",
-      "excerpt": "It&#8217;s only appropriate that Brian Szalk, the man in charge of Ram&#8217;s factory-backed parts catalog, is restoring—and modifying—one of the earliest muscle trucks. His 1978 Dodge Li&#8217;l Red Express, which he bought in pieces, is getting a driveline transplant courtesy of a rear-ended 2017 Ram 1500, which is donating its 5.7-liter engine and eight-",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "5 Wildly Different Trucks Reveal the Scope of Mopar’s Direct Connection Catalog It&#8217;s only appropriate that Brian Szalk, the man in charge of Ram&#8217;s factory-backed parts catalog, is restoring—and modifying—one of the earliest muscle trucks. His 1978 Dodge Li&#8217;l Red Express, which he bought in pieces, is getting a driveline transplant courtesy of a rear-ended 2017 Ram 1500, which is donating its 5.7-liter engine and eight- Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-hagerty-community-according-to-you-crazy-auto-parts-recycling-stories",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/hagerty-community/according-to-you-crazy-auto-parts-recycling-stories/",
-      "headline": "According To You: Crazy Auto Parts Recycling Stories",
-      "author": "\n\t\t\t\t\t\tSajeev Mehta\n\t\t\t\t\t",
-      "publishedAt": "2026-08-11T15:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/02/DIY-car-parts-lamp-10-scaled.jpg",
-      "excerpt": "Creativity is all around us. We see it when Mother Nature ensures that a plant grows in the cracks of broken concrete, and when a child draws something that came from their fertile mind. It should come as no surprise that car enthusiasts can do the same. We asked how you made something creative out [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "According To You: Crazy Auto Parts Recycling Stories Creativity is all around us. We see it when Mother Nature ensures that a plant grows in the cracks of broken concrete, and when a child draws something that came from their fertile mind. It should come as no surprise that car enthusiasts can do the same. We asked how you made something creative out [&hellip;] Market Analysis Long Reads"
-    },
-    {
-      "id": "hagerty-media-www-hagerty-com-media-news-gordon-murray-special-vehicles-new-model-unveiling-monterey-car-week",
-      "source": "Hagerty Media",
-      "sourceUrl": "https://www.hagerty.com/media/news/gordon-murray-special-vehicles-new-model-unveiling-monterey-car-week/",
-      "headline": "Gordon Murray Special Vehicles Previews Its Next Supercar",
-      "author": "\n\t\t\t\t\t\tRonan Glon\n\t\t\t\t\t",
-      "publishedAt": "2026-08-11T14:00:00+00:00",
-      "fetchedAt": "2026-08-14T13:45:45Z",
-      "imageUrl": "https://media.hagerty.com/media/wp-content/uploads/2026/08/Gordon_Murray_Release_Teaser.jpg",
-      "excerpt": "After his Le Mans GTR reached a major milestone in France last month, renowned road- and race-car designer Gordon Murray is headed to Monterey Car Week in California to unveil a new car. The model was designed by his company&#8217;s Special Vehicles division, so it should be even more extreme than the already high-performance cars [&hellip;]",
-      "fullTextAvailable": true,
-      "relatedVehicleIds": [
-
-      ],
-      "detectedMakes": [
-
-      ],
-      "detectedModels": [
-
-      ],
-      "tags": [
-        "Market Analysis",
-        "Long Reads"
-      ],
-      "rawText": "Gordon Murray Special Vehicles Previews Its Next Supercar After his Le Mans GTR reached a major milestone in France last month, renowned road- and race-car designer Gordon Murray is headed to Monterey Car Week in California to unveil a new car. The model was designed by his company&#8217;s Special Vehicles division, so it should be even more extreme than the already high-performance cars [&hellip;] Market Analysis Long Reads"
     }
   ],
   "statuses": [
@@ -1913,28 +1887,28 @@
       "sourceName": "Motor1",
       "state": "ok",
       "count": 20,
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "url": "https://www.motor1.com/rss/news/all/"
     },
     {
       "sourceName": "Motor1 All Articles",
       "state": "ok",
       "count": 20,
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "url": "https://www.motor1.com/rss/articles/all/"
     },
     {
       "sourceName": "Car and Driver",
       "state": "ok",
       "count": 25,
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "url": "https://www.caranddriver.com/rss/news.xml"
     },
     {
       "sourceName": "Hagerty Media",
       "state": "ok",
       "count": 25,
-      "fetchedAt": "2026-08-14T13:45:45Z",
+      "fetchedAt": "2026-08-15T13:00:56Z",
       "url": "https://www.hagerty.com/media/feed/"
     }
   ]
